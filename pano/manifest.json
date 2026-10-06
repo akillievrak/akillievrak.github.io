@@ -1,0 +1,165 @@
+{
+ "surum": 2,
+ "guncelleme": "2026-10-06",
+ "paketler": [
+  {
+   "id": "etkinlik-rehberi",
+   "baslik": "Etkinlik Rehberi 2026-2027",
+   "aciklama": "Proje Uygulama Kılavuzundaki 52 etkinlik, kademe kademe ve kılavuz sayfa numaralarıyla (okul öncesi 6, ilkokul/ortaokul 25, lise 21).",
+   "kapak": "kapak/etkinlik-rehberi.jpg",
+   "aktif": true,
+   "dosyalar": [
+    {
+     "ad": "Etkinlik Rehberi",
+     "pdf": "pdf/etkinlik-rehberi.pdf",
+     "sayfa": 18,
+     "boyutMB": 5.8
+    }
+   ]
+  },
+  {
+   "id": "orhun-yazitlari",
+   "baslik": "Orhun Yazıtları Pano Seti",
+   "aciklama": "Kül Tigin, Bilge Kağan ve Tonyukuk yazıtları, Göktürk alfabesi ve Thomsen; gerçek fotoğraflı 13 pano kartı.",
+   "kapak": "kapak/orhun-yazitlari.jpg",
+   "aktif": true,
+   "dosyalar": [
+    {
+     "ad": "Orhun Yazıtları Pano Seti",
+     "pdf": "pdf/orhun-yazitlari.pdf",
+     "sayfa": 13,
+     "boyutMB": 11.6
+    }
+   ]
+  },
+  {
+   "id": "dz-afisleri",
+   "baslik": "Dilimizin Zenginlikleri Afişleri",
+   "aciklama": "Her kademe için ayrı 10'ar afiş: okul öncesi, ilkokul, ortaokul, lise.",
+   "kapak": "kapak/afis-ilkokul.jpg",
+   "aktif": true,
+   "dosyalar": [
+    {
+     "ad": "Okul Öncesi",
+     "pdf": "pdf/afis-okul-oncesi.pdf",
+     "sayfa": 10,
+     "boyutMB": 1.9
+    },
+    {
+     "ad": "İlkokul",
+     "pdf": "pdf/afis-ilkokul.pdf",
+     "sayfa": 10,
+     "boyutMB": 1.9
+    },
+    {
+     "ad": "Ortaokul",
+     "pdf": "pdf/afis-ortaokul.pdf",
+     "sayfa": 10,
+     "boyutMB": 1.9
+    },
+    {
+     "ad": "Lise",
+     "pdf": "pdf/afis-lise.pdf",
+     "sayfa": 10,
+     "boyutMB": 1.9
+    }
+   ]
+  },
+  {
+   "id": "yoresel-nostaljik",
+   "baslik": "Yöresel ve Nostaljik Afişler",
+   "aciklama": "Kilim motifli atasözü afişleri ve nostaljik tarzda dil afişleri.",
+   "kapak": "kapak/yoresel-afisler.jpg",
+   "aktif": true,
+   "dosyalar": [
+    {
+     "ad": "Yöresel Atasözü Afişleri",
+     "pdf": "pdf/yoresel-afisler.pdf",
+     "sayfa": 10,
+     "boyutMB": 4.1
+    },
+    {
+     "ad": "Nostaljik Afişler",
+     "pdf": "pdf/nostaljik-afisler.pdf",
+     "sayfa": 10,
+     "boyutMB": 3.3
+    }
+   ]
+  },
+  {
+   "id": "harf-flamalari",
+   "baslik": "Harf Flamaları",
+   "aciklama": "Sınıf ve koridor için alfabe flamaları.",
+   "kapak": "kapak/harf-flamasi.jpg",
+   "aktif": true,
+   "dosyalar": [
+    {
+     "ad": "Harf Flaması",
+     "pdf": "pdf/harf-flamasi.pdf",
+     "sayfa": 11,
+     "boyutMB": 2.6
+    },
+    {
+     "ad": "Yöresel Harf Flaması",
+     "pdf": "pdf/yoresel-harf-flamasi.pdf",
+     "sayfa": 11,
+     "boyutMB": 3.4
+    }
+   ]
+  },
+  {
+   "id": "bilen-oturur",
+   "baslik": "Bilen Oturur Oyunu",
+   "aciklama": "İlkokul ve ortaokul oyun kartları ile oyunun başarı köşesi seti.",
+   "kapak": "kapak/bilen-oturur-ilkokul.jpg",
+   "aktif": true,
+   "dosyalar": [
+    {
+     "ad": "Oyun Kartları (İlkokul)",
+     "pdf": "pdf/bilen-oturur-ilkokul.pdf",
+     "sayfa": 27,
+     "boyutMB": 6.6
+    },
+    {
+     "ad": "Oyun Kartları (Ortaokul)",
+     "pdf": "pdf/bilen-oturur-ortaokul.pdf",
+     "sayfa": 29,
+     "boyutMB": 7.2
+    },
+    {
+     "ad": "Başarı Köşesi Seti",
+     "pdf": "pdf/basari-kosesi.pdf",
+     "sayfa": 7,
+     "boyutMB": 2.2
+    }
+   ]
+  },
+  {
+   "id": "kelime-pasaportu",
+   "baslik": "Kelime Pasaportu Oyunu",
+   "aciklama": "Öğrenci kelime pasaportu, A4 baskı düzeni ve Kelime Yolcuları başarı köşesi.",
+   "kapak": "kapak/kelime-pasaportu.jpg",
+   "aktif": false,
+   "dosyalar": [
+    {
+     "ad": "Kelime Pasaportu (katlanır)",
+     "pdf": "pdf/kelime-pasaportu.pdf",
+     "sayfa": 15,
+     "boyutMB": 3.9
+    },
+    {
+     "ad": "Kelime Pasaportu (A4 baskı)",
+     "pdf": "pdf/kelime-pasaportu-a4.pdf",
+     "sayfa": 8,
+     "boyutMB": 4.0
+    },
+    {
+     "ad": "Kelime Yolcuları Başarı Köşesi",
+     "pdf": "pdf/kelime-yolculari.pdf",
+     "sayfa": 5,
+     "boyutMB": 1.6
+    }
+   ]
+  }
+ ]
+}
