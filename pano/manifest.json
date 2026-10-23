@@ -197,6 +197,224 @@
    ]
   },
   {
+   "id": "lise-ekim-pano",
+   "baslik": "Lise · Ekim · Pano Seti",
+   "aciklama": "İki pano etkinliği için kesip asmaya hazır kartlar, öğrenci çalışma kartları ve pano başlıkları.",
+   "kapak": "kapak/lise-ekim-pano.jpg",
+   "aktif": true,
+   "kademe": "lise",
+   "ay": "ekim",
+   "sira": 1,
+   "nasil": [
+    "Kartları renkli yazdırın, kesik çizgilerden kesin.",
+    "Pano başlığını ve ipucu kartlarını okul panosuna asın. Cevap kartlarını hafta sonuna kadar saklayın.",
+    "Öğrencilere boş kartları dağıtın; bulduklarını yazıp panoya eklesinler.",
+    "Eylem planı panonun dijital ortamda da olmasını ister: dijital panoyu açıp QR kodunu başlığa yapıştırın. Adım adım anlatım 2. sayfada."
+   ],
+   "dosyalar": [
+    {
+     "ad": "Ekim Pano Seti",
+     "pdf": "pdf/lise-ekim-pano.pdf",
+     "sayfa": 12,
+     "boyutMB": 0.7
+    }
+   ]
+  },
+  {
+   "id": "lise-ekim-canli-harita",
+   "baslik": "Lise · Ekim · Canlı Harita Seti",
+   "aciklama": "Kaşgarlı Mahmud'un eserinden seçilen kelimelerle grup araştırması, harita etiketleri ve sunum değerlendirme listesi.",
+   "kapak": "kapak/lise-ekim-canli-harita.jpg",
+   "aktif": true,
+   "kademe": "lise",
+   "ay": "ekim",
+   "sira": 2,
+   "nasil": [
+    "Grupları kurun, kelimeleri dağıtın: Her gruba 2-3 kelime verilir. Öğretmen listeyi değiştirebilir ya da kendi seçtiği kelimeleri ekleyebilir.",
+    "Araştırın: Güncel TDK sözlük anlamı, etimolojik köken ve XI. yüzyıl metinlerindeki kullanım bağlamı akademik ve güvenilir kaynaklardan araştırılır.",
+    "Haritaya yerleştirin: Kelime etiketleri Türk dünyası haritasında bölge, kültürel etkileşim veya çağrışım ilişkisine göre görsellerle konumlandırılır.",
+    "Sunun: Her grup kelimelerinin tarihî, sosyal ve dil bilimsel önemini sınıfa sunar; harita etkileşimli ve canlı bir haritaya dönüşür.",
+    "Değerlendirin: Sunumlar kontrol listesiyle değerlendirilir; harita panoda sergilenir."
+   ],
+   "dosyalar": [
+    {
+     "ad": "Canlı Harita Seti",
+     "pdf": "pdf/lise-ekim-canli-harita.pdf",
+     "sayfa": 12,
+     "boyutMB": 1.0
+    }
+   ]
+  },
+  {
+   "id": "lise-kasim-kadim-sozler",
+   "baslik": "Lise · Kasım · Kadim Sözler Seti",
+   "aciklama": "Kasım ayının üç lise etkinliği için oyun kartları, turnuva tabloları, sergi malzemeleri, kaligrafi şablonları ve başarı belgesi.",
+   "kapak": "kapak/lise-kasim-kadim-sozler.jpg",
+   "aktif": true,
+   "kademe": "lise",
+   "ay": "kasim",
+   "sira": 1,
+   "nasil": [
+    "2-6 Kasım · \"Kadim Kelimeler\" Tabu Turnuvası: Anlatıcı, karttaki yasaklı kelimeleri kullanmadan kadim kelimeyi takımına anlatır. Her tur sonunda sözlük anlamı okunur, örnek cümle kurulur.",
+    "2-6 Kasım · \"Yapay Zekânın Gözünden Kadim Sözler\" Dijital Sergisi: Öğrenci bir söz seçer, kökenini araştırır, öğretmen rehberliğinde görsel üretir. Görselin altına anlam, TDK kaynağı ve öğrenci değerlendirmesi eklenir.",
+    "23-27 Kasım · \"Kadim Sözler\" Kaligrafi ve Tasarım Yarışması (il): Kadim bir söz, deyim veya atasözü kâğıda ya da dijital ortama aktarılır; alt köşeye anlam, köken ve kaynakça özeti yazılır.",
+    "Yarışmanın şartnamesini, değerlendirme ölçütlerini ve teslim takvimini il yürütme komisyonu duyurur. Bu set öğrenciyi hazırlamak içindir."
+   ],
+   "dosyalar": [
+    {
+     "ad": "Kadim Sözler Seti",
+     "pdf": "pdf/lise-kasim-kadim-sozler.pdf",
+     "sayfa": 20,
+     "boyutMB": 0.8,
+     "word": "word/lise-kasim-kadim-sozler-formlar.docx"
+    }
+   ]
+  },
+  {
+   "id": "lise-kasim-pano-susleme",
+   "baslik": "Lise · Kasım · Kadim Sözler Pano Süsleme Seti",
+   "aciklama": "Pano başlığı, şerit başlıklar, söz afişleri, Kelime Köşesi kartları ve duyuru afişleri.",
+   "kapak": "kapak/lise-kasim-pano-susleme.jpg",
+   "aktif": true,
+   "kademe": "lise",
+   "ay": "kasim",
+   "sira": 2,
+   "nasil": [
+    "Kesikli çizgilerden kesin. Renkli baskı önerilir; kalın kâğıt veya karton daha dayanıklı olur.",
+    "Harfleri sırayla dizin: KADİM ve SÖZLER arasına boşluk bırakın. Motifi başa ya da sona koyabilirsiniz.",
+    "Duyuru afişlerindeki saat, yer ve sorumlu bilgilerini okulunuz doldurur."
+   ],
+   "dosyalar": [
+    {
+     "ad": "Kadim Sözler Pano Süsleme Seti",
+     "pdf": "pdf/lise-kasim-pano-susleme.pdf",
+     "sayfa": 24,
+     "boyutMB": 1.1
+    }
+   ]
+  },
+  {
+   "id": "lise-kasim-kaligrafi-ornek",
+   "baslik": "Lise · Kasım · Kadim Sözler Kaligrafi Örnek Eserler",
+   "aciklama": "Yatay, dikey ve daire düzende üç temsilî örnek eser.",
+   "kapak": "kapak/kadim-sozler-kaligrafi.jpg",
+   "aktif": true,
+   "kademe": "lise",
+   "ay": "kasim",
+   "sira": 3,
+   "dosyalar": [
+    {
+     "ad": "Kaligrafi Örnek Eserler",
+     "pdf": "pdf/kadim-sozler-kaligrafi.pdf",
+     "sayfa": 3,
+     "boyutMB": 0.4
+    }
+   ]
+  },
+  {
+   "id": "cini-boyama",
+   "baslik": "Çini Boyama Seti",
+   "aciklama": "İbrik, çini karo, çini tabak ve ebru zeminde lale; her desen için renkli örnek ve boş boyama sayfası.",
+   "kapak": "kapak/cini-boyama.jpg",
+   "aktif": true,
+   "kademe": "hepsi",
+   "ay": "genel",
+   "nasil": [
+    "Boş sayfaları öğrenci sayısı kadar çoğaltın; renkli örnek sayfayı tahtaya ya da panoya asın.",
+    "Öğrencilere desendeki motifleri gösterin: lale, karanfil, nar ve rozet çiçekleri çini süslemelerinde sık kullanılan motiflerdir.",
+    "Öğrenciler örneğe bakarak ya da kendi seçtikleri renklerle boyar; ad ve sınıf satırını doldurur.",
+    "Biten çalışmalar sınıf ya da koridor panosunda sergilenebilir."
+   ],
+   "dosyalar": [
+    {
+     "ad": "Çini Boyama Seti",
+     "pdf": "pdf/cini-boyama.pdf",
+     "sayfa": 9,
+     "boyutMB": 0.8
+    }
+   ]
+  },
+  {
+   "id": "ozlu-sozler-kaligrafi",
+   "baslik": "Özlü Sözler Kaligrafi",
+   "aciklama": "Özlü sözler kaligrafi afişleri: klasik, dikey tezhip ve yatay suluboya.",
+   "kapak": "kapak/ozlu-sozler-kaligrafi.jpg",
+   "aktif": true,
+   "kademe": "hepsi",
+   "ay": "genel",
+   "dosyalar": [
+    {
+     "ad": "1 · Klasik",
+     "pdf": "pdf/ozlu-sozler-1-klasik.pdf",
+     "sayfa": 7,
+     "boyutMB": 2.9
+    },
+    {
+     "ad": "2 · Dikey Tezhip",
+     "pdf": "pdf/ozlu-sozler-2-dikey-tezhip.pdf",
+     "sayfa": 7,
+     "boyutMB": 2.8
+    },
+    {
+     "ad": "3 · Yatay Suluboya",
+     "pdf": "pdf/ozlu-sozler-3-yatay-suluboya.pdf",
+     "sayfa": 7,
+     "boyutMB": 2.5
+    }
+   ]
+  },
+  {
+   "id": "dlt-atasozleri-afis",
+   "baslik": "Dîvânu Lugâti't-Türk Atasözleri Afişi",
+   "aciklama": "Kâşgarlı Mahmud'un Dîvânu Lugâti't-Türk'ünden atasözleri, bugünkü Türkçesi ve açıklamasıyla.",
+   "kapak": "kapak/dlt-atasozleri-afis.jpg",
+   "aktif": true,
+   "kademe": "hepsi",
+   "ay": "genel",
+   "dosyalar": [
+    {
+     "ad": "DLT Atasözleri Afişi",
+     "pdf": "pdf/dlt-atasozleri-afis.pdf",
+     "sayfa": 3,
+     "boyutMB": 1.4
+    }
+   ]
+  },
+  {
+   "id": "dz-pano-sablonlari",
+   "baslik": "Dilimizin Zenginlikleri Pano Şablonları",
+   "aciklama": "Kılavuz etkinlikleri için 10 pano şablonu: Sözcük Kartlarımız, Kelime Duvarı, Kadim Sözler, Dîvânu Lugâti't-Türk Kelimeleri ve diğerleri.",
+   "kapak": "kapak/dz-pano-sablonlari.jpg",
+   "aktif": true,
+   "kademe": "hepsi",
+   "ay": "genel",
+   "dosyalar": [
+    {
+     "ad": "Pano Şablonları",
+     "pdf": "pdf/dz-pano-sablonlari.pdf",
+     "sayfa": 10,
+     "boyutMB": 0.7
+    }
+   ]
+  },
+  {
+   "id": "dz-ay-ay-pano-takvimi",
+   "baslik": "Dilimizin Zenginlikleri Ay Ay Pano Takvimi",
+   "aciklama": "Hangi ay ne yapılır? Okul öncesinden liseye ay ay pano, sergi ve yarışma.",
+   "kapak": "kapak/dz-ay-ay-pano-takvimi.jpg",
+   "aktif": true,
+   "kademe": "hepsi",
+   "ay": "genel",
+   "dosyalar": [
+    {
+     "ad": "Ay Ay Pano Takvimi",
+     "pdf": "pdf/dz-ay-ay-pano-takvimi.pdf",
+     "sayfa": 13,
+     "boyutMB": 18.3
+    }
+   ]
+  },
+  {
    "id": "kelime-pasaportu",
    "baslik": "Kelime Pasaportu Oyunu",
    "aciklama": "Öğrenci kelime pasaportu, A4 baskı düzeni ve Kelime Yolcuları başarı köşesi.",
