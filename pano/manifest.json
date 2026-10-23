@@ -164,6 +164,12 @@
      "pdf": "pdf/bilen-oturur-ilkokul.pdf",
      "sayfa": 27,
      "boyutMB": 6.6
+    },
+    {
+     "ad": "Başarı Köşesi Seti",
+     "pdf": "pdf/basari-kosesi.pdf",
+     "sayfa": 7,
+     "boyutMB": 2.2
     }
    ]
   },
@@ -181,18 +187,7 @@
      "pdf": "pdf/bilen-oturur-ortaokul.pdf",
      "sayfa": 29,
      "boyutMB": 7.2
-    }
-   ]
-  },
-  {
-   "id": "bilen-oturur-basari-kosesi",
-   "baslik": "Bilen Oturur · Başarı Köşesi Seti",
-   "aciklama": "Bilen Oturur oyununun başarı köşesi seti.",
-   "kapak": "kapak/basari-kosesi.jpg",
-   "aktif": true,
-   "kademe": "hepsi",
-   "ay": "genel",
-   "dosyalar": [
+    },
     {
      "ad": "Başarı Köşesi Seti",
      "pdf": "pdf/basari-kosesi.pdf",
