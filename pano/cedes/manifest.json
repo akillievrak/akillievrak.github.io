@@ -1,0 +1,226 @@
+{
+ "surum": 2,
+ "guncelleme": "2026-10-23",
+ "paketler": [
+  {
+   "id": "ekim-okuloncesi",
+   "baslik": "Okul Öncesi · ÇEDES Ekim Etkinlikleri",
+   "aciklama": "Kılavuzdaki haftalık uygulama etkinlikleri ve aile katılımı etkinlikleri için kesilip kullanılacak kartlar, şablonlar, panolar ve çizelgeler.",
+   "kapak": "kapak/ekim-okuloncesi-ilkokul.jpg",
+   "aktif": true,
+   "kademe": "okulOncesi",
+   "ay": "ekim",
+   "sira": 1,
+   "nasil": [
+    "Etkinliklerin adımları kılavuzdaki gibidir; bu set materyalleri hazır hâle getirir. 4-5. hafta (Mahremiyet) rehberi kendi bölümünün başındadır.",
+    "1. hafta (28 Eylül-2 Ekim) · Dünyanın Dili Farklı, Selamın Dili Bir: Selamlaşma konuşulur; dünya haritası veya küre incelenir; selamlaşma ifadeleri öğrenilir; her çocuk Selam Elçisi Rozeti hazırlar ve arkadaşını selamlar.",
+    "2. hafta (5-9 Ekim) · Temizlik Halkaları: Öğretmen beş resmi sırayla gösterir, çocuklar temizlik davranışını tahmin eder; çocuklar karton dairelere yaptıkları temizlik sünnetini çizer, daireler iple bağlanıp duvara asılır.",
+    "3. hafta (12-16 Ekim) · Çevre Muhafızları: Düşünme şapkası draması; çocuklar resimlerdeki doğru davranışa ✔, yanlışa X koyar; şiir okunur; şapkalar boyanır, kesilir ve çubuğa yapıştırılır."
+   ],
+   "dosyalar": [
+    {
+     "ad": "Ekim Etkinlik Materyalleri (Okul Öncesi · İlkokul)",
+     "pdf": "pdf/ekim-okuloncesi-ilkokul.pdf",
+     "sayfa": 30,
+     "boyutMB": 2.2,
+     "word": "word/ekim-okuloncesi-ilkokul-formlar.docx"
+    }
+   ]
+  },
+  {
+   "id": "ekim-ilkokul",
+   "baslik": "İlkokul · ÇEDES Ekim Etkinlikleri",
+   "aciklama": "Kılavuzdaki haftalık uygulama etkinlikleri ve aile katılımı etkinlikleri için kesilip kullanılacak kartlar, şablonlar, panolar ve çizelgeler.",
+   "kapak": "kapak/ekim-okuloncesi-ilkokul.jpg",
+   "aktif": true,
+   "kademe": "ilkokul",
+   "ay": "ekim",
+   "sira": 1,
+   "nasil": [
+    "Etkinliklerin adımları kılavuzdaki gibidir; bu set materyalleri hazır hâle getirir. 4-5. hafta (Mahremiyet) rehberi kendi bölümünün başındadır.",
+    "1. hafta (28 Eylül-2 Ekim) · Dünyanın Dili Farklı, Selamın Dili Bir: Selamlaşma konuşulur; dünya haritası veya küre incelenir; selamlaşma ifadeleri öğrenilir; her çocuk Selam Elçisi Rozeti hazırlar ve arkadaşını selamlar.",
+    "2. hafta (5-9 Ekim) · Temizlik Halkaları: Öğretmen beş resmi sırayla gösterir, çocuklar temizlik davranışını tahmin eder; çocuklar karton dairelere yaptıkları temizlik sünnetini çizer, daireler iple bağlanıp duvara asılır.",
+    "3. hafta (12-16 Ekim) · Çevre Muhafızları: Düşünme şapkası draması; çocuklar resimlerdeki doğru davranışa ✔, yanlışa X koyar; şiir okunur; şapkalar boyanır, kesilir ve çubuğa yapıştırılır."
+   ],
+   "dosyalar": [
+    {
+     "ad": "Ekim Etkinlik Materyalleri (Okul Öncesi · İlkokul)",
+     "pdf": "pdf/ekim-okuloncesi-ilkokul.pdf",
+     "sayfa": 30,
+     "boyutMB": 2.2,
+     "word": "word/ekim-okuloncesi-ilkokul-formlar.docx"
+    }
+   ]
+  },
+  {
+   "id": "ekim-ortaokul",
+   "baslik": "Ortaokul · ÇEDES Ekim Etkinlikleri",
+   "aciklama": "Kılavuzdaki haftalık uygulama etkinlikleri ve \"Değerler Evimizde\" aile çalışmaları için formlar, kartlar, afiş ve pano şablonları.",
+   "kapak": "kapak/ekim-ortaokul.jpg",
+   "aktif": true,
+   "kademe": "ortaokul",
+   "ay": "ekim",
+   "sira": 1,
+   "nasil": [
+    "Etkinliklerin adımları kılavuzdaki gibidir; bu set materyalleri hazır hâle getirir. 4-5. hafta (Mahremiyet) rehberi kendi bölümünün başındadır.",
+    "1. hafta (28 Eylül-2 Ekim) · Selam Ver, Gönül Al: Eğitici mahalle esnafıyla önceden görüşür. Öğrenciler küçük gruplar hâlinde esnafı selamla ziyaret eder, hal hatır sorar, afişi takdim eder, teşekkür ederek ayrılır; ardından değerlendirme çemberi yapılır.",
+    "2. hafta (5-9 Ekim) · Temizlik Muhabirleri: Gruplar mahallede çevre sorunlarını gözlemler, fotoğraflar, röportaj yapar; rapor hazırlar ve ilgili kuruma iletir; geri bildirim rapora eklenir.",
+    "3. hafta (12-16 Ekim) · 2036 Geleceğin Çevre Ekibi: Görev senaryosu verilir; 4-5 kişilik ekipler izinli bir alanda keşif, çözüm, temizlik ve gelecek tasarımı yapar; herkes bir çevre sözü verir.",
+    "Güvenlik (kılavuzdan, 3. hafta): \"Okul idaresi, yerel yönetimler ve velilerden gerekli resmî izinler ve onay formları alınır.\""
+   ],
+   "dosyalar": [
+    {
+     "ad": "Ekim Etkinlik Materyalleri (Ortaokul)",
+     "pdf": "pdf/ekim-ortaokul.pdf",
+     "sayfa": 36,
+     "boyutMB": 2.2,
+     "word": "word/ekim-ortaokul-formlar.docx"
+    }
+   ]
+  },
+  {
+   "id": "ekim-lise",
+   "baslik": "Lise · ÇEDES Ekim Etkinlikleri",
+   "aciklama": "Kılavuzdaki haftalık uygulama etkinlikleri için saha formları, jüri formu, kartlar ve pano şablonları.",
+   "kapak": "kapak/ekim-lise.jpg",
+   "aktif": true,
+   "kademe": "lise",
+   "ay": "ekim",
+   "sira": 1,
+   "nasil": [
+    "Etkinliklerin adımları kılavuzdaki gibidir; bu set materyalleri hazır hâle getirir. 4-5. hafta (Mahremiyet) rehberi kendi bölümünün başındadır.",
+    "1. hafta (28 Eylül-2 Ekim) · Bir Selamla Seni Fark Ediyorum: 3-4 kişilik gruplar park, cami çevresi, pazar yeri gibi ortak alanlarda farklı kuşaklardan kişilerle selamlaşır, izin alarak kısa sohbet eder; kişisel bilgi kaydetmeden not alır; dönüşte değerlendirme yapılır.",
+    "2. hafta (5-9 Ekim) · Temizlik Jürileri: Kulüp öğrencileri belirlenen mekânları gözlemler ve \"En Temiz Mekân Raporu\" ölçütleriyle puanlar; rapor sunulur; isteğe bağlı teşekkür notu verilir.",
+    "3. hafta (12-16 Ekim) · Adım Adım Yeşil Vatan: Plogging: 4-5 kişilik gruplar güvenli bir rotada yürürken atık toplar ve gözlem yapar; atıklar ayrılır; değerlendirme yapılır.",
+    "Güvenli uygulama (kılavuzdan, 3. hafta): \"Etkinlik öğretmen, manevi danışman veya proje sorumlusunun gözetiminde gerçekleştirilir.\""
+   ],
+   "dosyalar": [
+    {
+     "ad": "Ekim Etkinlik Materyalleri (Lise)",
+     "pdf": "pdf/ekim-lise.pdf",
+     "sayfa": 30,
+     "boyutMB": 2.0,
+     "word": "word/ekim-lise-formlar.docx"
+    }
+   ]
+  },
+  {
+   "id": "mahremiyet-okuloncesi",
+   "baslik": "Okul Öncesi · ÇEDES Mahremiyet (4. ve 5. Hafta)",
+   "aciklama": "Kılavuzdaki \"Mahremiyet Trafik Işıkları: Dur – Sor – İzin Al\" ve \"İzin Alalım\" etkinlikleri için kesilip kullanılacak kartlar, pano ve aile katılımı çizelgeleri.",
+   "kapak": "kapak/mahremiyet-okuloncesi-ilkokul.jpg",
+   "aktif": true,
+   "kademe": "okulOncesi",
+   "ay": "ekim",
+   "sira": 2,
+   "nasil": [
+    "Etkinliklerin adımları kılavuzdaki gibidir; bu set yalnızca materyalleri hazır hâle getirir.",
+    "4. hafta (19-23 Ekim) · Mahremiyet Trafik Işıkları: Dur – Sor – İzin Al: Eğitici kırmızı, sarı, yeşil kartları gösterir; günlük hayattan durumlar okunur, çocuklar uygun kartı kaldırır. Ardından \"Kişisel Alan Balonu\" çalışması ve ifade çalışması yapılır.",
+    "5. hafta (26-30 Ekim) · İzin Alalım: Eğitici üç kısa olay canlandırır: Özel Eşyalar, Kapalı Oda, Banyo ve Tuvalet. Doğru davranış birlikte canlandırılır.",
+    "Kılavuzdan (4. hafta): \"Çocuğa, kendisini rahatsız eden veya korkutan bir durum yaşadığında oradan uzaklaşması ve anne, baba, öğretmen veya güvendiği başka bir yetişkine mutlaka haber vermesi gerektiği açıklanır.\""
+   ],
+   "dosyalar": [
+    {
+     "ad": "Mahremiyet Materyalleri (Okul Öncesi · İlkokul)",
+     "pdf": "pdf/mahremiyet-okuloncesi-ilkokul.pdf",
+     "sayfa": 13,
+     "boyutMB": 1.3
+    }
+   ]
+  },
+  {
+   "id": "mahremiyet-ilkokul",
+   "baslik": "İlkokul · ÇEDES Mahremiyet (4. ve 5. Hafta)",
+   "aciklama": "Kılavuzdaki \"Mahremiyet Trafik Işıkları: Dur – Sor – İzin Al\" ve \"İzin Alalım\" etkinlikleri için kesilip kullanılacak kartlar, pano ve aile katılımı çizelgeleri.",
+   "kapak": "kapak/mahremiyet-okuloncesi-ilkokul.jpg",
+   "aktif": true,
+   "kademe": "ilkokul",
+   "ay": "ekim",
+   "sira": 2,
+   "nasil": [
+    "Etkinliklerin adımları kılavuzdaki gibidir; bu set yalnızca materyalleri hazır hâle getirir.",
+    "4. hafta (19-23 Ekim) · Mahremiyet Trafik Işıkları: Dur – Sor – İzin Al: Eğitici kırmızı, sarı, yeşil kartları gösterir; günlük hayattan durumlar okunur, çocuklar uygun kartı kaldırır. Ardından \"Kişisel Alan Balonu\" çalışması ve ifade çalışması yapılır.",
+    "5. hafta (26-30 Ekim) · İzin Alalım: Eğitici üç kısa olay canlandırır: Özel Eşyalar, Kapalı Oda, Banyo ve Tuvalet. Doğru davranış birlikte canlandırılır.",
+    "Kılavuzdan (4. hafta): \"Çocuğa, kendisini rahatsız eden veya korkutan bir durum yaşadığında oradan uzaklaşması ve anne, baba, öğretmen veya güvendiği başka bir yetişkine mutlaka haber vermesi gerektiği açıklanır.\""
+   ],
+   "dosyalar": [
+    {
+     "ad": "Mahremiyet Materyalleri (Okul Öncesi · İlkokul)",
+     "pdf": "pdf/mahremiyet-okuloncesi-ilkokul.pdf",
+     "sayfa": 13,
+     "boyutMB": 1.3
+    }
+   ]
+  },
+  {
+   "id": "mahremiyet-ortaokul",
+   "baslik": "Ortaokul · ÇEDES Mahremiyet (4. ve 5. Hafta)",
+   "aciklama": "Kılavuzdaki \"Paylaşmadan Önce Düşün, Sınırlarını Sen Çiz\" ve \"Mahremiyetimin Farkındayım\" etkinlikleri ile \"Değerler Evimizde\" aile çalışmaları için formlar, anket ve pano şablonları.",
+   "kapak": "kapak/mahremiyet-ortaokul.jpg",
+   "aktif": true,
+   "kademe": "ortaokul",
+   "ay": "ekim",
+   "sira": 2,
+   "nasil": [
+    "Etkinliklerin adımları kılavuzdaki gibidir; bu set materyalleri hazır hâle getirir.",
+    "4. hafta (19-23 Ekim) · Paylaşmadan Önce Düşün, Sınırlarını Sen Çiz: Okul bahçesinde güvenli bir alanda gruplar insanları kadraja almadan yalnızca nesne ve alan fotoğrafı çeker; fotoğraflar \"risk var/yok\" süzgecinden geçirilir; onaylanan fotoğraflara alt yazı yazılır; 5 maddelik poster hazırlanır.",
+    "5. hafta (26-30 Ekim) · Mahremiyetimin Farkındayım: Gruplar 10 soruluk anketi okul ve mahallede uygular; sonuçlar tabloya dökülür; \"Günlük Hayatta 10 Mahremiyet İlkesi\" afişi hazırlanır.",
+    "Anket için kılavuz uyarısı: \"Anket çalışmasında uyulması gereken etik ilkeler (rıza alma, fotoğraflamama, nezaketli dil kullanma) hatırlatılır ve 3-4 kişilik öğrenci grupları oluşturulur.\""
+   ],
+   "dosyalar": [
+    {
+     "ad": "Mahremiyet Materyalleri (Ortaokul)",
+     "pdf": "pdf/mahremiyet-ortaokul.pdf",
+     "sayfa": 17,
+     "boyutMB": 1.3
+    }
+   ]
+  },
+  {
+   "id": "mahremiyet-lise",
+   "baslik": "Lise · ÇEDES Mahremiyet (4. ve 5. Hafta)",
+   "aciklama": "Kılavuzdaki \"Paylaşmadan Önce: Kimin Kararı?\" probleme dayalı öğrenme etkinliği ve \"Kırmızı Çizgi\" Forum Tiyatrosu için problem kartı, grup formları, rol kartları ve pano şablonları.",
+   "kapak": "kapak/mahremiyet-lise.jpg",
+   "aktif": true,
+   "kademe": "lise",
+   "ay": "ekim",
+   "sira": 2,
+   "nasil": [
+    "Etkinliklerin adımları kılavuzdaki gibidir; bu set materyalleri hazır hâle getirir.",
+    "4. hafta (19-23 Ekim) · Paylaşmadan Önce: Kimin Kararı?: Problem durumu okunur; gruplar dört başlıktan birini araştırır; sınıfça \"Paylaşmadan Önce Mahremiyet İlkeleri\" oluşturulur. Eğitici çözümü doğrudan vermez.",
+    "5. hafta (26-30 Ekim) · \"Kırmızı Çizgi\" Forum Tiyatrosu: 3 gönüllü kriz sahnesini canlandırır, sahne \"STOP\" anında donar; sınıfa sorular sorulur; sahne 10 saniye geri sarılır ve gönüllüler rolleri devralıp krizi saygılı yollarla çözer.",
+    "Eğitmen notu (kılavuzdan): \"Öğrencilere asla dikte etmeyin; mahremiyet ihlalinin yarattığı rahatsızlığı kendilerinin görmesini ve doğru davranışı forum kısmında kendilerinin üretmesini sağlayın.\""
+   ],
+   "dosyalar": [
+    {
+     "ad": "Mahremiyet Materyalleri (Lise)",
+     "pdf": "pdf/mahremiyet-lise.pdf",
+     "sayfa": 13,
+     "boyutMB": 1.2
+    }
+   ]
+  },
+  {
+   "id": "pano-susleme",
+   "baslik": "ÇEDES Pano Süsleme Seti",
+   "aciklama": "Pano başlığı, şerit başlıklar, Ayın Değeri afişleri ve desen şeritleri; okul öncesinden liseye.",
+   "kapak": "kapak/pano-susleme.jpg",
+   "aktif": true,
+   "kademe": "hepsi",
+   "ay": "genel",
+   "nasil": [
+    "Noktalı çizgilerden kesin. Renkli baskı önerilir; kalın kâğıt veya karton daha dayanıklı olur.",
+    "Harfleri sırayla dizin: Ç · E · D · E · S. Yaprak motifini başa ya da sona koyabilirsiniz.",
+    "Boş \"Ayın Değeri\" afişine kılavuzdaki o ayın değerini yazıp her ay panoyu yenileyebilirsiniz."
+   ],
+   "dosyalar": [
+    {
+     "ad": "ÇEDES Pano Süsleme Seti",
+     "pdf": "pdf/pano-susleme.pdf",
+     "sayfa": 10,
+     "boyutMB": 0.5
+    }
+   ]
+  }
+ ]
+}
