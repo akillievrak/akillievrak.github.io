@@ -8,6 +8,8 @@
    "aciklama": "Proje Uygulama Kılavuzundaki 52 etkinlik, kademe kademe ve kılavuz sayfa numaralarıyla (okul öncesi 6, ilkokul/ortaokul 25, lise 21).",
    "kapak": "kapak/etkinlik-rehberi.jpg",
    "aktif": true,
+   "kademe": "hepsi",
+   "ay": "genel",
    "dosyalar": [
     {
      "ad": "Etkinlik Rehberi",
@@ -23,6 +25,8 @@
    "aciklama": "Kül Tigin, Bilge Kağan ve Tonyukuk yazıtları, Göktürk alfabesi ve Thomsen; gerçek fotoğraflı 13 pano kartı.",
    "kapak": "kapak/orhun-yazitlari.jpg",
    "aktif": true,
+   "kademe": "hepsi",
+   "ay": "genel",
    "dosyalar": [
     {
      "ad": "Orhun Yazıtları Pano Seti",
@@ -33,30 +37,65 @@
    ]
   },
   {
-   "id": "dz-afisleri",
-   "baslik": "Dilimizin Zenginlikleri Afişleri",
-   "aciklama": "Her kademe için ayrı 10'ar afiş: okul öncesi, ilkokul, ortaokul, lise.",
-   "kapak": "kapak/afis-ilkokul.jpg",
+   "id": "dz-afisleri-okul-oncesi",
+   "baslik": "Okul Öncesi · Dilimizin Zenginlikleri Afişleri",
+   "aciklama": "Okul öncesi kademesi için 10 afiş.",
+   "kapak": "kapak/afis-okul-oncesi.jpg",
    "aktif": true,
+   "kademe": "okulOncesi",
+   "ay": "genel",
    "dosyalar": [
     {
      "ad": "Okul Öncesi",
      "pdf": "pdf/afis-okul-oncesi.pdf",
      "sayfa": 10,
      "boyutMB": 1.9
-    },
+    }
+   ]
+  },
+  {
+   "id": "dz-afisleri-ilkokul",
+   "baslik": "İlkokul · Dilimizin Zenginlikleri Afişleri",
+   "aciklama": "İlkokul kademesi için 10 afiş.",
+   "kapak": "kapak/afis-ilkokul.jpg",
+   "aktif": true,
+   "kademe": "ilkokul",
+   "ay": "genel",
+   "dosyalar": [
     {
      "ad": "İlkokul",
      "pdf": "pdf/afis-ilkokul.pdf",
      "sayfa": 10,
      "boyutMB": 1.9
-    },
+    }
+   ]
+  },
+  {
+   "id": "dz-afisleri-ortaokul",
+   "baslik": "Ortaokul · Dilimizin Zenginlikleri Afişleri",
+   "aciklama": "Ortaokul kademesi için 10 afiş.",
+   "kapak": "kapak/afis-ortaokul.jpg",
+   "aktif": true,
+   "kademe": "ortaokul",
+   "ay": "genel",
+   "dosyalar": [
     {
      "ad": "Ortaokul",
      "pdf": "pdf/afis-ortaokul.pdf",
      "sayfa": 10,
      "boyutMB": 1.9
-    },
+    }
+   ]
+  },
+  {
+   "id": "dz-afisleri-lise",
+   "baslik": "Lise · Dilimizin Zenginlikleri Afişleri",
+   "aciklama": "Lise kademesi için 10 afiş.",
+   "kapak": "kapak/afis-lise.jpg",
+   "aktif": true,
+   "kademe": "lise",
+   "ay": "genel",
+   "dosyalar": [
     {
      "ad": "Lise",
      "pdf": "pdf/afis-lise.pdf",
@@ -71,6 +110,8 @@
    "aciklama": "Kilim motifli atasözü afişleri ve nostaljik tarzda dil afişleri.",
    "kapak": "kapak/yoresel-afisler.jpg",
    "aktif": true,
+   "kademe": "hepsi",
+   "ay": "genel",
    "dosyalar": [
     {
      "ad": "Yöresel Atasözü Afişleri",
@@ -92,6 +133,8 @@
    "aciklama": "Sınıf ve koridor için alfabe flamaları.",
    "kapak": "kapak/harf-flamasi.jpg",
    "aktif": true,
+   "kademe": "hepsi",
+   "ay": "genel",
    "dosyalar": [
     {
      "ad": "Harf Flaması",
@@ -108,24 +151,48 @@
    ]
   },
   {
-   "id": "bilen-oturur",
-   "baslik": "Bilen Oturur Oyunu",
-   "aciklama": "İlkokul ve ortaokul oyun kartları ile oyunun başarı köşesi seti.",
+   "id": "bilen-oturur-ilkokul",
+   "baslik": "İlkokul · Bilen Oturur Oyun Kartları",
+   "aciklama": "Bilen Oturur oyununun ilkokul oyun kartları.",
    "kapak": "kapak/bilen-oturur-ilkokul.jpg",
    "aktif": true,
+   "kademe": "ilkokul",
+   "ay": "genel",
    "dosyalar": [
     {
      "ad": "Oyun Kartları (İlkokul)",
      "pdf": "pdf/bilen-oturur-ilkokul.pdf",
      "sayfa": 27,
      "boyutMB": 6.6
-    },
+    }
+   ]
+  },
+  {
+   "id": "bilen-oturur-ortaokul",
+   "baslik": "Ortaokul · Bilen Oturur Oyun Kartları",
+   "aciklama": "Bilen Oturur oyununun ortaokul oyun kartları.",
+   "kapak": "kapak/bilen-oturur-ortaokul.jpg",
+   "aktif": true,
+   "kademe": "ortaokul",
+   "ay": "genel",
+   "dosyalar": [
     {
      "ad": "Oyun Kartları (Ortaokul)",
      "pdf": "pdf/bilen-oturur-ortaokul.pdf",
      "sayfa": 29,
      "boyutMB": 7.2
-    },
+    }
+   ]
+  },
+  {
+   "id": "bilen-oturur-basari-kosesi",
+   "baslik": "Bilen Oturur · Başarı Köşesi Seti",
+   "aciklama": "Bilen Oturur oyununun başarı köşesi seti.",
+   "kapak": "kapak/basari-kosesi.jpg",
+   "aktif": true,
+   "kademe": "hepsi",
+   "ay": "genel",
+   "dosyalar": [
     {
      "ad": "Başarı Köşesi Seti",
      "pdf": "pdf/basari-kosesi.pdf",
@@ -140,6 +207,8 @@
    "aciklama": "Öğrenci kelime pasaportu, A4 baskı düzeni ve Kelime Yolcuları başarı köşesi.",
    "kapak": "kapak/kelime-pasaportu.jpg",
    "aktif": false,
+   "kademe": "hepsi",
+   "ay": "genel",
    "dosyalar": [
     {
      "ad": "Kelime Pasaportu (katlanır)",
