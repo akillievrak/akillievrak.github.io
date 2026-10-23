@@ -10,6 +10,7 @@
    "aktif": true,
    "kademe": "hepsi",
    "ay": "genel",
+   "sira": 1,
    "dosyalar": [
     {
      "ad": "Etkinlik Rehberi",
@@ -27,6 +28,7 @@
    "aktif": true,
    "kademe": "hepsi",
    "ay": "genel",
+   "sira": 3,
    "dosyalar": [
     {
      "ad": "Orhun Yazıtları Pano Seti",
@@ -43,7 +45,8 @@
    "kapak": "kapak/afis-okul-oncesi.jpg",
    "aktif": true,
    "kademe": "okulOncesi",
-   "ay": "genel",
+   "ay": "ekim",
+   "sira": 1,
    "dosyalar": [
     {
      "ad": "Okul Öncesi",
@@ -60,7 +63,8 @@
    "kapak": "kapak/afis-ilkokul.jpg",
    "aktif": true,
    "kademe": "ilkokul",
-   "ay": "genel",
+   "ay": "ekim",
+   "sira": 1,
    "dosyalar": [
     {
      "ad": "İlkokul",
@@ -77,7 +81,8 @@
    "kapak": "kapak/afis-ortaokul.jpg",
    "aktif": true,
    "kademe": "ortaokul",
-   "ay": "genel",
+   "ay": "ekim",
+   "sira": 1,
    "dosyalar": [
     {
      "ad": "Ortaokul",
@@ -94,7 +99,8 @@
    "kapak": "kapak/afis-lise.jpg",
    "aktif": true,
    "kademe": "lise",
-   "ay": "genel",
+   "ay": "ekim",
+   "sira": 1,
    "dosyalar": [
     {
      "ad": "Lise",
@@ -111,7 +117,8 @@
    "kapak": "kapak/yoresel-afisler.jpg",
    "aktif": true,
    "kademe": "hepsi",
-   "ay": "genel",
+   "ay": "ekim",
+   "sira": 5,
    "dosyalar": [
     {
      "ad": "Yöresel Atasözü Afişleri",
@@ -135,6 +142,7 @@
    "aktif": true,
    "kademe": "hepsi",
    "ay": "genel",
+   "sira": 4,
    "dosyalar": [
     {
      "ad": "Harf Flaması",
@@ -157,7 +165,8 @@
    "kapak": "kapak/bilen-oturur-ilkokul.jpg",
    "aktif": true,
    "kademe": "ilkokul",
-   "ay": "genel",
+   "ay": "ekim",
+   "sira": 2,
    "dosyalar": [
     {
      "ad": "Oyun Kartları (İlkokul)",
@@ -180,7 +189,8 @@
    "kapak": "kapak/bilen-oturur-ortaokul.jpg",
    "aktif": true,
    "kademe": "ortaokul",
-   "ay": "genel",
+   "ay": "ekim",
+   "sira": 2,
    "dosyalar": [
     {
      "ad": "Oyun Kartları (Ortaokul)",
@@ -204,7 +214,7 @@
    "aktif": true,
    "kademe": "lise",
    "ay": "ekim",
-   "sira": 1,
+   "sira": 2,
    "nasil": [
     "Kartları renkli yazdırın, kesik çizgilerden kesin.",
     "Pano başlığını ve ipucu kartlarını okul panosuna asın. Cevap kartlarını hafta sonuna kadar saklayın.",
@@ -228,7 +238,7 @@
    "aktif": true,
    "kademe": "lise",
    "ay": "ekim",
-   "sira": 2,
+   "sira": 3,
    "nasil": [
     "Eylem planındaki tarihi 12-16 Ekim'dir. Kılavuz, faaliyetlerin okulun imkânlarına göre uyarlanabileceğini belirtir.",
     "Hazırlık (5 dk): Sınıf 4-5 kişilik gruplara ayrılır. Her gruba 2 kelime kartı verilir (10 kart, 5 grup).",
@@ -320,6 +330,7 @@
    "aktif": true,
    "kademe": "hepsi",
    "ay": "genel",
+   "sira": 5,
    "nasil": [
     "Boş sayfaları öğrenci sayısı kadar çoğaltın; renkli örnek sayfayı tahtaya ya da panoya asın.",
     "Öğrencilere desendeki motifleri gösterin: lale, karanfil, nar ve rozet çiçekleri çini süslemelerinde sık kullanılan motiflerdir.",
@@ -337,12 +348,13 @@
   },
   {
    "id": "ozlu-sozler-kaligrafi",
-   "baslik": "Özlü Sözler Kaligrafi",
+   "baslik": "Lise · Kasım · Özlü Sözler Kaligrafi",
    "aciklama": "Özlü sözler kaligrafi afişleri: klasik, dikey tezhip ve yatay suluboya.",
    "kapak": "kapak/ozlu-sozler-kaligrafi.jpg",
    "aktif": true,
-   "kademe": "hepsi",
-   "ay": "genel",
+   "kademe": "lise",
+   "ay": "kasim",
+   "sira": 4,
    "dosyalar": [
     {
      "ad": "1 · Klasik",
@@ -366,12 +378,13 @@
   },
   {
    "id": "dlt-atasozleri-afis",
-   "baslik": "Dîvânu Lugâti't-Türk Atasözleri Afişi",
+   "baslik": "Lise · Ekim · Dîvânu Lugâti't-Türk Atasözleri Afişi",
    "aciklama": "Kâşgarlı Mahmud'un Dîvânu Lugâti't-Türk'ünden atasözleri, bugünkü Türkçesi ve açıklamasıyla.",
    "kapak": "kapak/dlt-atasozleri-afis.jpg",
    "aktif": true,
-   "kademe": "hepsi",
-   "ay": "genel",
+   "kademe": "lise",
+   "ay": "ekim",
+   "sira": 4,
    "dosyalar": [
     {
      "ad": "DLT Atasözleri Afişi",
@@ -388,7 +401,8 @@
    "kapak": "kapak/dz-pano-sablonlari.jpg",
    "aktif": true,
    "kademe": "hepsi",
-   "ay": "genel",
+   "ay": "ekim",
+   "sira": 6,
    "dosyalar": [
     {
      "ad": "Pano Şablonları",
@@ -406,6 +420,7 @@
    "aktif": true,
    "kademe": "hepsi",
    "ay": "genel",
+   "sira": 2,
    "dosyalar": [
     {
      "ad": "Ay Ay Pano Takvimi",
@@ -422,7 +437,8 @@
    "kapak": "kapak/kelime-pasaportu.jpg",
    "aktif": false,
    "kademe": "hepsi",
-   "ay": "genel",
+   "ay": "ekim",
+   "sira": 7,
    "dosyalar": [
     {
      "ad": "Kelime Pasaportu (katlanır)",

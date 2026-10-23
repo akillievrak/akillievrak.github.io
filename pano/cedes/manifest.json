@@ -105,6 +105,98 @@
    ]
   },
   {
+   "id": "ayet-hadis-okuloncesi",
+   "baslik": "Okul Öncesi · ÇEDES Ekim Ayet ve Hadis Afişleri",
+   "aciklama": "Her hafta için bir afiş (5 afiş): Saygı, Temizlik, Mahremiyet. Ayet mealleri ve hadisler kılavuzun “Mesajını Güçlendir” bölümlerinden, kaynak gösterimleriyle.",
+   "kapak": "kapak/ayet-hadis-okuloncesi-ilkokul.jpg",
+   "aktif": true,
+   "kademe": "okulOncesi",
+   "ay": "ekim",
+   "sira": 2,
+   "nasil": [
+    "Her hafta için bir afiş vardır (5 afiş). O haftanın afişini değerler panosuna ya da sınıf panosuna asın.",
+    "Afişlerdeki ayet mealleri ve hadisler, Din Öğretimi Genel Müdürlüğünün ÇEDES Eğitici Kılavuzu (Ekim 2026) “Mesajını Güçlendir” bölümlerinden kaynak gösterimleriyle birlikte aynen alınmıştır; her afişin altında kılavuzun sayfa numarası yazılıdır.",
+    "Renkli basılması önerilir; A3'e büyütülebilir."
+   ],
+   "dosyalar": [
+    {
+     "ad": "Ayet ve Hadis Afişleri (Okul Öncesi · İlkokul)",
+     "pdf": "pdf/ayet-hadis-okuloncesi-ilkokul.pdf",
+     "sayfa": 6,
+     "boyutMB": 0.4
+    }
+   ]
+  },
+  {
+   "id": "ayet-hadis-ilkokul",
+   "baslik": "İlkokul · ÇEDES Ekim Ayet ve Hadis Afişleri",
+   "aciklama": "Her hafta için bir afiş (5 afiş): Saygı, Temizlik, Mahremiyet. Ayet mealleri ve hadisler kılavuzun “Mesajını Güçlendir” bölümlerinden, kaynak gösterimleriyle.",
+   "kapak": "kapak/ayet-hadis-okuloncesi-ilkokul.jpg",
+   "aktif": true,
+   "kademe": "ilkokul",
+   "ay": "ekim",
+   "sira": 2,
+   "nasil": [
+    "Her hafta için bir afiş vardır (5 afiş). O haftanın afişini değerler panosuna ya da sınıf panosuna asın.",
+    "Afişlerdeki ayet mealleri ve hadisler, Din Öğretimi Genel Müdürlüğünün ÇEDES Eğitici Kılavuzu (Ekim 2026) “Mesajını Güçlendir” bölümlerinden kaynak gösterimleriyle birlikte aynen alınmıştır; her afişin altında kılavuzun sayfa numarası yazılıdır.",
+    "Renkli basılması önerilir; A3'e büyütülebilir."
+   ],
+   "dosyalar": [
+    {
+     "ad": "Ayet ve Hadis Afişleri (Okul Öncesi · İlkokul)",
+     "pdf": "pdf/ayet-hadis-okuloncesi-ilkokul.pdf",
+     "sayfa": 6,
+     "boyutMB": 0.4
+    }
+   ]
+  },
+  {
+   "id": "ayet-hadis-ortaokul",
+   "baslik": "Ortaokul · ÇEDES Ekim Ayet ve Hadis Afişleri",
+   "aciklama": "Her hafta için bir afiş (5 afiş): Saygı, Temizlik, Mahremiyet. Ayet mealleri ve hadisler kılavuzun “Mesajını Güçlendir” bölümlerinden, kaynak gösterimleriyle.",
+   "kapak": "kapak/ayet-hadis-ortaokul.jpg",
+   "aktif": true,
+   "kademe": "ortaokul",
+   "ay": "ekim",
+   "sira": 2,
+   "nasil": [
+    "Her hafta için bir afiş vardır (5 afiş). O haftanın afişini değerler panosuna ya da sınıf panosuna asın.",
+    "Afişlerdeki ayet mealleri ve hadisler, Din Öğretimi Genel Müdürlüğünün ÇEDES Eğitici Kılavuzu (Ekim 2026) “Mesajını Güçlendir” bölümlerinden kaynak gösterimleriyle birlikte aynen alınmıştır; her afişin altında kılavuzun sayfa numarası yazılıdır.",
+    "Renkli basılması önerilir; A3'e büyütülebilir."
+   ],
+   "dosyalar": [
+    {
+     "ad": "Ayet ve Hadis Afişleri (Ortaokul)",
+     "pdf": "pdf/ayet-hadis-ortaokul.pdf",
+     "sayfa": 6,
+     "boyutMB": 0.4
+    }
+   ]
+  },
+  {
+   "id": "ayet-hadis-lise",
+   "baslik": "Lise · ÇEDES Ekim Ayet ve Hadis Afişleri",
+   "aciklama": "Her hafta için bir afiş (5 afiş): Saygı, Temizlik, Mahremiyet. Ayet mealleri ve hadisler kılavuzun “Mesajını Güçlendir” bölümlerinden, kaynak gösterimleriyle.",
+   "kapak": "kapak/ayet-hadis-lise.jpg",
+   "aktif": true,
+   "kademe": "lise",
+   "ay": "ekim",
+   "sira": 2,
+   "nasil": [
+    "Her hafta için bir afiş vardır (5 afiş). O haftanın afişini değerler panosuna ya da sınıf panosuna asın.",
+    "Afişlerdeki ayet mealleri ve hadisler, Din Öğretimi Genel Müdürlüğünün ÇEDES Eğitici Kılavuzu (Ekim 2026) “Mesajını Güçlendir” bölümlerinden kaynak gösterimleriyle birlikte aynen alınmıştır; her afişin altında kılavuzun sayfa numarası yazılıdır.",
+    "Renkli basılması önerilir; A3'e büyütülebilir."
+   ],
+   "dosyalar": [
+    {
+     "ad": "Ayet ve Hadis Afişleri (Lise)",
+     "pdf": "pdf/ayet-hadis-lise.pdf",
+     "sayfa": 6,
+     "boyutMB": 0.4
+    }
+   ]
+  },
+  {
    "id": "pano-susleme",
    "baslik": "ÇEDES Pano Süsleme Seti",
    "aciklama": "Pano başlığı, şerit başlıklar, Ayın Değeri afişleri ve desen şeritleri; okul öncesinden liseye.",
