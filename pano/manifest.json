@@ -223,25 +223,26 @@
   {
    "id": "lise-ekim-canli-harita",
    "baslik": "Lise · Ekim · Canlı Harita Seti",
-   "aciklama": "Kaşgarlı Mahmud'un eserinden seçilen kelimelerle grup araştırması, harita etiketleri ve sunum değerlendirme listesi.",
+   "aciklama": "Dîvânu Lugâti't-Türk Canlı Harita Çalışması: kelime kartları, grup araştırma formu (örnek + boş), pano şablonu ve alan şeritleri.",
    "kapak": "kapak/lise-ekim-canli-harita.jpg",
    "aktif": true,
    "kademe": "lise",
    "ay": "ekim",
    "sira": 2,
    "nasil": [
-    "Grupları kurun, kelimeleri dağıtın: Her gruba 2-3 kelime verilir. Öğretmen listeyi değiştirebilir ya da kendi seçtiği kelimeleri ekleyebilir.",
-    "Araştırın: Güncel TDK sözlük anlamı, etimolojik köken ve XI. yüzyıl metinlerindeki kullanım bağlamı akademik ve güvenilir kaynaklardan araştırılır.",
-    "Haritaya yerleştirin: Kelime etiketleri Türk dünyası haritasında bölge, kültürel etkileşim veya çağrışım ilişkisine göre görsellerle konumlandırılır.",
-    "Sunun: Her grup kelimelerinin tarihî, sosyal ve dil bilimsel önemini sınıfa sunar; harita etkileşimli ve canlı bir haritaya dönüşür.",
-    "Değerlendirin: Sunumlar kontrol listesiyle değerlendirilir; harita panoda sergilenir."
+    "Eylem planındaki tarihi 12-16 Ekim'dir. Kılavuz, faaliyetlerin okulun imkânlarına göre uyarlanabileceğini belirtir.",
+    "Hazırlık (5 dk): Sınıf 4-5 kişilik gruplara ayrılır. Her gruba 2 kelime kartı verilir (10 kart, 5 grup).",
+    "Araştırma (1. ders): Gruplar kartlarındaki kelimenin bugünkü biçimini ve güncel TDK anlamını sozluk.gov.tr'den bulur, eserdeki açıklamayı okur, kelimenin hangi alana ait olduğuna karar verir; grup formunu doldurur.",
+    "Canlı harita (2. ders): Panoya Türk dünyası haritası asılır (basılı veya akıllı tahtada dijital). Gruplar kartlarını, haritanın kenarına asılan çağrışım alanı şeritlerine ve Kâşgarlı'nın boy sıralamasına göre yerleştirir.",
+    "Sunum: Her grup 2-3 dakikada kelimelerinin tarihî, sosyal ve dil bilimsel önemini anlatır."
    ],
    "dosyalar": [
     {
      "ad": "Canlı Harita Seti",
      "pdf": "pdf/lise-ekim-canli-harita.pdf",
-     "sayfa": 12,
-     "boyutMB": 1.0
+     "sayfa": 7,
+     "boyutMB": 2.0,
+     "word": "word/lise-ekim-canli-harita-formlar.docx"
     }
    ]
   },
