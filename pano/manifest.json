@@ -359,20 +359,20 @@
     {
      "ad": "1 · Klasik",
      "pdf": "pdf/ozlu-sozler-1-klasik.pdf",
-     "sayfa": 7,
-     "boyutMB": 2.9
+     "sayfa": 5,
+     "boyutMB": 2.0
     },
     {
      "ad": "2 · Dikey Tezhip",
      "pdf": "pdf/ozlu-sozler-2-dikey-tezhip.pdf",
-     "sayfa": 7,
-     "boyutMB": 2.8
+     "sayfa": 5,
+     "boyutMB": 1.9
     },
     {
      "ad": "3 · Yatay Suluboya",
      "pdf": "pdf/ozlu-sozler-3-yatay-suluboya.pdf",
-     "sayfa": 7,
-     "boyutMB": 2.5
+     "sayfa": 5,
+     "boyutMB": 1.7
     }
    ]
   },
