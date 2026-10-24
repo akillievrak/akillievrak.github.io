@@ -537,6 +537,31 @@
    ]
   },
   {
+   "id": "ilkokul-kasim-siirden-afise",
+   "baslik": "İlkokul · Kasım · Şiirden Afişe Pano Yazısı",
+   "aciklama": "İlkokul · Kasım · Çocuk Şiirleri Okumaları panosunun başlığı",
+   "kapak": "kapak/ilkokul-siirden-afise-pano-yazisi.jpg",
+   "aktif": true,
+   "kademe": "ilkokul",
+   "ay": "kasim",
+   "sira": 3,
+   "nasil": [
+    "Harf flamaları: ŞİİRDEN AFİŞE (her harf ayrı sayfa, iple asılır).",
+    "Başlık şeritleri: ŞİİRDEN · AFİŞE (flama yerine tek satır başlık isterseniz).",
+    "Yol haritası: Şiiri oku → Bilmediğin kelimeyi bul → Anlamını öğren → Cümleni ve afişini yap. Eylem Planı 4.2-4.3'ün adımlarıdır.",
+    "Yol haritasını panonun ortasına, öğrencilerin afişlerini çevresine asabilirsiniz.",
+    "Renkli basınız; flamalar kalın kâğıda basılırsa daha uzun dayanır."
+   ],
+   "dosyalar": [
+    {
+     "ad": "Şiirden Afişe Pano Yazısı",
+     "pdf": "pdf/ilkokul-siirden-afise-pano-yazisi.pdf",
+     "sayfa": 7,
+     "boyutMB": 0.2
+    }
+   ]
+  },
+  {
    "id": "ortaokul-kasim-evliya-etkinlik",
    "baslik": "Ortaokul · Kasım · Evliya Çelebi Etkinlik Seti",
    "aciklama": "Ortaokul Eylem Planı 4. faaliyet: EVLİYA ÇELEBİ (Tarihî veya Kültürel Mekânlar için Tanıtım Rehberi ve Gezi Yazıları).",
