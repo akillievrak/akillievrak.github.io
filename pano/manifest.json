@@ -431,6 +431,215 @@
    ]
   },
   {
+   "id": "okul-oncesi-kasim-etkinlik",
+   "baslik": "Okul Öncesi · Kasım · Etkileşimli Kitap Okuma ve Aile Buluşması Etkinlik Seti",
+   "aciklama": "Okul Öncesi Eylem Planı, Kasım: 3. faaliyet AİLE BULUŞMALARI (3.4) ve 4. faaliyet ETKİLEŞİMLİ KİTAP OKUMA ÇALIŞMALARI.",
+   "kapak": "kapak/okul-oncesi-kasim-etkilesimli-kitap-okuma-seti.jpg",
+   "aktif": true,
+   "kademe": "okulOncesi",
+   "ay": "kasim",
+   "sira": 1,
+   "nasil": [
+    "Aile buluşmasında (3.4) aile ve çocuk birlikte bir kitap okur, ardından birlikte \"Söyle-Çiz\" yapar; böylece aileler de etkileşimli okumayı görmüş olur.",
+    "4.1 bilgilendirmesi için s.5-6'daki notu Okul Yürütme Komisyonu toplantısında okuyabilir ya da öğretmenlere dağıtabilirsiniz.",
+    "Kitapları Kılavuz'daki okul öncesi eser listesinden seçin (s.8'de liste var); okuduğunuz eserleri Akıllı Evrak'taki Aylık Faaliyet Raporu'nda işaretleyebilirsiniz.",
+    "Okul öncesi çocukları okuma-yazma bilmez: kitapları öğretmen ya da aile okur; çocuk dinler, konuşur ve çizer. Sayfalardaki yazılı kısımları öğretmen doldurur, çocuğun söylediklerini not eder.",
+    "Tüm sayfalar Word'dür; grubunuza göre değiştirebilirsiniz."
+   ],
+   "dosyalar": [
+    {
+     "ad": "Etkileşimli Kitap Okuma ve Aile Buluşması Etkinlik Seti",
+     "pdf": "pdf/okul-oncesi-kasim-etkilesimli-kitap-okuma-seti.pdf",
+     "sayfa": 13,
+     "boyutMB": 0.2,
+     "word": "word/okul-oncesi-kasim-etkilesimli-kitap-okuma-seti.docx"
+    }
+   ]
+  },
+  {
+   "id": "okul-oncesi-kasim-pano",
+   "baslik": "Okul Öncesi · Kasım · Pano Seti",
+   "aciklama": "Etkileşimli Kitap Okuma ve Aile Buluşması panosu için",
+   "kapak": "kapak/okul-oncesi-kasim-pano-seti.jpg",
+   "aktif": true,
+   "kademe": "okulOncesi",
+   "ay": "kasim",
+   "sira": 2,
+   "nasil": [
+    "Harf flamaları: KİTAP OKUYORUZ (her harf ayrı sayfa, iple asılır).",
+    "Başlık şeritleri: ETKİLEŞİMLİ · KİTAP OKUMA · KELİME HAZİNEMİZ · AİLECEK OKUYORUZ.",
+    "Soru balonları: okurken sorulan sorular (Kim? Ne? Nerede? Ne zaman? Neden? Sence şimdi ne olacak?).",
+    "Süsler: kitap, yıldız, bulut, kalem, ampul, düşünce balonu, güneş, kalp.",
+    "Kelime Hazinemiz kartları: öğretmen kelimeyi yazar, çocuk resmini çizer; panoya asılır.",
+    "Renkli basınız; flamalar ve şeritler kalın kâğıda basılırsa daha uzun dayanır."
+   ],
+   "dosyalar": [
+    {
+     "ad": "Pano Seti",
+     "pdf": "pdf/okul-oncesi-kasim-pano-seti.pdf",
+     "sayfa": 14,
+     "boyutMB": 0.6
+    }
+   ]
+  },
+  {
+   "id": "ilkokul-kasim-etkinlik",
+   "baslik": "İlkokul · Kasım · Çocuk Şiirleri Okumaları Etkinlik Seti",
+   "aciklama": "İlkokul Eylem Planı 4. faaliyet: ÇOCUK ŞİİRLERİ OKUMALARI.",
+   "kapak": "kapak/ilkokul-kasim-cocuk-siirleri-etkinlik-seti.jpg",
+   "aktif": true,
+   "kademe": "ilkokul",
+   "ay": "kasim",
+   "sira": 1,
+   "nasil": [
+    "Şiir seçimi: Uygulama Kılavuzu'nun ilkokul eser listesinde \"Çocuk Şiirleri Antolojisi\" ve \"Memleket Şiirleri Antolojisi\" yer alır (Kılavuz s.13). Sınıf düzeyine uygun şiirleri öğretmen seçer; okuduğunuz eserleri Akıllı Evrak'taki Aylık Faaliyet Raporu'nda işaretleyebilirsiniz.",
+    "1. ders: Şiir sesli okunur; öğrenciler Etkinlik 1'i doldurur, bilmedikleri kelimelerin altını çizer.",
+    "2. ders: Kelime Avı (Etkinlik 2). Önce bağlamdan tahmin, sonra sözlükten kontrol (TDK Güncel Türkçe Sözlük ya da sınıf sözlüğü).",
+    "Kelimeler Kelime Duvarı kartlarına yazılıp panoya asılır; hafta boyunca derslerde kullanılır.",
+    "1 ve 2. sınıflarda kelime sayısını azaltın, cümle yerine resimli afiş ağırlıklı çalışın; 3 ve 4. sınıflarda yazılı cümleyi öne çıkarın.",
+    "Gönderme yazısı (s.11) ve başarı belgesi (s.12) Akıllı Evrak örneğidir; yazıyı DYS'de kurum şablonunuzla, gönderim şeklini ilçe millî eğitim müdürlüğünün duyurusuna göre düzenleyiniz.",
+    "Tüm sayfalar Word'dür; sınıfınıza göre değiştirebilirsiniz."
+   ],
+   "dosyalar": [
+    {
+     "ad": "Çocuk Şiirleri Okumaları Etkinlik Seti",
+     "pdf": "pdf/ilkokul-kasim-cocuk-siirleri-etkinlik-seti.pdf",
+     "sayfa": 12,
+     "boyutMB": 0.2,
+     "word": "word/ilkokul-kasim-cocuk-siirleri-etkinlik-seti.docx"
+    }
+   ]
+  },
+  {
+   "id": "ilkokul-kasim-pano",
+   "baslik": "İlkokul · Kasım · Pano Seti",
+   "aciklama": "Çocuk Şiirleri Okumaları panosu için",
+   "kapak": "kapak/ilkokul-kasim-pano-seti.jpg",
+   "aktif": true,
+   "kademe": "ilkokul",
+   "ay": "kasim",
+   "sira": 2,
+   "nasil": [
+    "Harf flamaları: ÇOCUK ŞİİRLERİ (her harf ayrı sayfa, iple asılır).",
+    "Başlık şeritleri: DİLİMİZİN · ZENGİNLİKLERİ · ŞİİR KÖŞESİ · KELİME DUVARI · SINIFIMIZIN · EN İYİ AFİŞİ.",
+    "\"Sınıfımızın En İyi Afişi\" şeritleri, Eylem Planı 4.4'te seçilen çalışmanın sergilendiği bölüm içindir.",
+    "Süsler: kitap, kalem, nota, kuş, yıldız, yaprak, bulut, kalp.",
+    "Şiir kartı ve kelime kartları: öğrenciler doldurup panoya asar.",
+    "Renkli basınız; etkinlik sayfaları ayrı Word dosyasındadır."
+   ],
+   "dosyalar": [
+    {
+     "ad": "Pano Seti",
+     "pdf": "pdf/ilkokul-kasim-pano-seti.pdf",
+     "sayfa": 13,
+     "boyutMB": 0.6
+    }
+   ]
+  },
+  {
+   "id": "ortaokul-kasim-evliya-etkinlik",
+   "baslik": "Ortaokul · Kasım · Evliya Çelebi Etkinlik Seti",
+   "aciklama": "Ortaokul Eylem Planı 4. faaliyet: EVLİYA ÇELEBİ (Tarihî veya Kültürel Mekânlar için Tanıtım Rehberi ve Gezi Yazıları).",
+   "kapak": "kapak/evliya-celebi-etkinlik-seti.jpg",
+   "aktif": true,
+   "kademe": "ortaokul",
+   "ay": "kasim",
+   "sira": 1,
+   "nasil": [
+    "Etkinlik 1 ve 2 bir ders saatinde, gezi yazısı ve tanıtım rehberi iki ders saatinde yapılabilir.",
+    "Pano için \"Evliya Çelebi Pano Yazı Seti\"ni (yazı şeritleri, kavram kartları, afiş, kitap kapağı) kullanabilirsiniz.",
+    "Etkinlik 5'te öğrenciler ailelerinden ve büyüklerinden yöresel kelime derler; kişisel bilgi (ad, adres, telefon) yazılmaz.",
+    "Tüm sayfalar Word'dür; okulunuza ve şehrinize göre değiştirebilirsiniz."
+   ],
+   "dosyalar": [
+    {
+     "ad": "Evliya Çelebi Etkinlik Seti",
+     "pdf": "pdf/evliya-celebi-etkinlik-seti.pdf",
+     "sayfa": 16,
+     "boyutMB": 0.4,
+     "word": "word/evliya-celebi-etkinlik-seti.docx"
+    }
+   ]
+  },
+  {
+   "id": "ortaokul-kasim-evliya-pano-yazi",
+   "baslik": "Ortaokul · Kasım · Evliya Çelebi Pano Yazı Seti",
+   "aciklama": "Afiş, kitap kapağı, harita, yazı şeritleri, kavram kartları, rüya kartı ve bilgi kartları.",
+   "kapak": "kapak/evliya-celebi-pano-yazi-seti.jpg",
+   "aktif": true,
+   "kademe": "ortaokul",
+   "ay": "kasim",
+   "sira": 2,
+   "nasil": [
+    "Afiş ve kitap kapağı (s.2-3): Panonun ortasına asılacak Evliya Çelebi afişi ve süslü Seyahatnâme kapağı.",
+    "Harita (s.4): Evliya Çelebi'nin Seyahatnâme'de anlattığı bölgeler ve ilk seyahat yolu.",
+    "Yazı şeritleri (s.5-12): Her sayfa bir kelime. Renkli basın, noktalı çizgiden kesin. Panonun üstüne sırayla dizin: DİLİMİZİN ZENGİNLİKLERİ · EVLİYA ÇELEBİ · SEYAHATNÂME · ŞEHRİMİN DİL HAZİNELERİ.",
+    "Kavram kartları (s.13-17): Gezgin, Seyahat, Serüven, Keşif, Misafirperverlik, Kültür, Şehir, Gezi Yazısı, Tanıtım Rehberi, Dil Hazinesi. Öğrenciler kartın altına kelimenin anlamını sözlükten bulup yazabilir.",
+    "Rüya kartı (s.18): Evliya Çelebi'nin seyahate başlamasını anlatan ünlü söz.",
+    "Bilgi kartları (s.19-20): Evliya Çelebi ve Seyahatnâme hakkında kaynaklı kısa bilgiler.",
+    "Öğrencilerin gezi yazıları, şehir tanıtım rehberleri ve \"Şehrimin Dil Hazineleri\" afişleri bu başlıkların altına asılır."
+   ],
+   "dosyalar": [
+    {
+     "ad": "Evliya Çelebi Pano Yazı Seti",
+     "pdf": "pdf/evliya-celebi-pano-yazi-seti.pdf",
+     "sayfa": 20,
+     "boyutMB": 3.3
+    }
+   ]
+  },
+  {
+   "id": "ortaokul-kasim-evliya-pano-susleme",
+   "baslik": "Ortaokul · Kasım · Evliya Çelebi Pano Süsleme Seti",
+   "aciklama": "\"Evliya Çelebi Pano Yazı Seti\"ni tamamlayan süsler",
+   "kapak": "kapak/evliya-celebi-pano-susleme-seti.jpg",
+   "aktif": true,
+   "kademe": "ortaokul",
+   "ay": "kasim",
+   "sira": 3,
+   "nasil": [
+    "Başlık şeritleri: BENİM ŞEHRİM · GEZGİN KÖŞESİ · SINIFIMIZIN · EN İYİ AFİŞİ.",
+    "\"Sınıfımızın En İyi Afişi\" şeritleri, Eylem Planı 4.4'te seçilen çalışmanın sergilendiği bölüm içindir.",
+    "Süsler: pusula, yelkenli, bavul, kubbe ve minareler, lale, yıldız, bulut.",
+    "\"Şehrimin Dil Hazinesi\" kartları: öğrenciler kendi şehirlerinden derledikleri kelime ve sözleri yazıp panoya asar.",
+    "\"Benim Şehrim\" kartları: şehrinizin tarihî ve kültürel mekânlarını tanıtmak için.",
+    "Renkli basınız; harita, kitap kapağı ve yazı şeritleri Pano Yazı Seti'ndedir."
+   ],
+   "dosyalar": [
+    {
+     "ad": "Evliya Çelebi Pano Süsleme Seti",
+     "pdf": "pdf/evliya-celebi-pano-susleme-seti.pdf",
+     "sayfa": 7,
+     "boyutMB": 0.6
+    }
+   ]
+  },
+  {
+   "id": "ortaokul-kasim-istanbul-mekan",
+   "baslik": "Ortaokul · Kasım · İstanbul Mekân Kartları",
+   "aciklama": "Evliya Çelebi'nin İstanbul'u: 10 mekân kartı (Unkapanı, Ayasofya, Sultanahmet Camii, Topkapı Sarayı, Süleymaniye Camii, Galata Kulesi, Yerebatan Sarnıcı, Kız Kulesi, Eminönü ve Yeni Cami, Seyahatnâme).",
+   "kapak": "kapak/evliya-celebi-istanbul-mekan-kartlari.jpg",
+   "aktif": true,
+   "kademe": "ortaokul",
+   "ay": "kasim",
+   "sira": 4,
+   "nasil": [
+    "Kartları renkli basıp “Şehrimin Dil Hazineleri” panosunda haritanın çevresine asın.",
+    "Öğrencilere kart dağıtın; her öğrenci kartındaki mekânı Evliya Çelebi gibi birkaç cümleyle tanıtsın.",
+    "Kartlardaki bilgiler TDV İslâm Ansiklopedisi ve belirtilen kaynaklardan alınmıştır; her kartın altında kaynağı yazar.",
+    "Fotoğraflar Wikimedia Commons'tan, serbest lisanslıdır. Basarken kart altındaki fotoğrafçı ve lisans satırını silmeyin; bu lisansın şartıdır."
+   ],
+   "dosyalar": [
+    {
+     "ad": "İstanbul Mekân Kartları",
+     "pdf": "pdf/evliya-celebi-istanbul-mekan-kartlari.pdf",
+     "sayfa": 11,
+     "boyutMB": 5.4,
+     "word": "word/evliya-celebi-istanbul-mekan-kartlari.docx"
+    }
+   ]
+  },
+  {
    "id": "kelime-pasaportu",
    "baslik": "Kelime Pasaportu Oyunu",
    "aciklama": "Öğrenci kelime pasaportu, A4 baskı düzeni ve Kelime Yolcuları başarı köşesi.",
