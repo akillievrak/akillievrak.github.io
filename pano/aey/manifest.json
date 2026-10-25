@@ -1,0 +1,117 @@
+{
+ "surum": 2,
+ "guncelleme": "2026-10-25",
+ "paketler": [
+  {
+   "id": "kasim-okul-oncesi",
+   "baslik": "Okul Öncesi · Kasım · Ailemle Doğa Günü Seti",
+   "aciklama": "Etkinlik nasıl planlanır ve uygulanır? Hepsi ilk sayfalarda sade bir dille. Ardından afiş, istasyon tabelaları, oyun kartları, örnekli ve boş formlar.",
+   "kapak": "kapak/aey-kasim-okul-oncesi.jpg",
+   "aktif": true,
+   "kademe": "okulOncesi",
+   "ay": "kasim",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Ailemle Doğa Günü Seti (Okul Öncesi)",
+     "pdf": "pdf/aey-kasim-okul-oncesi.pdf",
+     "sayfa": 20,
+     "boyutMB": 2.6,
+     "word": "word/aey-kasim-okul-oncesi-formlar.docx"
+    }
+   ]
+  },
+  {
+   "id": "kasim-pano-seti-okul-oncesi",
+   "baslik": "Kasım · Ailemle Doğa Günü Pano Seti",
+   "aciklama": "Ailemle Doğa Günü öncesinde okulu ve sınıfı hazırlamak, etkinlik sonrasında da ailelerin emeğini panoda sergilemek için hazırlanmıştır. Tüm kademelerde kullanılabilir.",
+   "kapak": "kapak/aey-kasim-pano-seti.jpg",
+   "aktif": true,
+   "kademe": "okulOncesi",
+   "ay": "kasim",
+   "sira": 2,
+   "dosyalar": [
+    {
+     "ad": "Ailemle Doğa Günü Pano Seti",
+     "pdf": "pdf/aey-kasim-pano-seti.pdf",
+     "sayfa": 27,
+     "boyutMB": 4.5
+    }
+   ]
+  },
+  {
+   "id": "kasim-ilkokul",
+   "baslik": "İlkokul · Kasım · Ailemle Doğa Günü Seti",
+   "aciklama": "Etkinlik nasıl planlanır ve uygulanır? Hepsi ilk sayfalarda sade bir dille. Ardından afiş, istasyon tabelaları, oyun kartları, örnekli ve boş formlar.",
+   "kapak": "kapak/aey-kasim-ilkokul.jpg",
+   "aktif": true,
+   "kademe": "ilkokul",
+   "ay": "kasim",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Ailemle Doğa Günü Seti (İlkokul)",
+     "pdf": "pdf/aey-kasim-ilkokul.pdf",
+     "sayfa": 24,
+     "boyutMB": 2.7,
+     "word": "word/aey-kasim-ilkokul-formlar.docx"
+    }
+   ]
+  },
+  {
+   "id": "kasim-pano-seti-ilkokul",
+   "baslik": "Kasım · Ailemle Doğa Günü Pano Seti",
+   "aciklama": "Ailemle Doğa Günü öncesinde okulu ve sınıfı hazırlamak, etkinlik sonrasında da ailelerin emeğini panoda sergilemek için hazırlanmıştır. Tüm kademelerde kullanılabilir.",
+   "kapak": "kapak/aey-kasim-pano-seti.jpg",
+   "aktif": true,
+   "kademe": "ilkokul",
+   "ay": "kasim",
+   "sira": 2,
+   "dosyalar": [
+    {
+     "ad": "Ailemle Doğa Günü Pano Seti",
+     "pdf": "pdf/aey-kasim-pano-seti.pdf",
+     "sayfa": 27,
+     "boyutMB": 4.5
+    }
+   ]
+  },
+  {
+   "id": "kasim-ortaokul",
+   "baslik": "Ortaokul · Kasım · Ailemle Doğa Günü Seti",
+   "aciklama": "Etkinlik nasıl planlanır ve uygulanır? Hepsi ilk sayfalarda sade bir dille. Ardından afiş, istasyon tabelaları, oyun kartları, örnekli ve boş formlar.",
+   "kapak": "kapak/aey-kasim-ortaokul.jpg",
+   "aktif": true,
+   "kademe": "ortaokul",
+   "ay": "kasim",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Ailemle Doğa Günü Seti (Ortaokul)",
+     "pdf": "pdf/aey-kasim-ortaokul.pdf",
+     "sayfa": 24,
+     "boyutMB": 2.7,
+     "word": "word/aey-kasim-ortaokul-formlar.docx"
+    }
+   ]
+  },
+  {
+   "id": "kasim-pano-seti-ortaokul",
+   "baslik": "Kasım · Ailemle Doğa Günü Pano Seti",
+   "aciklama": "Ailemle Doğa Günü öncesinde okulu ve sınıfı hazırlamak, etkinlik sonrasında da ailelerin emeğini panoda sergilemek için hazırlanmıştır. Tüm kademelerde kullanılabilir.",
+   "kapak": "kapak/aey-kasim-pano-seti.jpg",
+   "aktif": true,
+   "kademe": "ortaokul",
+   "ay": "kasim",
+   "sira": 2,
+   "dosyalar": [
+    {
+     "ad": "Ailemle Doğa Günü Pano Seti",
+     "pdf": "pdf/aey-kasim-pano-seti.pdf",
+     "sayfa": 27,
+     "boyutMB": 4.5
+    }
+   ]
+  }
+ ]
+}
