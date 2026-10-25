@@ -3,31 +3,6 @@
  "guncelleme": "2026-10-23",
  "paketler": [
   {
-   "id": "ekim-okuloncesi",
-   "baslik": "Okul Öncesi · ÇEDES Ekim Etkinlikleri",
-   "aciklama": "Kılavuzdaki haftalık uygulama etkinlikleri ve aile katılımı etkinlikleri için kesilip kullanılacak kartlar, şablonlar, panolar ve çizelgeler.",
-   "kapak": "kapak/ekim-okuloncesi-ilkokul.jpg",
-   "aktif": true,
-   "kademe": "okulOncesi",
-   "ay": "ekim",
-   "sira": 1,
-   "nasil": [
-    "Etkinliklerin adımları kılavuzdaki gibidir; bu set materyalleri hazır hâle getirir. 4-5. hafta (Mahremiyet) rehberi kendi bölümünün başındadır.",
-    "1. hafta (28 Eylül-2 Ekim) · Dünyanın Dili Farklı, Selamın Dili Bir: Selamlaşma konuşulur; dünya haritası veya küre incelenir; selamlaşma ifadeleri öğrenilir; her çocuk Selam Elçisi Rozeti hazırlar ve arkadaşını selamlar.",
-    "2. hafta (5-9 Ekim) · Temizlik Halkaları: Öğretmen beş resmi sırayla gösterir, çocuklar temizlik davranışını tahmin eder; çocuklar karton dairelere yaptıkları temizlik sünnetini çizer, daireler iple bağlanıp duvara asılır.",
-    "3. hafta (12-16 Ekim) · Çevre Muhafızları: Düşünme şapkası draması; çocuklar resimlerdeki doğru davranışa ✔, yanlışa X koyar; şiir okunur; şapkalar boyanır, kesilir ve çubuğa yapıştırılır."
-   ],
-   "dosyalar": [
-    {
-     "ad": "Ekim Etkinlik Materyalleri (Okul Öncesi · İlkokul)",
-     "pdf": "pdf/ekim-okuloncesi-ilkokul.pdf",
-     "sayfa": 30,
-     "boyutMB": 2.2,
-     "word": "word/ekim-okuloncesi-ilkokul-formlar.docx"
-    }
-   ]
-  },
-  {
    "id": "ekim-ilkokul",
    "baslik": "İlkokul · ÇEDES Ekim Etkinlikleri",
    "aciklama": "Kılavuzdaki haftalık uygulama etkinlikleri ve aile katılımı etkinlikleri için kesilip kullanılacak kartlar, şablonlar, panolar ve çizelgeler.",
@@ -44,7 +19,7 @@
    ],
    "dosyalar": [
     {
-     "ad": "Ekim Etkinlik Materyalleri (Okul Öncesi · İlkokul)",
+     "ad": "Ekim Etkinlik Materyalleri (İlkokul)",
      "pdf": "pdf/ekim-okuloncesi-ilkokul.pdf",
      "sayfa": 30,
      "boyutMB": 2.2,
@@ -105,29 +80,6 @@
    ]
   },
   {
-   "id": "ayet-hadis-okuloncesi",
-   "baslik": "Okul Öncesi · ÇEDES Ekim Ayet ve Hadis Afişleri",
-   "aciklama": "Her hafta için bir afiş (5 afiş): Saygı, Temizlik, Mahremiyet. Ayet mealleri ve hadisler kılavuzun “Mesajını Güçlendir” bölümlerinden, kaynak gösterimleriyle.",
-   "kapak": "kapak/ayet-hadis-okuloncesi-ilkokul.jpg",
-   "aktif": true,
-   "kademe": "okulOncesi",
-   "ay": "ekim",
-   "sira": 2,
-   "nasil": [
-    "Her hafta için bir afiş vardır (5 afiş). O haftanın afişini değerler panosuna ya da sınıf panosuna asın.",
-    "Afişlerdeki ayet mealleri ve hadisler, Din Öğretimi Genel Müdürlüğünün ÇEDES Eğitici Kılavuzu (Ekim 2026) “Mesajını Güçlendir” bölümlerinden kaynak gösterimleriyle birlikte aynen alınmıştır; her afişin altında kılavuzun sayfa numarası yazılıdır.",
-    "Renkli basılması önerilir; A3'e büyütülebilir."
-   ],
-   "dosyalar": [
-    {
-     "ad": "Ayet ve Hadis Afişleri (Okul Öncesi · İlkokul)",
-     "pdf": "pdf/ayet-hadis-okuloncesi-ilkokul.pdf",
-     "sayfa": 6,
-     "boyutMB": 0.4
-    }
-   ]
-  },
-  {
    "id": "ayet-hadis-ilkokul",
    "baslik": "İlkokul · ÇEDES Ekim Ayet ve Hadis Afişleri",
    "aciklama": "Her hafta için bir afiş (5 afiş): Saygı, Temizlik, Mahremiyet. Ayet mealleri ve hadisler kılavuzun “Mesajını Güçlendir” bölümlerinden, kaynak gösterimleriyle.",
@@ -143,7 +95,7 @@
    ],
    "dosyalar": [
     {
-     "ad": "Ayet ve Hadis Afişleri (Okul Öncesi · İlkokul)",
+     "ad": "Ayet ve Hadis Afişleri (İlkokul)",
      "pdf": "pdf/ayet-hadis-okuloncesi-ilkokul.pdf",
      "sayfa": 6,
      "boyutMB": 0.4
