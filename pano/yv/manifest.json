@@ -1,0 +1,210 @@
+{
+ "surum": 2,
+ "guncelleme": "2026-10-25",
+ "paketler": [
+  {
+   "id": "ekim-okul-oncesi",
+   "baslik": "Okul Öncesi · Ekim · Yeşil Vatan Afetler ve Dayanıklılık Ayı Seti",
+   "aciklama": "Ekim ayında neler yapılır, her etkinlik nasıl uygulanır? Hepsi ilk sayfalarda sade bir dille. Ardından panoya asılacak kartlar, örnekli ve boş çalışma kâğıtları.",
+   "kapak": "kapak/yv-ekim-okul-oncesi.jpg",
+   "aktif": true,
+   "kademe": "okulOncesi",
+   "ay": "ekim",
+   "sira": 1,
+   "nasil": [
+    "Her satırda etkinliğin kısaca nasıl yapıldığı ve bu setteki materyali yazılıdır.",
+    "Ayrıntılı uygulama adımları için ilgili resmî kılavuza bakınız.",
+    "Çalışma kâğıtlarında önce bizim doldurduğumuz ÖRNEK, ardından çoğaltılacak BOŞ sayfa gelir."
+   ],
+   "dosyalar": [
+    {
+     "ad": "Afetler ve Dayanıklılık Ayı Seti (Okul Öncesi)",
+     "pdf": "pdf/yv-ekim-okul-oncesi.pdf",
+     "sayfa": 49,
+     "boyutMB": 3.8
+    }
+   ]
+  },
+  {
+   "id": "ekim-ilkokul",
+   "baslik": "İlkokul · Ekim · Yeşil Vatan Afetler ve Dayanıklılık Ayı Seti",
+   "aciklama": "Ekim ayında neler yapılır, her etkinlik nasıl uygulanır? Hepsi ilk sayfalarda sade bir dille. Ardından panoya asılacak kartlar, örnekli ve boş çalışma kâğıtları.",
+   "kapak": "kapak/yv-ekim-ilkokul.jpg",
+   "aktif": true,
+   "kademe": "ilkokul",
+   "ay": "ekim",
+   "sira": 1,
+   "nasil": [
+    "Her satırda etkinliğin kısaca nasıl yapıldığı ve bu setteki materyali yazılıdır.",
+    "Ayrıntılı uygulama adımları için ilgili resmî kılavuza bakınız.",
+    "Çalışma kâğıtlarında önce bizim doldurduğumuz ÖRNEK, ardından çoğaltılacak BOŞ sayfa gelir."
+   ],
+   "dosyalar": [
+    {
+     "ad": "Afetler ve Dayanıklılık Ayı Seti (İlkokul)",
+     "pdf": "pdf/yv-ekim-ilkokul.pdf",
+     "sayfa": 78,
+     "boyutMB": 5.1
+    }
+   ]
+  },
+  {
+   "id": "ekim-ortaokul",
+   "baslik": "Ortaokul · Ekim · Yeşil Vatan Afetler ve Dayanıklılık Ayı Seti",
+   "aciklama": "Ekim ayında neler yapılır, her etkinlik nasıl uygulanır? Hepsi ilk sayfalarda sade bir dille. Ardından panoya asılacak kartlar, örnekli ve boş çalışma kâğıtları.",
+   "kapak": "kapak/yv-ekim-ortaokul.jpg",
+   "aktif": true,
+   "kademe": "ortaokul",
+   "ay": "ekim",
+   "sira": 1,
+   "nasil": [
+    "Her satırda etkinliğin kısaca nasıl yapıldığı ve bu setteki materyali yazılıdır.",
+    "Ayrıntılı uygulama adımları için ilgili resmî kılavuza bakınız.",
+    "Çalışma kâğıtlarında önce bizim doldurduğumuz ÖRNEK, ardından çoğaltılacak BOŞ sayfa gelir."
+   ],
+   "dosyalar": [
+    {
+     "ad": "Afetler ve Dayanıklılık Ayı Seti (Ortaokul)",
+     "pdf": "pdf/yv-ekim-ortaokul.pdf",
+     "sayfa": 42,
+     "boyutMB": 3.6
+    }
+   ]
+  },
+  {
+   "id": "ekim-lise",
+   "baslik": "Lise · Ekim · Yeşil Vatan Afetler ve Dayanıklılık Ayı Seti",
+   "aciklama": "Ekim ayında neler yapılır, her etkinlik nasıl uygulanır? Hepsi ilk sayfalarda sade bir dille. Ardından panoya asılacak kartlar, örnekli ve boş çalışma kâğıtları.",
+   "kapak": "kapak/yv-ekim-lise.jpg",
+   "aktif": true,
+   "kademe": "lise",
+   "ay": "ekim",
+   "sira": 1,
+   "nasil": [
+    "Her satırda etkinliğin kısaca nasıl yapıldığı ve bu setteki materyali yazılıdır.",
+    "Ayrıntılı uygulama adımları için ilgili resmî kılavuza bakınız.",
+    "Çalışma kâğıtlarında önce bizim doldurduğumuz ÖRNEK, ardından çoğaltılacak BOŞ sayfa gelir."
+   ],
+   "dosyalar": [
+    {
+     "ad": "Afetler ve Dayanıklılık Ayı Seti (Lise)",
+     "pdf": "pdf/yv-ekim-lise.pdf",
+     "sayfa": 37,
+     "boyutMB": 3.5
+    }
+   ]
+  },
+  {
+   "id": "kasim-okul-oncesi",
+   "baslik": "Okul Öncesi · Kasım · Yeşil Vatan Orman Ayı Seti",
+   "aciklama": "Kasım ayında neler yapılır, her etkinlik nasıl uygulanır? Hepsi ilk sayfalarda sade bir dille. Ardından panoya asılacak kartlar, gerçek orman fotoğrafları, örnekli ve boş çalışma kâğıtları.",
+   "kapak": "kapak/yv-kasim-okul-oncesi.jpg",
+   "aktif": true,
+   "kademe": "okulOncesi",
+   "ay": "kasim",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Orman Ayı Seti (Okul Öncesi)",
+     "pdf": "pdf/yv-kasim-okul-oncesi.pdf",
+     "sayfa": 24,
+     "boyutMB": 7,
+     "word": "word/yv-kasim-okul-oncesi-formlar.docx"
+    }
+   ]
+  },
+  {
+   "id": "kasim-ilkokul",
+   "baslik": "İlkokul · Kasım · Yeşil Vatan Orman Ayı Seti",
+   "aciklama": "Kasım ayında neler yapılır, her etkinlik nasıl uygulanır? Hepsi ilk sayfalarda sade bir dille. Ardından panoya asılacak kartlar, gerçek orman fotoğrafları, örnekli ve boş çalışma kâğıtları.",
+   "kapak": "kapak/yv-kasim-ilkokul.jpg",
+   "aktif": true,
+   "kademe": "ilkokul",
+   "ay": "kasim",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Orman Ayı Seti (İlkokul)",
+     "pdf": "pdf/yv-kasim-ilkokul.pdf",
+     "sayfa": 29,
+     "boyutMB": 7.2,
+     "word": "word/yv-kasim-ilkokul-formlar.docx"
+    }
+   ]
+  },
+  {
+   "id": "kasim-kardes-mektuplar-ilkokul",
+   "baslik": "İlkokul · Kasım · Kardeş Mektuplar Kitap Etkinlikleri",
+   "aciklama": "Çiler Çelikler – Kardeş Mektuplar kitabından alınmıştır.",
+   "kapak": "kapak/yv-kasim-kardes-mektuplar.jpg",
+   "aktif": true,
+   "kademe": "ilkokul",
+   "ay": "kasim",
+   "sira": 2,
+   "dosyalar": [
+    {
+     "ad": "Kardeş Mektuplar Kitap Etkinlikleri",
+     "pdf": "pdf/yv-kasim-kardes-mektuplar.pdf",
+     "sayfa": 8,
+     "boyutMB": 4.3
+    }
+   ]
+  },
+  {
+   "id": "kasim-ortaokul",
+   "baslik": "Ortaokul · Kasım · Yeşil Vatan Orman Ayı Seti",
+   "aciklama": "Kasım ayında neler yapılır, her etkinlik nasıl uygulanır? Hepsi ilk sayfalarda sade bir dille. Ardından panoya asılacak kartlar, gerçek orman fotoğrafları, örnekli ve boş çalışma kâğıtları.",
+   "kapak": "kapak/yv-kasim-ortaokul.jpg",
+   "aktif": true,
+   "kademe": "ortaokul",
+   "ay": "kasim",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Orman Ayı Seti (Ortaokul)",
+     "pdf": "pdf/yv-kasim-ortaokul.pdf",
+     "sayfa": 33,
+     "boyutMB": 7.3,
+     "word": "word/yv-kasim-ortaokul-formlar.docx"
+    }
+   ]
+  },
+  {
+   "id": "kasim-kardes-mektuplar-ortaokul",
+   "baslik": "Ortaokul · Kasım · Kardeş Mektuplar Kitap Etkinlikleri",
+   "aciklama": "Çiler Çelikler – Kardeş Mektuplar kitabından alınmıştır.",
+   "kapak": "kapak/yv-kasim-kardes-mektuplar.jpg",
+   "aktif": true,
+   "kademe": "ortaokul",
+   "ay": "kasim",
+   "sira": 2,
+   "dosyalar": [
+    {
+     "ad": "Kardeş Mektuplar Kitap Etkinlikleri",
+     "pdf": "pdf/yv-kasim-kardes-mektuplar.pdf",
+     "sayfa": 8,
+     "boyutMB": 4.3
+    }
+   ]
+  },
+  {
+   "id": "kasim-lise",
+   "baslik": "Lise · Kasım · Yeşil Vatan Orman Ayı Seti",
+   "aciklama": "Kasım ayında neler yapılır, her etkinlik nasıl uygulanır? Hepsi ilk sayfalarda sade bir dille. Ardından panoya asılacak kartlar, gerçek orman fotoğrafları, örnekli ve boş çalışma kâğıtları.",
+   "kapak": "kapak/yv-kasim-lise.jpg",
+   "aktif": true,
+   "kademe": "lise",
+   "ay": "kasim",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Orman Ayı Seti (Lise)",
+     "pdf": "pdf/yv-kasim-lise.pdf",
+     "sayfa": 26,
+     "boyutMB": 7,
+     "word": "word/yv-kasim-lise-formlar.docx"
+    }
+   ]
+  }
+ ]
+}
