@@ -1,6 +1,6 @@
 {
  "surum": 2,
- "guncelleme": "2026-10-25",
+ "guncelleme": "2026-10-26",
  "paketler": [
   {
    "id": "kasim-okul-oncesi",
@@ -110,6 +110,81 @@
      "pdf": "pdf/aey-kasim-pano-seti.pdf",
      "sayfa": 27,
      "boyutMB": 4.5
+    }
+   ]
+  },
+  {
+   "id": "aralik-aileler-yarisiyor-okul-oncesi",
+   "baslik": "Aralık · Aileler Yarışıyor Seti",
+   "aciklama": "Veliler yarışır, jüri öğrencilerden oluşur. Nasıl düzenlenir, ilk sayfalarda. Ardından afiş, dal tabelaları, jüri kartları, eleme tabloları, sudokular, jüri formları ve teşekkür belgeleri.",
+   "kapak": "kapak/aey-aralik-aileler-yarisiyor.jpg",
+   "aktif": true,
+   "kademe": "okulOncesi",
+   "ay": "aralik",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Aileler Yarışıyor Seti",
+     "pdf": "pdf/aey-aralik-aileler-yarisiyor.pdf",
+     "sayfa": 30,
+     "boyutMB": 1.6,
+     "word": "word/aey-aralik-aileler-yarisiyor-formlar.docx"
+    },
+    {
+     "ad": "Teşekkür Belgeleri (Word)",
+     "pdf": "word/aey-aralik-aileler-yarisiyor-tesekkur-belgeleri.docx",
+     "sayfa": 2,
+     "boyutMB": 0.2
+    }
+   ]
+  },
+  {
+   "id": "aralik-aileler-yarisiyor-ilkokul",
+   "baslik": "Aralık · Aileler Yarışıyor Seti",
+   "aciklama": "Veliler yarışır, jüri öğrencilerden oluşur. Nasıl düzenlenir, ilk sayfalarda. Ardından afiş, dal tabelaları, jüri kartları, eleme tabloları, sudokular, jüri formları ve teşekkür belgeleri.",
+   "kapak": "kapak/aey-aralik-aileler-yarisiyor.jpg",
+   "aktif": true,
+   "kademe": "ilkokul",
+   "ay": "aralik",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Aileler Yarışıyor Seti",
+     "pdf": "pdf/aey-aralik-aileler-yarisiyor.pdf",
+     "sayfa": 30,
+     "boyutMB": 1.6,
+     "word": "word/aey-aralik-aileler-yarisiyor-formlar.docx"
+    },
+    {
+     "ad": "Teşekkür Belgeleri (Word)",
+     "pdf": "word/aey-aralik-aileler-yarisiyor-tesekkur-belgeleri.docx",
+     "sayfa": 2,
+     "boyutMB": 0.2
+    }
+   ]
+  },
+  {
+   "id": "aralik-aileler-yarisiyor-ortaokul",
+   "baslik": "Aralık · Aileler Yarışıyor Seti",
+   "aciklama": "Veliler yarışır, jüri öğrencilerden oluşur. Nasıl düzenlenir, ilk sayfalarda. Ardından afiş, dal tabelaları, jüri kartları, eleme tabloları, sudokular, jüri formları ve teşekkür belgeleri.",
+   "kapak": "kapak/aey-aralik-aileler-yarisiyor.jpg",
+   "aktif": true,
+   "kademe": "ortaokul",
+   "ay": "aralik",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Aileler Yarışıyor Seti",
+     "pdf": "pdf/aey-aralik-aileler-yarisiyor.pdf",
+     "sayfa": 30,
+     "boyutMB": 1.6,
+     "word": "word/aey-aralik-aileler-yarisiyor-formlar.docx"
+    },
+    {
+     "ad": "Teşekkür Belgeleri (Word)",
+     "pdf": "word/aey-aralik-aileler-yarisiyor-tesekkur-belgeleri.docx",
+     "sayfa": 2,
+     "boyutMB": 0.2
     }
    ]
   }
