@@ -305,6 +305,348 @@
      "boyutMB": 8.5
     }
    ]
+  },
+  {
+   "id": "1-sinif-eylul-uyum-haftasi-etkinlik-kartlari",
+   "baslik": "Eylül · Uyum Haftası Etkinlik Kartları",
+   "aciklama": "Ailem Okulumda · Yıldızlar Sınıfı · Kayıp Yıldız · Mutlu Sınıf Kutusu · Çantamdakiler Nerede?",
+   "kapak": "kapak/aoy-1-sinif-eylul-uyum-haftasi-etkinlik-kartlari.jpg",
+   "aktif": true,
+   "kademe": "ilkokul",
+   "ay": "eylul",
+   "sira": 4,
+   "dosyalar": [
+    {
+     "ad": "1. Sınıf Uyum Haftası Etkinlik Kartları",
+     "pdf": "pdf/aoy-1-sinif-eylul-uyum-haftasi-etkinlik-kartlari.pdf",
+     "sayfa": 13,
+     "boyutMB": 0.4,
+     "word": "word/aoy-1-sinif-eylul-uyum-haftasi-etkinlik-kartlari.docx"
+    }
+   ]
+  },
+  {
+   "id": "1-sinif-ekim-etkinlik-karti",
+   "baslik": "Ekim · Etkinlik Kartı – Bulalım, Eşleştirelim",
+   "aciklama": "GÜNLÜK YAŞAM BECERİLERİ · AİLEMİN DESTEĞİ İLE HAYATA HAZIRLANIYORUM",
+   "kapak": "kapak/aoy-1-sinif-ekim-etkinlik-karti.jpg",
+   "aktif": true,
+   "kademe": "ilkokul",
+   "ay": "ekim",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "1. Sınıf Ekim Etkinlik Kartı",
+     "pdf": "pdf/aoy-1-sinif-ekim-etkinlik-karti.pdf",
+     "sayfa": 2,
+     "boyutMB": 0.2,
+     "word": "word/aoy-1-sinif-ekim-etkinlik-karti.docx"
+    }
+   ]
+  },
+  {
+   "id": "1-sinif-kasim-etkinlik-karti",
+   "baslik": "Kasım · Etkinlik Kartı – Hayatın İçindeyim",
+   "aciklama": "GÜNLÜK YAŞAM BECERİLERİ · AİLEMLE OYNUYORUM",
+   "kapak": "kapak/aoy-1-sinif-kasim-etkinlik-karti.jpg",
+   "aktif": true,
+   "kademe": "ilkokul",
+   "ay": "kasim",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "1. Sınıf Kasım Etkinlik Kartı",
+     "pdf": "pdf/aoy-1-sinif-kasim-etkinlik-karti.pdf",
+     "sayfa": 2,
+     "boyutMB": 0.2,
+     "word": "word/aoy-1-sinif-kasim-etkinlik-karti.docx"
+    }
+   ]
+  },
+  {
+   "id": "1-sinif-aralik-etkinlik-karti",
+   "baslik": "Aralık · Etkinlik Kartı – Masal Çemberinde Üç Kuşak",
+   "aciklama": "AİLEM, MİLLÎ VE MANEVİ DEĞERLERİMİZ · AİLEMLE KÜLTÜR YOLCULUĞUM",
+   "kapak": "kapak/aoy-1-sinif-aralik-etkinlik-karti.jpg",
+   "aktif": true,
+   "kademe": "ilkokul",
+   "ay": "aralik",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "1. Sınıf Aralık Etkinlik Kartı",
+     "pdf": "pdf/aoy-1-sinif-aralik-etkinlik-karti.pdf",
+     "sayfa": 2,
+     "boyutMB": 0.2,
+     "word": "word/aoy-1-sinif-aralik-etkinlik-karti.docx"
+    }
+   ]
+  },
+  {
+   "id": "1-sinif-subat-etkinlik-karti",
+   "baslik": "Şubat · Etkinlik Kartı – Nesilden Nesile Oyun",
+   "aciklama": "AİLEM, MİLLÎ VE MANEVİ DEĞERLERİMİZ · AİLEDEN OKULA, KÖKLERDEN GELECEĞE",
+   "kapak": "kapak/aoy-1-sinif-subat-etkinlik-karti.jpg",
+   "aktif": true,
+   "kademe": "ilkokul",
+   "ay": "subat",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "1. Sınıf Şubat Etkinlik Kartı",
+     "pdf": "pdf/aoy-1-sinif-subat-etkinlik-karti.pdf",
+     "sayfa": 3,
+     "boyutMB": 0.2,
+     "word": "word/aoy-1-sinif-subat-etkinlik-karti.docx"
+    }
+   ]
+  },
+  {
+   "id": "1-sinif-mart-etkinlik-karti",
+   "baslik": "Mart · Etkinlik Kartı – Doğaya Can Veren Eller",
+   "aciklama": "ÇEVRE VE SÜRDÜRÜLEBİLİR YAŞAM · YEŞİL YUVAMIZ",
+   "kapak": "kapak/aoy-1-sinif-mart-etkinlik-karti.jpg",
+   "aktif": true,
+   "kademe": "ilkokul",
+   "ay": "mart",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "1. Sınıf Mart Etkinlik Kartı",
+     "pdf": "pdf/aoy-1-sinif-mart-etkinlik-karti.pdf",
+     "sayfa": 2,
+     "boyutMB": 0.2,
+     "word": "word/aoy-1-sinif-mart-etkinlik-karti.docx"
+    }
+   ]
+  },
+  {
+   "id": "1-sinif-nisan-etkinlik-karti",
+   "baslik": "Nisan · Etkinlik Kartı – Geleceğe Yeşil İz",
+   "aciklama": "ÇEVRE VE SÜRDÜRÜLEBİLİR YAŞAM · AİLEMLE SÜRDÜRÜLEBİLİR YAŞAMA KATKI",
+   "kapak": "kapak/aoy-1-sinif-nisan-etkinlik-karti.jpg",
+   "aktif": true,
+   "kademe": "ilkokul",
+   "ay": "nisan",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "1. Sınıf Nisan Etkinlik Kartı",
+     "pdf": "pdf/aoy-1-sinif-nisan-etkinlik-karti.pdf",
+     "sayfa": 3,
+     "boyutMB": 0.3,
+     "word": "word/aoy-1-sinif-nisan-etkinlik-karti.docx"
+    }
+   ]
+  },
+  {
+   "id": "1-sinif-mayis-etkinlik-karti",
+   "baslik": "Mayıs · Etkinlik Kartı – Dijital Dedektifler",
+   "aciklama": "BİRLİKTE YAŞAM KÜLTÜRÜ · DİJİTAL DÜNYADA BİLİNÇLİ ADIMLAR",
+   "kapak": "kapak/aoy-1-sinif-mayis-etkinlik-karti.jpg",
+   "aktif": true,
+   "kademe": "ilkokul",
+   "ay": "mayis",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "1. Sınıf Mayıs Etkinlik Kartı",
+     "pdf": "pdf/aoy-1-sinif-mayis-etkinlik-karti.pdf",
+     "sayfa": 2,
+     "boyutMB": 0.2,
+     "word": "word/aoy-1-sinif-mayis-etkinlik-karti.docx"
+    }
+   ]
+  },
+  {
+   "id": "1-sinif-haziran-etkinlik-karti",
+   "baslik": "Haziran · Etkinlik Kartı – Nezaket Ağı",
+   "aciklama": "BİRLİKTE YAŞAM KÜLTÜRÜ · ARKADAŞLIĞIN DİLİ NEZAKET",
+   "kapak": "kapak/aoy-1-sinif-haziran-etkinlik-karti.jpg",
+   "aktif": true,
+   "kademe": "ilkokul",
+   "ay": "haziran",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "1. Sınıf Haziran Etkinlik Kartı",
+     "pdf": "pdf/aoy-1-sinif-haziran-etkinlik-karti.pdf",
+     "sayfa": 2,
+     "boyutMB": 0.2,
+     "word": "word/aoy-1-sinif-haziran-etkinlik-karti.docx"
+    }
+   ]
+  },
+  {
+   "id": "5-sinif-eylul-uyum-haftasi-etkinlik-kartlari",
+   "baslik": "Eylül · Uyum Haftası Etkinlik Kartları",
+   "aciklama": "Ailem Okulumu Tanıyor · Ailemle Okulumu Keşfediyorum · Ailemle Derslerimi Tanıyorum",
+   "kapak": "kapak/aoy-5-sinif-eylul-uyum-haftasi-etkinlik-kartlari.jpg",
+   "aktif": true,
+   "kademe": "ortaokul",
+   "ay": "eylul",
+   "sira": 3,
+   "dosyalar": [
+    {
+     "ad": "5. Sınıf Uyum Haftası Etkinlik Kartları",
+     "pdf": "pdf/aoy-5-sinif-eylul-uyum-haftasi-etkinlik-kartlari.pdf",
+     "sayfa": 9,
+     "boyutMB": 0.4,
+     "word": "word/aoy-5-sinif-eylul-uyum-haftasi-etkinlik-kartlari.docx"
+    }
+   ]
+  },
+  {
+   "id": "5-sinif-ekim-etkinlik-karti",
+   "baslik": "Ekim · Etkinlik Kartı – Becerini Konuştur",
+   "aciklama": "GÜNLÜK YAŞAM BECERİLERİ · AİLEMİN DESTEĞİ İLE HAYATA HAZIRLANIYORUM",
+   "kapak": "kapak/aoy-5-sinif-ekim-etkinlik-karti.jpg",
+   "aktif": true,
+   "kademe": "ortaokul",
+   "ay": "ekim",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "5. Sınıf Ekim Etkinlik Kartı",
+     "pdf": "pdf/aoy-5-sinif-ekim-etkinlik-karti.pdf",
+     "sayfa": 2,
+     "boyutMB": 0.2,
+     "word": "word/aoy-5-sinif-ekim-etkinlik-karti.docx"
+    }
+   ]
+  },
+  {
+   "id": "5-sinif-kasim-etkinlik-karti",
+   "baslik": "Kasım · Etkinlik Kartı – Birlikte Başarabiliriz",
+   "aciklama": "GÜNLÜK YAŞAM BECERİLERİ · AİLEMLE OYNUYORUM",
+   "kapak": "kapak/aoy-5-sinif-kasim-etkinlik-karti.jpg",
+   "aktif": true,
+   "kademe": "ortaokul",
+   "ay": "kasim",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "5. Sınıf Kasım Etkinlik Kartı",
+     "pdf": "pdf/aoy-5-sinif-kasim-etkinlik-karti.pdf",
+     "sayfa": 2,
+     "boyutMB": 0.2,
+     "word": "word/aoy-5-sinif-kasim-etkinlik-karti.docx"
+    }
+   ]
+  },
+  {
+   "id": "5-sinif-aralik-etkinlik-karti",
+   "baslik": "Aralık · Etkinlik Kartı – Geçmişe Mikrofon Uzatıyorum",
+   "aciklama": "AİLEM, MİLLÎ VE MANEVİ DEĞERLERİMİZ · AİLEMLE KÜLTÜR YOLCULUĞUM",
+   "kapak": "kapak/aoy-5-sinif-aralik-etkinlik-karti.jpg",
+   "aktif": true,
+   "kademe": "ortaokul",
+   "ay": "aralik",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "5. Sınıf Aralık Etkinlik Kartı",
+     "pdf": "pdf/aoy-5-sinif-aralik-etkinlik-karti.pdf",
+     "sayfa": 2,
+     "boyutMB": 0.2,
+     "word": "word/aoy-5-sinif-aralik-etkinlik-karti.docx"
+    }
+   ]
+  },
+  {
+   "id": "5-sinif-subat-etkinlik-karti",
+   "baslik": "Şubat · Etkinlik Kartı – Oyundan Değere",
+   "aciklama": "AİLEM, MİLLÎ VE MANEVİ DEĞERLERİMİZ · AİLEDEN OKULA, KÖKLERDEN GELECEĞE",
+   "kapak": "kapak/aoy-5-sinif-subat-etkinlik-karti.jpg",
+   "aktif": true,
+   "kademe": "ortaokul",
+   "ay": "subat",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "5. Sınıf Şubat Etkinlik Kartı",
+     "pdf": "pdf/aoy-5-sinif-subat-etkinlik-karti.pdf",
+     "sayfa": 3,
+     "boyutMB": 0.3,
+     "word": "word/aoy-5-sinif-subat-etkinlik-karti.docx"
+    }
+   ]
+  },
+  {
+   "id": "5-sinif-mart-etkinlik-karti",
+   "baslik": "Mart · Etkinlik Kartı – Ailemle Yeşil Fikirler",
+   "aciklama": "ÇEVRE VE SÜRDÜRÜLEBİLİR YAŞAM · YEŞİL YUVAMIZ",
+   "kapak": "kapak/aoy-5-sinif-mart-etkinlik-karti.jpg",
+   "aktif": true,
+   "kademe": "ortaokul",
+   "ay": "mart",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "5. Sınıf Mart Etkinlik Kartı",
+     "pdf": "pdf/aoy-5-sinif-mart-etkinlik-karti.pdf",
+     "sayfa": 3,
+     "boyutMB": 0.2,
+     "word": "word/aoy-5-sinif-mart-etkinlik-karti.docx"
+    }
+   ]
+  },
+  {
+   "id": "5-sinif-nisan-etkinlik-karti",
+   "baslik": "Nisan · Etkinlik Kartı – Ailemle Sürdürülebilir Yaşam Şenliği",
+   "aciklama": "ÇEVRE VE SÜRDÜRÜLEBİLİR YAŞAM · AİLEMLE SÜRDÜRÜLEBİLİR YAŞAMA KATKI",
+   "kapak": "kapak/aoy-5-sinif-nisan-etkinlik-karti.jpg",
+   "aktif": true,
+   "kademe": "ortaokul",
+   "ay": "nisan",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "5. Sınıf Nisan Etkinlik Kartı",
+     "pdf": "pdf/aoy-5-sinif-nisan-etkinlik-karti.pdf",
+     "sayfa": 3,
+     "boyutMB": 0.3,
+     "word": "word/aoy-5-sinif-nisan-etkinlik-karti.docx"
+    }
+   ]
+  },
+  {
+   "id": "5-sinif-mayis-etkinlik-karti",
+   "baslik": "Mayıs · Etkinlik Kartı – Dijital Dedektiflik",
+   "aciklama": "BİRLİKTE YAŞAM KÜLTÜRÜ · DİJİTAL DÜNYADA BİLİNÇLİ ADIMLAR",
+   "kapak": "kapak/aoy-5-sinif-mayis-etkinlik-karti.jpg",
+   "aktif": true,
+   "kademe": "ortaokul",
+   "ay": "mayis",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "5. Sınıf Mayıs Etkinlik Kartı",
+     "pdf": "pdf/aoy-5-sinif-mayis-etkinlik-karti.pdf",
+     "sayfa": 2,
+     "boyutMB": 0.2,
+     "word": "word/aoy-5-sinif-mayis-etkinlik-karti.docx"
+    }
+   ]
+  },
+  {
+   "id": "5-sinif-haziran-etkinlik-karti",
+   "baslik": "Haziran · Etkinlik Kartı – Nezaket Atölyesi",
+   "aciklama": "BİRLİKTE YAŞAM KÜLTÜRÜ · ARKADAŞLIĞIN DİLİ NEZAKET",
+   "kapak": "kapak/aoy-5-sinif-haziran-etkinlik-karti.jpg",
+   "aktif": true,
+   "kademe": "ortaokul",
+   "ay": "haziran",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "5. Sınıf Haziran Etkinlik Kartı",
+     "pdf": "pdf/aoy-5-sinif-haziran-etkinlik-karti.pdf",
+     "sayfa": 2,
+     "boyutMB": 0.2,
+     "word": "word/aoy-5-sinif-haziran-etkinlik-karti.docx"
+    }
+   ]
   }
  ]
 }
