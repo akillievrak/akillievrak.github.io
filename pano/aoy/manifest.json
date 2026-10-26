@@ -1,0 +1,220 @@
+{
+ "surum": 2,
+ "guncelleme": "2026-10-26",
+ "paketler": [
+  {
+   "id": "eylul-aile-bulteni",
+   "baslik": "Eylül · Aile Bülteni · Okula Merhaba",
+   "aciklama": "Okul Çantamı Hazırlıyorum · Güvenli Okul Yolum · Okulumda Merak Ettiklerim · İlk Adım Defterimizi İnceliyoruz · Okula Başladığım Gün",
+   "kapak": "kapak/aoy-eylul-aile-bulteni.jpg",
+   "aktif": true,
+   "kademe": "okulOncesi",
+   "ay": "eylul",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Eylül Aile Bülteni (Okula Merhaba)",
+     "pdf": "pdf/aoy-eylul-aile-bulteni.pdf",
+     "sayfa": 2,
+     "boyutMB": 0.3,
+     "word": "word/aoy-eylul-aile-bulteni.docx"
+    }
+   ]
+  },
+  {
+   "id": "eylul-meb-materyalleri",
+   "baslik": "MEB Materyalleri · Çocuğumla Okula İlk Adım Defteri ve Veli Sunumu",
+   "aciklama": "Millî Eğitim Bakanlığı (TEGM) tarafından yayımlanmıştır; içerik değiştirilmemiş, defterin dosya boyutu küçültülmüştür.",
+   "kapak": "kapak/aoy-meb-materyalleri.jpg",
+   "aktif": true,
+   "kademe": "okulOncesi",
+   "ay": "eylul",
+   "sira": 2,
+   "dosyalar": [
+    {
+     "ad": "Çocuğumla Okula İlk Adım Defteri",
+     "pdf": "pdf/aoy-ilk-adim-defteri.pdf",
+     "sayfa": 66,
+     "boyutMB": 16.6
+    },
+    {
+     "ad": "Okul Öncesi Eğitim Okula Uyum Süreci Veli Sunumu",
+     "pdf": "pdf/aoy-veli-sunumu.pdf",
+     "sayfa": 27,
+     "boyutMB": 8.3
+    }
+   ]
+  },
+  {
+   "id": "ekim-aile-bulteni",
+   "baslik": "Ekim · Aile Bülteni · Doğayı Birlikte Keşfedelim",
+   "aciklama": "Sonbaharın İzlerini Arıyoruz · Doğanın Küçük Hazineleri · Doğadan Sanata · Birlikte Büyütüyoruz · Gökyüzünü İzliyoruz",
+   "kapak": "kapak/aoy-ekim-aile-bulteni.jpg",
+   "aktif": true,
+   "kademe": "okulOncesi",
+   "ay": "ekim",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Ekim Aile Bülteni (Doğayı Birlikte Keşfedelim)",
+     "pdf": "pdf/aoy-ekim-aile-bulteni.pdf",
+     "sayfa": 2,
+     "boyutMB": 0.3,
+     "word": "word/aoy-ekim-aile-bulteni.docx"
+    }
+   ]
+  },
+  {
+   "id": "kasim-aile-bulteni",
+   "baslik": "Kasım · Aile Bülteni · Kitaplarla Yolculuğa Çıkalım",
+   "aciklama": "Kütüphaneye Gidiyoruz · Kitabımı Ben Seçiyorum · Hikâyenin Sonunu Değiştiriyoruz · Sözcüklerle Oynuyoruz · Ailemizin Hikâyelerini Dinliyoruz",
+   "kapak": "kapak/aoy-kasim-aile-bulteni.jpg",
+   "aktif": true,
+   "kademe": "okulOncesi",
+   "ay": "kasim",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Kasım Aile Bülteni (Kitaplarla Yolculuğa Çıkalım)",
+     "pdf": "pdf/aoy-kasim-aile-bulteni.pdf",
+     "sayfa": 2,
+     "boyutMB": 0.3,
+     "word": "word/aoy-kasim-aile-bulteni.docx"
+    }
+   ]
+  },
+  {
+   "id": "aralik-aile-bulteni",
+   "baslik": "Aralık · Aile Bülteni · Üretelim ve Paylaşalım",
+   "aciklama": "Birlikte Hazırlıyoruz · Eski Malzemeden Yeni Oyuncak · Aile Tasarım Atölyesi · Kumbaramı Tasarlıyorum · Paylaşmayı Seçiyoruz",
+   "kapak": "kapak/aoy-aralik-aile-bulteni.jpg",
+   "aktif": true,
+   "kademe": "okulOncesi",
+   "ay": "aralik",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Aralık Aile Bülteni (Üretelim ve Paylaşalım)",
+     "pdf": "pdf/aoy-aralik-aile-bulteni.pdf",
+     "sayfa": 2,
+     "boyutMB": 0.3,
+     "word": "word/aoy-aralik-aile-bulteni.docx"
+    }
+   ]
+  },
+  {
+   "id": "ocak-aile-bulteni",
+   "baslik": "Ocak · Aile Bülteni · Ailece Oyun Zamanı",
+   "aciklama": "En Sevdiğimiz Kutu Oyunu · Yapbozu Birlikte Tamamlıyoruz · Aile Bulmacası · Filmi Canlandırıyoruz · Fotoğraftaki Hikâye",
+   "kapak": "kapak/aoy-ocak-aile-bulteni.jpg",
+   "aktif": true,
+   "kademe": "okulOncesi",
+   "ay": "ocak",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Ocak Aile Bülteni (Ailece Oyun Zamanı)",
+     "pdf": "pdf/aoy-ocak-aile-bulteni.pdf",
+     "sayfa": 2,
+     "boyutMB": 0.3,
+     "word": "word/aoy-ocak-aile-bulteni.docx"
+    }
+   ]
+  },
+  {
+   "id": "subat-aile-bulteni",
+   "baslik": "Şubat · Aile Bülteni · Hareket Edelim",
+   "aciklama": "Birlikte Yürüyoruz · Parkta Hareket Oyunu · Evde Hareket Parkuru · Müziğin Ritmine Uyuyoruz · Geleneksel Oyunlarımız",
+   "kapak": "kapak/aoy-subat-aile-bulteni.jpg",
+   "aktif": true,
+   "kademe": "okulOncesi",
+   "ay": "subat",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Şubat Aile Bülteni (Hareket Edelim)",
+     "pdf": "pdf/aoy-subat-aile-bulteni.pdf",
+     "sayfa": 2,
+     "boyutMB": 0.3,
+     "word": "word/aoy-subat-aile-bulteni.docx"
+    }
+   ]
+  },
+  {
+   "id": "mart-aile-bulteni",
+   "baslik": "Mart · Aile Bülteni · Merak Edelim ve Araştıralım",
+   "aciklama": "Merak Kutumuz · Türkiye’de Üretilen Teknolojileri Keşfediyoruz · Tahmin Et, Dene, Gözlemle · Ormanlarımızı Koruyoruz · Geçmişten Günümüze",
+   "kapak": "kapak/aoy-mart-aile-bulteni.jpg",
+   "aktif": true,
+   "kademe": "okulOncesi",
+   "ay": "mart",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Mart Aile Bülteni (Merak Edelim ve Araştıralım)",
+     "pdf": "pdf/aoy-mart-aile-bulteni.pdf",
+     "sayfa": 2,
+     "boyutMB": 0.3,
+     "word": "word/aoy-mart-aile-bulteni.docx"
+    }
+   ]
+  },
+  {
+   "id": "nisan-aile-bulteni",
+   "baslik": "Nisan · Aile Bülteni · Sanatla İfade Edelim",
+   "aciklama": "Ortak Resmimiz · Dönüşen Sanat · Sanat Eserlerini İnceliyoruz · Kendi Kitabımızı Yapıyoruz · Aile Sahnesi",
+   "kapak": "kapak/aoy-nisan-aile-bulteni.jpg",
+   "aktif": true,
+   "kademe": "okulOncesi",
+   "ay": "nisan",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Nisan Aile Bülteni (Sanatla İfade Edelim)",
+     "pdf": "pdf/aoy-nisan-aile-bulteni.pdf",
+     "sayfa": 2,
+     "boyutMB": 0.3,
+     "word": "word/aoy-nisan-aile-bulteni.docx"
+    }
+   ]
+  },
+  {
+   "id": "mayis-aile-bulteni",
+   "baslik": "Mayıs · Aile Bülteni · Doğayla Bütünleşelim",
+   "aciklama": "Yakın Çevremizin Canlıları · Bitkimin Bakımını Üstleniyorum · Doğa Günlüğüm · Doğada İz Bırakmadan Piknik · Canlılar İçin Yiyecek ve Su",
+   "kapak": "kapak/aoy-mayis-aile-bulteni.jpg",
+   "aktif": true,
+   "kademe": "okulOncesi",
+   "ay": "mayis",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Mayıs Aile Bülteni (Doğayla Bütünleşelim)",
+     "pdf": "pdf/aoy-mayis-aile-bulteni.pdf",
+     "sayfa": 2,
+     "boyutMB": 0.3,
+     "word": "word/aoy-mayis-aile-bulteni.docx"
+    }
+   ]
+  },
+  {
+   "id": "haziran-aile-bulteni",
+   "baslik": "Haziran · Aile Bülteni · Birlikte Güzel İzler Bırakalım",
+   "aciklama": "Yılın En Sevdiğim Etkinliği · Aile Anı Sayfamız · Bu Yıl Neler Öğrendim? · Değerimizi Yaşatıyoruz · Yaz İçin Aile Planımız",
+   "kapak": "kapak/aoy-haziran-aile-bulteni.jpg",
+   "aktif": true,
+   "kademe": "okulOncesi",
+   "ay": "haziran",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Haziran Aile Bülteni (Birlikte Güzel İzler Bırakalım)",
+     "pdf": "pdf/aoy-haziran-aile-bulteni.pdf",
+     "sayfa": 2,
+     "boyutMB": 0.3,
+     "word": "word/aoy-haziran-aile-bulteni.docx"
+    }
+   ]
+  }
+ ]
+}
