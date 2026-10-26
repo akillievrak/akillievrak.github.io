@@ -215,6 +215,96 @@
      "word": "word/aoy-haziran-aile-bulteni.docx"
     }
    ]
+  },
+  {
+   "id": "1-sinif-ilk-adim-defteri",
+   "baslik": "1. Sınıf Çocuğumla Okula İlk Adım Defteri (MEB)",
+   "aciklama": "Millî Eğitim Bakanlığı (TEGM) tarafından yayımlanmıştır; içerik değiştirilmemiş, dosya boyutu küçültülmüştür.",
+   "kapak": "kapak/aoy-1-sinif-ilk-adim-defteri.jpg",
+   "aktif": true,
+   "kademe": "ilkokul",
+   "ay": "eylul",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "1. Sınıf Çocuğumla Okula İlk Adım Defteri",
+     "pdf": "pdf/aoy-1-sinif-ilk-adim-defteri.pdf",
+     "sayfa": 34,
+     "boyutMB": 12.8
+    }
+   ]
+  },
+  {
+   "id": "1-sinif-veli-sunumu",
+   "baslik": "1. Sınıf Veli Sunumu (MEB)",
+   "aciklama": "Millî Eğitim Bakanlığı (TEGM) tarafından yayımlanmıştır; içerik değiştirilmemiş, dosya boyutu küçültülmüştür.",
+   "kapak": "kapak/aoy-1-sinif-veli-sunumu.jpg",
+   "aktif": true,
+   "kademe": "ilkokul",
+   "ay": "eylul",
+   "sira": 2,
+   "dosyalar": [
+    {
+     "ad": "1. Sınıf Veli Sunumu",
+     "pdf": "pdf/aoy-1-sinif-veli-sunumu.pdf",
+     "sayfa": 47,
+     "boyutMB": 20.5
+    }
+   ]
+  },
+  {
+   "id": "1-sinif-program-ekleri",
+   "baslik": "1. Sınıf Program Ekleri – Rozet, Kart ve Formlar (MEB)",
+   "aciklama": "Millî Eğitim Bakanlığı (TEGM) Ailemle Okul Yolu Programı – 1. Sınıf, s.59-80 (program ekleri); içerik değiştirilmemiştir.",
+   "kapak": "kapak/aoy-1-sinif-program-ekleri.jpg",
+   "aktif": true,
+   "kademe": "ilkokul",
+   "ay": "eylul",
+   "sira": 3,
+   "dosyalar": [
+    {
+     "ad": "1. Sınıf Program Ekleri – Rozet, Kart ve Formlar",
+     "pdf": "pdf/aoy-1-sinif-program-ekleri.pdf",
+     "sayfa": 22,
+     "boyutMB": 11.9
+    }
+   ]
+  },
+  {
+   "id": "5-sinif-veli-sunumu",
+   "baslik": "5. Sınıf Veli Sunumu (MEB)",
+   "aciklama": "Millî Eğitim Bakanlığı (TEGM) tarafından yayımlanmıştır; içerik değiştirilmemiş, dosya boyutu küçültülmüştür.",
+   "kapak": "kapak/aoy-5-sinif-veli-sunumu.jpg",
+   "aktif": true,
+   "kademe": "ortaokul",
+   "ay": "eylul",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "5. Sınıf Veli Sunumu",
+     "pdf": "pdf/aoy-5-sinif-veli-sunumu.pdf",
+     "sayfa": 40,
+     "boyutMB": 10.9
+    }
+   ]
+  },
+  {
+   "id": "5-sinif-program-ekleri",
+   "baslik": "5. Sınıf Program Ekleri – Kart ve Formlar (MEB)",
+   "aciklama": "Millî Eğitim Bakanlığı (TEGM) Ailemle Okul Yolu Programı – 5. Sınıf, s.59-80 (program ekleri); içerik değiştirilmemiştir.",
+   "kapak": "kapak/aoy-5-sinif-program-ekleri.jpg",
+   "aktif": true,
+   "kademe": "ortaokul",
+   "ay": "eylul",
+   "sira": 2,
+   "dosyalar": [
+    {
+     "ad": "5. Sınıf Program Ekleri – Kart ve Formlar",
+     "pdf": "pdf/aoy-5-sinif-program-ekleri.pdf",
+     "sayfa": 22,
+     "boyutMB": 8.5
+    }
+   ]
   }
  ]
 }
