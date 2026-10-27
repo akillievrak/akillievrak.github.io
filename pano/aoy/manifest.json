@@ -1,6 +1,6 @@
 {
  "surum": 2,
- "guncelleme": "2026-10-26",
+ "guncelleme": "2026-10-27",
  "paketler": [
   {
    "id": "eylul-aile-bulteni",
@@ -326,6 +326,25 @@
    ]
   },
   {
+   "id": "1-sinif-hazir-materyal-seti",
+   "baslik": "Hazır Materyal Seti (yıl boyu)",
+   "aciklama": "Programdaki etkinliklerde öğretmenin hazırlaması istenen, ancak programın Ekler bölümünde hazır verilmeyen basılı materyaller bu settedir.",
+   "kapak": "kapak/aoy-1-sinif-hazir-materyal-seti.jpg",
+   "aktif": true,
+   "kademe": "ilkokul",
+   "ay": "eylul",
+   "sira": 5,
+   "dosyalar": [
+    {
+     "ad": "1. Sınıf Hazır Materyal Seti",
+     "pdf": "pdf/aoy-1-sinif-hazir-materyal-seti.pdf",
+     "sayfa": 11,
+     "boyutMB": 0.5,
+     "word": "word/aoy-1-sinif-hazir-materyal-seti.docx"
+    }
+   ]
+  },
+  {
    "id": "1-sinif-ekim-etkinlik-karti",
    "baslik": "Ekim · Etkinlik Kartı – Bulalım, Eşleştirelim",
    "aciklama": "GÜNLÜK YAŞAM BECERİLERİ · AİLEMİN DESTEĞİ İLE HAYATA HAZIRLANIYORUM",
@@ -493,6 +512,25 @@
      "sayfa": 9,
      "boyutMB": 0.4,
      "word": "word/aoy-5-sinif-eylul-uyum-haftasi-etkinlik-kartlari.docx"
+    }
+   ]
+  },
+  {
+   "id": "5-sinif-hazir-materyal-seti",
+   "baslik": "Hazır Materyal Seti (yıl boyu)",
+   "aciklama": "Programdaki etkinliklerde öğretmenin hazırlaması istenen, ancak programın Ekler bölümünde hazır verilmeyen basılı materyaller bu settedir.",
+   "kapak": "kapak/aoy-5-sinif-hazir-materyal-seti.jpg",
+   "aktif": true,
+   "kademe": "ortaokul",
+   "ay": "eylul",
+   "sira": 4,
+   "dosyalar": [
+    {
+     "ad": "5. Sınıf Hazır Materyal Seti",
+     "pdf": "pdf/aoy-5-sinif-hazir-materyal-seti.pdf",
+     "sayfa": 16,
+     "boyutMB": 0.8,
+     "word": "word/aoy-5-sinif-hazir-materyal-seti.docx"
     }
    ]
   },
