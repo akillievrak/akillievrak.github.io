@@ -1,0 +1,109 @@
+{
+ "surum": 2,
+ "guncelleme": "2026-10-31",
+ "paketler": [
+  {
+   "id": "4-ekim-hayvanlari-koruma-gunu",
+   "baslik": "4 Ekim Hayvanları Koruma Günü",
+   "kapak": "kapak/4-ekim-hayvanlari-koruma-gunu.jpg",
+   "aktif": true,
+   "kademe": "hepsi",
+   "ay": "ekim",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Pano Başlığı (4 A4)",
+     "pdf": "pdf/4-ekim-hayvanlari-koruma-gunu-pano-basligi-4-a4.pdf",
+     "sayfa": 5,
+     "boyutMB": 0.8
+    }
+   ]
+  },
+  {
+   "id": "losemili-cocuklar-haftasi",
+   "baslik": "Lösemili Çocuklar Haftası",
+   "kapak": "kapak/losemili-cocuklar-haftasi.jpg",
+   "aktif": true,
+   "kademe": "hepsi",
+   "ay": "kasim",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Pano (9 A4)",
+     "pdf": "pdf/losemili-cocuklar-haftasi-pano-9-a4.pdf",
+     "sayfa": 10,
+     "boyutMB": 2.9
+    }
+   ]
+  },
+  {
+   "id": "yerli-mali-haftasi",
+   "baslik": "Yerli Malı Haftası",
+   "kapak": "kapak/yerli-mali-haftasi.jpg",
+   "aktif": true,
+   "kademe": "hepsi",
+   "ay": "aralik",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Pano Seti",
+     "pdf": "pdf/yerli-mali-haftasi-pano-seti.pdf",
+     "sayfa": 8,
+     "boyutMB": 3.1
+    },
+    {
+     "ad": "Pano Yazısı",
+     "pdf": "pdf/yerli-mali-haftasi-pano-yazisi.pdf",
+     "sayfa": 5,
+     "boyutMB": 0.2
+    },
+    {
+     "ad": "Tutum, Yatırım ve Türk Malları Haftası Pano Başlığı (4 A4)",
+     "pdf": "pdf/tutum-yatirim-ve-turk-mallari-haftasi-pano-basligi-4-a4.pdf",
+     "sayfa": 5,
+     "boyutMB": 0.9
+    }
+   ]
+  },
+  {
+   "id": "yesilay-haftasi",
+   "baslik": "Yeşilay Haftası",
+   "kapak": "kapak/yesilay-haftasi.jpg",
+   "aktif": true,
+   "kademe": "hepsi",
+   "ay": "mart",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Pano Başlığı (4 A4)",
+     "pdf": "pdf/yesilay-haftasi-pano-basligi-4-a4.pdf",
+     "sayfa": 5,
+     "boyutMB": 0.7
+    }
+   ]
+  },
+  {
+   "id": "8-mart-dunya-kadinlar-gunu",
+   "baslik": "8 Mart Dünya Kadınlar Günü",
+   "kapak": "kapak/8-mart-dunya-kadinlar-gunu.jpg",
+   "aktif": true,
+   "kademe": "hepsi",
+   "ay": "mart",
+   "sira": 2,
+   "dosyalar": [
+    {
+     "ad": "Süsler",
+     "pdf": "pdf/8-mart-dunya-kadinlar-gunu-susleri.pdf",
+     "sayfa": 8,
+     "boyutMB": 2.7
+    },
+    {
+     "ad": "Pano Başlığı (4 A4)",
+     "pdf": "pdf/8-mart-dunya-kadinlar-gunu-pano-basligi-4-a4.pdf",
+     "sayfa": 5,
+     "boyutMB": 0.7
+    }
+   ]
+  }
+ ]
+}

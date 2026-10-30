@@ -1,0 +1,349 @@
+{
+ "surum": 2,
+ "guncelleme": "2026-10-31",
+ "paketler": [
+  {
+   "id": "29-ekim-cumhuriyet-bayrami",
+   "baslik": "29 Ekim Cumhuriyet Bayramı",
+   "kapak": "kapak/29-ekim-cumhuriyet-bayrami.jpg",
+   "aktif": true,
+   "kademe": "hepsi",
+   "ay": "ekim",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Pano Seti",
+     "pdf": "pdf/29-ekim-pano-seti.pdf",
+     "sayfa": 22,
+     "boyutMB": 0.4
+    },
+    {
+     "ad": "Pano Başlığı (4 A4)",
+     "pdf": "pdf/29-ekim-pano-basligi-4-a4.pdf",
+     "sayfa": 5,
+     "boyutMB": 0.8
+    },
+    {
+     "ad": "Pano Yazısı",
+     "pdf": "pdf/29-ekim-pano-yazisi.pdf",
+     "sayfa": 10,
+     "boyutMB": 0.5
+    },
+    {
+     "ad": "Pano Süsleri",
+     "pdf": "pdf/29-ekim-pano-susleri.pdf",
+     "sayfa": 12,
+     "boyutMB": 8.1
+    },
+    {
+     "ad": "Çiçek Süsleri",
+     "pdf": "pdf/29-ekim-cicek-susleri.pdf",
+     "sayfa": 18,
+     "boyutMB": 5.3
+    },
+    {
+     "ad": "Kesilebilir Süsler",
+     "pdf": "pdf/29-ekim-kesilebilir-susler.pdf",
+     "sayfa": 7,
+     "boyutMB": 2
+    },
+    {
+     "ad": "Kes-Yapıştır Süsler",
+     "pdf": "pdf/29-ekim-kes-yapistir-susler.pdf",
+     "sayfa": 12,
+     "boyutMB": 2.4
+    },
+    {
+     "ad": "Asmalık Süsler",
+     "pdf": "pdf/29-ekim-asmalik-susler.pdf",
+     "sayfa": 7,
+     "boyutMB": 3.7
+    }
+   ]
+  },
+  {
+   "id": "ataturk-ve-cumhuriyetin-cocuklari",
+   "baslik": "Atatürk ve Cumhuriyetin Çocukları Panosu",
+   "kapak": "kapak/ataturk-ve-cumhuriyetin-cocuklari.jpg",
+   "aktif": true,
+   "kademe": "hepsi",
+   "ay": "ekim",
+   "sira": 2,
+   "dosyalar": [
+    {
+     "ad": "Atatürk ve Cumhuriyetin Çocukları Panosu (9 A4)",
+     "pdf": "pdf/ataturk-ve-cumhuriyetin-cocuklari-pano-9-a4.pdf",
+     "sayfa": 10,
+     "boyutMB": 3.2
+    },
+    {
+     "ad": "Atatürk ve Cumhuriyetin Çocukları Panosu (4 A4)",
+     "pdf": "pdf/ataturk-ve-cumhuriyetin-cocuklari-pano-4-a4.pdf",
+     "sayfa": 5,
+     "boyutMB": 3.1
+    }
+   ]
+  },
+  {
+   "id": "10-kasim",
+   "baslik": "10 Kasım Atatürk'ü Anma Günü",
+   "kapak": "kapak/10-kasim.jpg",
+   "aktif": true,
+   "kademe": "hepsi",
+   "ay": "kasim",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Karanfil Süsleri",
+     "pdf": "pdf/10-kasim-karanfil-susleri.pdf",
+     "sayfa": 17,
+     "boyutMB": 4.6
+    },
+    {
+     "ad": "Pano Yazısı",
+     "pdf": "pdf/10-kasim-pano-yazisi.pdf",
+     "sayfa": 8,
+     "boyutMB": 0.3
+    },
+    {
+     "ad": "Saygı ve Özlemle Panosu (9 A4)",
+     "pdf": "pdf/10-kasim-saygi-ve-ozlemle-pano-9-a4.pdf",
+     "sayfa": 10,
+     "boyutMB": 2.8
+    },
+    {
+     "ad": "Saygı ve Özlemle Panosu (4 A4)",
+     "pdf": "pdf/10-kasim-saygi-ve-ozlemle-pano-4-a4.pdf",
+     "sayfa": 5,
+     "boyutMB": 2.7
+    }
+   ]
+  },
+  {
+   "id": "24-kasim-ogretmenler-gunu",
+   "baslik": "24 Kasım Öğretmenler Günü",
+   "kapak": "kapak/24-kasim-ogretmenler-gunu.jpg",
+   "aktif": true,
+   "kademe": "hepsi",
+   "ay": "kasim",
+   "sira": 2,
+   "dosyalar": [
+    {
+     "ad": "Öğretmenler Günü Panosu 1 (10 A4)",
+     "pdf": "pdf/24-kasim-ogretmenler-gunu-pano-1-10-a4.pdf",
+     "sayfa": 11,
+     "boyutMB": 3.5
+    },
+    {
+     "ad": "Öğretmenler Günü Panosu 1 (4 A4)",
+     "pdf": "pdf/24-kasim-ogretmenler-gunu-pano-1-4-a4.pdf",
+     "sayfa": 5,
+     "boyutMB": 3.4
+    },
+    {
+     "ad": "Öğretmenler Günü Panosu 2 (6 A4)",
+     "pdf": "pdf/24-kasim-ogretmenler-gunu-pano-2-6-a4.pdf",
+     "sayfa": 7,
+     "boyutMB": 3
+    },
+    {
+     "ad": "Öğretmenler Günü Panosu 3 (10 A4)",
+     "pdf": "pdf/24-kasim-ogretmenler-gunu-pano-3-10-a4.pdf",
+     "sayfa": 11,
+     "boyutMB": 3.1
+    },
+    {
+     "ad": "Öğretmenler Günü Panosu 3 (4 A4)",
+     "pdf": "pdf/24-kasim-ogretmenler-gunu-pano-3-4-a4.pdf",
+     "sayfa": 5,
+     "boyutMB": 3.1
+    }
+   ]
+  },
+  {
+   "id": "18-mart-canakkale-zaferi",
+   "baslik": "18 Mart Çanakkale Zaferi",
+   "kapak": "kapak/18-mart-canakkale-zaferi.jpg",
+   "aktif": true,
+   "kademe": "hepsi",
+   "ay": "mart",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Kesilebilir Süsler",
+     "pdf": "pdf/18-mart-canakkale-kesilebilir-susler.pdf",
+     "sayfa": 6,
+     "boyutMB": 2.3
+    },
+    {
+     "ad": "Pano Yazısı",
+     "pdf": "pdf/18-mart-canakkale-pano-yazisi.pdf",
+     "sayfa": 6,
+     "boyutMB": 0.3
+    }
+   ]
+  },
+  {
+   "id": "23-nisan",
+   "baslik": "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı",
+   "kapak": "kapak/23-nisan.jpg",
+   "aktif": true,
+   "kademe": "hepsi",
+   "ay": "nisan",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Kesilebilir Süsler",
+     "pdf": "pdf/23-nisan-kesilebilir-susler.pdf",
+     "sayfa": 8,
+     "boyutMB": 3.1
+    },
+    {
+     "ad": "Pano Yazısı",
+     "pdf": "pdf/23-nisan-pano-yazisi.pdf",
+     "sayfa": 13,
+     "boyutMB": 0.4
+    },
+    {
+     "ad": "Pano Başlığı (4 A4)",
+     "pdf": "pdf/23-nisan-pano-basligi-4-a4.pdf",
+     "sayfa": 5,
+     "boyutMB": 0.8
+    },
+    {
+     "ad": "Atatürk ve Çocuklar Panosu (9 A4)",
+     "pdf": "pdf/23-nisan-ataturk-ve-cocuklar-pano-9-a4.pdf",
+     "sayfa": 10,
+     "boyutMB": 2.6
+    },
+    {
+     "ad": "Atatürk ve Çocuklar Panosu (4 A4)",
+     "pdf": "pdf/23-nisan-ataturk-ve-cocuklar-pano-4-a4.pdf",
+     "sayfa": 5,
+     "boyutMB": 2.5
+    }
+   ]
+  },
+  {
+   "id": "19-mayis",
+   "baslik": "19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı",
+   "kapak": "kapak/19-mayis.jpg",
+   "aktif": true,
+   "kademe": "hepsi",
+   "ay": "mayis",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Kesilebilir Süsler",
+     "pdf": "pdf/19-mayis-kesilebilir-susler.pdf",
+     "sayfa": 6,
+     "boyutMB": 2.3
+    },
+    {
+     "ad": "Pano Yazısı",
+     "pdf": "pdf/19-mayis-pano-yazisi.pdf",
+     "sayfa": 13,
+     "boyutMB": 0.6
+    },
+    {
+     "ad": "Pano Başlığı (4 A4)",
+     "pdf": "pdf/19-mayis-pano-basligi-4-a4.pdf",
+     "sayfa": 5,
+     "boyutMB": 0.8
+    },
+    {
+     "ad": "Atatürk ve Gençlik Panosu (9 A4)",
+     "pdf": "pdf/19-mayis-ataturk-ve-genclik-pano-9-a4.pdf",
+     "sayfa": 10,
+     "boyutMB": 2.9
+    },
+    {
+     "ad": "Atatürk ve Gençlik Panosu (4 A4)",
+     "pdf": "pdf/19-mayis-ataturk-ve-genclik-pano-4-a4.pdf",
+     "sayfa": 5,
+     "boyutMB": 2.8
+    }
+   ]
+  },
+  {
+   "id": "bayrak-renklerinde-balon-demetleri",
+   "baslik": "Bayrak Renklerinde Balon Demetleri",
+   "kapak": "kapak/bayrak-renklerinde-balon-demetleri.jpg",
+   "aktif": true,
+   "kademe": "hepsi",
+   "ay": "genel",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Bayrak Renklerinde Balon Demetleri",
+     "pdf": "pdf/bayrak-renklerinde-balon-demetleri.pdf",
+     "sayfa": 8,
+     "boyutMB": 2.7
+    }
+   ]
+  },
+  {
+   "id": "cicek-pano-kes-yapistir-susleri",
+   "baslik": "Çiçek, Pano ve Kes-Yapıştır Süsleri",
+   "kapak": "kapak/cicek-pano-kes-yapistir-susleri.jpg",
+   "aktif": true,
+   "kademe": "hepsi",
+   "ay": "genel",
+   "sira": 2,
+   "dosyalar": [
+    {
+     "ad": "Çiçek Süsleri",
+     "pdf": "pdf/29-ekim-cicek-susleri.pdf",
+     "sayfa": 18,
+     "boyutMB": 5.3
+    },
+    {
+     "ad": "Pano Süsleri",
+     "pdf": "pdf/29-ekim-pano-susleri.pdf",
+     "sayfa": 12,
+     "boyutMB": 8.1
+    },
+    {
+     "ad": "Kes-Yapıştır Süsler",
+     "pdf": "pdf/29-ekim-kes-yapistir-susler.pdf",
+     "sayfa": 12,
+     "boyutMB": 2.4
+    }
+   ]
+  },
+  {
+   "id": "osmanli-motifli-kaligrafi-panolari",
+   "baslik": "Osmanlı Motifli Kaligrafi Panoları",
+   "kapak": "kapak/osmanli-motifli-kaligrafi-panolari.jpg",
+   "aktif": true,
+   "kademe": "hepsi",
+   "ay": "genel",
+   "sira": 3,
+   "dosyalar": [
+    {
+     "ad": "Osmanlı Motifli Kaligrafi Panoları",
+     "pdf": "pdf/osmanli-motifli-kaligrafi-panolari.pdf",
+     "sayfa": 14,
+     "boyutMB": 7.7
+    }
+   ]
+  },
+  {
+   "id": "dilimizin-zenginlikleri-kaligrafi-panosu",
+   "baslik": "Dilimizin Zenginlikleri Kaligrafi Panosu",
+   "kapak": "kapak/dilimizin-zenginlikleri-kaligrafi-panosu.jpg",
+   "aktif": true,
+   "kademe": "hepsi",
+   "ay": "genel",
+   "sira": 4,
+   "dosyalar": [
+    {
+     "ad": "Dilimizin Zenginlikleri Kaligrafi Panosu",
+     "pdf": "pdf/dilimizin-zenginlikleri-kaligrafi-pano.pdf",
+     "sayfa": 1,
+     "boyutMB": 3.1
+    }
+   ]
+  }
+ ]
+}

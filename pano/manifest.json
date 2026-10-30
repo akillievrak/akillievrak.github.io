@@ -1,6 +1,6 @@
 {
  "surum": 2,
- "guncelleme": "2026-10-06",
+ "guncelleme": "2026-10-31",
  "paketler": [
   {
    "id": "etkinlik-rehberi",
@@ -251,7 +251,7 @@
      "ad": "Canlı Harita Seti",
      "pdf": "pdf/lise-ekim-canli-harita.pdf",
      "sayfa": 7,
-     "boyutMB": 2.0,
+     "boyutMB": 2,
      "word": "word/lise-ekim-canli-harita-formlar.docx"
     }
    ]
@@ -360,7 +360,7 @@
      "ad": "1 · Klasik",
      "pdf": "pdf/ozlu-sozler-1-klasik.pdf",
      "sayfa": 5,
-     "boyutMB": 2.0
+     "boyutMB": 2
     },
     {
      "ad": "2 · Dikey Tezhip",
@@ -684,13 +684,115 @@
      "ad": "Kelime Pasaportu (A4 baskı)",
      "pdf": "pdf/kelime-pasaportu-a4.pdf",
      "sayfa": 8,
-     "boyutMB": 4.0
+     "boyutMB": 4
     },
     {
      "ad": "Kelime Yolcuları Başarı Köşesi",
      "pdf": "pdf/kelime-yolculari.pdf",
      "sayfa": 5,
      "boyutMB": 1.6
+    }
+   ]
+  },
+  {
+   "id": "osmanli-motifli-kaligrafi-panolari",
+   "baslik": "Osmanlı Motifli Kaligrafi Panoları",
+   "kapak": "kapak/osmanli-motifli-kaligrafi-panolari.jpg",
+   "aktif": true,
+   "kademe": "hepsi",
+   "ay": "genel",
+   "sira": 20,
+   "dosyalar": [
+    {
+     "ad": "Osmanlı Motifli Kaligrafi Panoları",
+     "pdf": "pdf/osmanli-motifli-kaligrafi-panolari.pdf",
+     "sayfa": 14,
+     "boyutMB": 7.7
+    }
+   ]
+  },
+  {
+   "id": "dilimizin-zenginlikleri-kaligrafi-panosu",
+   "baslik": "Dilimizin Zenginlikleri Kaligrafi Panosu",
+   "kapak": "kapak/dilimizin-zenginlikleri-kaligrafi-panosu.jpg",
+   "aktif": true,
+   "kademe": "hepsi",
+   "ay": "genel",
+   "sira": 21,
+   "dosyalar": [
+    {
+     "ad": "Dilimizin Zenginlikleri Kaligrafi Panosu",
+     "pdf": "pdf/dilimizin-zenginlikleri-kaligrafi-pano.pdf",
+     "sayfa": 1,
+     "boyutMB": 3.1
+    }
+   ]
+  },
+  {
+   "id": "boyanabilir-kaligrafik-cizimler",
+   "baslik": "Boyanabilir Kaligrafik Çizimler",
+   "kapak": "kapak/boyanabilir-kaligrafik-cizimler.jpg",
+   "aktif": true,
+   "kademe": "hepsi",
+   "ay": "genel",
+   "sira": 22,
+   "dosyalar": [
+    {
+     "ad": "Boyanabilir Kaligrafik Çizimler",
+     "pdf": "pdf/boyanabilir-kaligrafik-cizimler.pdf",
+     "sayfa": 14,
+     "boyutMB": 13.3
+    }
+   ]
+  },
+  {
+   "id": "dilimizin-zenginlikleri-harf-panosu",
+   "baslik": "Dilimizin Zenginlikleri Harf Panosu (22 A4)",
+   "kapak": "kapak/dilimizin-zenginlikleri-harf-panosu.jpg",
+   "aktif": true,
+   "kademe": "hepsi",
+   "ay": "genel",
+   "sira": 23,
+   "dosyalar": [
+    {
+     "ad": "Dilimizin Zenginlikleri Harf Panosu (22 A4)",
+     "pdf": "pdf/dilimizin-zenginlikleri-harf-panosu-22-a4.pdf",
+     "sayfa": 22,
+     "boyutMB": 3.7
+    }
+   ]
+  },
+  {
+   "id": "dilimizin-zenginlikleri-tek-parca-pano",
+   "baslik": "Dilimizin Zenginlikleri Tek Parça Pano (6 A4)",
+   "kapak": "kapak/dilimizin-zenginlikleri-tek-parca-pano.jpg",
+   "aktif": true,
+   "kademe": "hepsi",
+   "ay": "genel",
+   "sira": 24,
+   "dosyalar": [
+    {
+     "ad": "Dilimizin Zenginlikleri Tek Parça Pano (6 A4)",
+     "pdf": "pdf/dilimizin-zenginlikleri-tek-parca-pano-6-a4.pdf",
+     "sayfa": 7,
+     "boyutMB": 2
+    }
+   ]
+  },
+  {
+   "id": "dilimizin-zenginlikleri-pano-basligi",
+   "baslik": "Dilimizin Zenginlikleri Pano Başlığı (4 A4)",
+   "kapak": "kapak/dilimizin-zenginlikleri-pano-basligi.jpg",
+   "aktif": true,
+   "kademe": "hepsi",
+   "ay": "genel",
+   "sira": 25,
+   "dosyalar": [
+    {
+     "ad": "Dilimizin Zenginlikleri Pano Başlığı (4 A4)",
+     "pdf": "pdf/dilimizin-zenginlikleri-pano-basligi-4-a4.pdf",
+     "sayfa": 5,
+     "boyutMB": 0.9
     }
    ]
   }
