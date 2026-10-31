@@ -1,6 +1,6 @@
 {
  "surum": 2,
- "guncelleme": "2026-10-31",
+ "guncelleme": "2026-11-01",
  "paketler": [
   {
    "id": "okul-uygulama-rehberi",
@@ -17,6 +17,341 @@
      "pdf": "pdf/yasam-becerileri-okul-uygulama-rehberi.pdf",
      "sayfa": 7,
      "boyutMB": 1.2
+    }
+   ]
+  },
+  {
+   "id": "okul-oncesi-aralik-sofra-hazirligi",
+   "baslik": "Aralık · Sofra Hazırlığı",
+   "aciklama": "Öğretmen Sayfası · Sofra Şablonu · Kesilecek Sofra Takımı · Sırayla Yapıştır · Boya Bakalım · Evde Sofra Yıldızlarım · Pano Afişi",
+   "kapak": "kapak/okul-oncesi-aralik-sofra-hazirligi.jpg",
+   "aktif": true,
+   "kademe": "okulOncesi",
+   "ay": "aralik",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Sofra Hazırlığı · Etkinlik Seti",
+     "pdf": "pdf/okul-oncesi-aralik-sofra-hazirligi.pdf",
+     "sayfa": 10,
+     "boyutMB": 1.3
+    }
+   ]
+  },
+  {
+   "id": "okul-oncesi-subat-temizlik-resimlerim",
+   "baslik": "Şubat · Temizlik Resimlerim",
+   "aciklama": "Öğretmen Sayfası · Adım Adım Temizlik · Temizlik Resmim · Köpükleri Boya · Temizlik Yıldızlarım · Pano Afişi",
+   "kapak": "kapak/okul-oncesi-subat-temizlik-resimlerim.jpg",
+   "aktif": true,
+   "kademe": "okulOncesi",
+   "ay": "subat",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Temizlik Resimlerim · Etkinlik Seti",
+     "pdf": "pdf/okul-oncesi-subat-temizlik-resimlerim.pdf",
+     "sayfa": 9,
+     "boyutMB": 1.3
+    }
+   ]
+  },
+  {
+   "id": "okul-oncesi-mart-dinleyen-kulaklar",
+   "baslik": "Mart · Dinleyen Kulaklar",
+   "aciklama": "Öğretmen Sayfası · Hikâye Zamanı (Kırmızı Kalem) · Soru Kartları · En Sevdiğim Bölüm · Dinlerken Ben... · Pano Afişi",
+   "kapak": "kapak/okul-oncesi-mart-dinleyen-kulaklar.jpg",
+   "aktif": true,
+   "kademe": "okulOncesi",
+   "ay": "mart",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Dinleyen Kulaklar · Etkinlik Seti",
+     "pdf": "pdf/okul-oncesi-mart-dinleyen-kulaklar.pdf",
+     "sayfa": 8,
+     "boyutMB": 1.1
+    }
+   ]
+  },
+  {
+   "id": "okul-oncesi-nisan-atiklardan-sanat",
+   "baslik": "Nisan · Atıklardan Sanat",
+   "aciklama": "Öğretmen Sayfası · Veli Mektubu · Ne Yapacağım? · Doğru Kutuya · Sergi Etiketleri · Pano Afişi",
+   "kapak": "kapak/okul-oncesi-nisan-atiklardan-sanat.jpg",
+   "aktif": true,
+   "kademe": "okulOncesi",
+   "ay": "nisan",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Atıklardan Sanat · Etkinlik Seti",
+     "pdf": "pdf/okul-oncesi-nisan-atiklardan-sanat.pdf",
+     "sayfa": 8,
+     "boyutMB": 1.2,
+     "word": "word/okul-oncesi-nisan-veli-mektubu.docx"
+    }
+   ]
+  },
+  {
+   "id": "okul-oncesi-mayis-hayalimdeki-okul",
+   "baslik": "Mayıs · Hayalimdeki Okul",
+   "aciklama": "Öğretmen Sayfası · Hayalimdeki Okul · Maket Parçaları · Ben Bu Etkinlikte... · Pano Afişi",
+   "kapak": "kapak/okul-oncesi-mayis-hayalimdeki-okul.jpg",
+   "aktif": true,
+   "kademe": "okulOncesi",
+   "ay": "mayis",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Hayalimdeki Okul · Etkinlik Seti",
+     "pdf": "pdf/okul-oncesi-mayis-hayalimdeki-okul.pdf",
+     "sayfa": 7,
+     "boyutMB": 1.1
+    }
+   ]
+  },
+  {
+   "id": "ilkokul-aralik-sofra-hazirligi",
+   "baslik": "Aralık · Sofra Hazırlığı",
+   "aciklama": "Öğretmen Uygulama Sayfası · Sofra Düzeni Şablonu · Kesilecek Sofra Takımı · Sofra Hazırlama Sıralama Kartları · Evde Sofra Görevim (Aile Kartı) · Pano Afişi",
+   "kapak": "kapak/ilkokul-aralik-sofra-hazirligi.jpg",
+   "aktif": true,
+   "kademe": "ilkokul",
+   "ay": "aralik",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Sofra Hazırlığı · Etkinlik Seti",
+     "pdf": "pdf/ilkokul-aralik-sofra-hazirligi.pdf",
+     "sayfa": 9,
+     "boyutMB": 0.9,
+     "word": "word/ilkokul-aralik-sofra-hazirligi-formlar.docx"
+    }
+   ]
+  },
+  {
+   "id": "ilkokul-subat-hijyen-temali-resim-yapma",
+   "baslik": "Şubat · Hijyen Temalı Resim Yapma",
+   "aciklama": "Öğretmen Uygulama Sayfası · El Yıkama ve Diş Fırçalama Adım Kartları · Hijyen Resmim · Haftalık Hijyen Takip Çizelgesi · Pano Afişi",
+   "kapak": "kapak/ilkokul-subat-hijyen-temali-resim-yapma.jpg",
+   "aktif": true,
+   "kademe": "ilkokul",
+   "ay": "subat",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Hijyen Temalı Resim Yapma · Etkinlik Seti",
+     "pdf": "pdf/ilkokul-subat-hijyen-temali-resim-yapma.pdf",
+     "sayfa": 8,
+     "boyutMB": 0.9,
+     "word": "word/ilkokul-subat-hijyen-temali-resim-yapma-formlar.docx"
+    }
+   ]
+  },
+  {
+   "id": "ilkokul-mart-iyi-dinleyici-olma-egzersizi",
+   "baslik": "Mart · İyi Dinleyici Olma Egzersizi",
+   "aciklama": "Öğretmen Uygulama Sayfası · Dinleme Hikâyesi (Kırmızı Kalem) · Soru Kartları · Dinleme Kâğıdı · Pano Afişi",
+   "kapak": "kapak/ilkokul-mart-iyi-dinleyici-olma-egzersizi.jpg",
+   "aktif": true,
+   "kademe": "ilkokul",
+   "ay": "mart",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "İyi Dinleyici Olma Egzersizi · Etkinlik Seti",
+     "pdf": "pdf/ilkokul-mart-iyi-dinleyici-olma-egzersizi.pdf",
+     "sayfa": 7,
+     "boyutMB": 0.9,
+     "word": "word/ilkokul-mart-iyi-dinleyici-olma-egzersizi-formlar.docx"
+    }
+   ]
+  },
+  {
+   "id": "ilkokul-nisan-atik-sanat-projesi",
+   "baslik": "Nisan · Atık Sanat Projesi",
+   "aciklama": "Öğretmen Uygulama Sayfası · Veli Mektubu (Atık Malzeme Toplama) · Proje Planım · Sergi Etiketleri · Sunum Kartı · Pano Afişi",
+   "kapak": "kapak/ilkokul-nisan-atik-sanat-projesi.jpg",
+   "aktif": true,
+   "kademe": "ilkokul",
+   "ay": "nisan",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Atık Sanat Projesi · Etkinlik Seti",
+     "pdf": "pdf/ilkokul-nisan-atik-sanat-projesi.pdf",
+     "sayfa": 9,
+     "boyutMB": 1.1,
+     "word": "word/ilkokul-nisan-atik-sanat-projesi-formlar.docx"
+    }
+   ]
+  },
+  {
+   "id": "ilkokul-mayis-gelecegin-okulunu-tasarla",
+   "baslik": "Mayıs · Geleceğin Okulunu Tasarla",
+   "aciklama": "Öğretmen Uygulama Sayfası · Hayalimdeki Okul · Maket Planımız (Grup) · Kendimi Değerlendiriyorum · Pano Afişi",
+   "kapak": "kapak/ilkokul-mayis-gelecegin-okulunu-tasarla.jpg",
+   "aktif": true,
+   "kademe": "ilkokul",
+   "ay": "mayis",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Geleceğin Okulunu Tasarla · Etkinlik Seti",
+     "pdf": "pdf/ilkokul-mayis-gelecegin-okulunu-tasarla.pdf",
+     "sayfa": 8,
+     "boyutMB": 0.9,
+     "word": "word/ilkokul-mayis-gelecegin-okulunu-tasarla-formlar.docx"
+    }
+   ]
+  },
+  {
+   "id": "ortaokul-aralik-okul-esyalarini-duzenleme",
+   "baslik": "Aralık · Okul Eşyalarını Düzenleme",
+   "aciklama": "Öğretmen Uygulama Sayfası · Haftalık Çanta Kontrol Listesi · Malzeme Bakım ve Eksik Listesi · Defter ve Kitap Kontrol Çizelgesi · Okul Malzemelerimi Düzenleme Rehberim (Grup) · Pano Afişi",
+   "kapak": "kapak/ortaokul-aralik-okul-esyalarini-duzenleme.jpg",
+   "aktif": true,
+   "kademe": "ortaokul",
+   "ay": "aralik",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Okul Eşyalarını Düzenleme · Etkinlik Seti",
+     "pdf": "pdf/ortaokul-aralik-okul-esyalarini-duzenleme.pdf",
+     "sayfa": 11,
+     "boyutMB": 1,
+     "word": "word/ortaokul-aralik-okul-esyalarini-duzenleme-formlar.docx"
+    }
+   ]
+  },
+  {
+   "id": "ortaokul-subat-el-hijyeni",
+   "baslik": "Şubat · El Hijyenini Doğru Uygulama Becerisi Kazanma",
+   "aciklama": "Öğretmen Uygulama Sayfası · Doğru El Yıkama Adımları · El Hijyeni Öz Gözlem Çizelgesi · Farkındalık Görev Kartları · Görev Raporu · Pano Afişi",
+   "kapak": "kapak/ortaokul-subat-el-hijyeni.jpg",
+   "aktif": true,
+   "kademe": "ortaokul",
+   "ay": "subat",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "El Hijyenini Doğru Uygulama Becerisi Kazanma · Etkinlik Seti",
+     "pdf": "pdf/ortaokul-subat-el-hijyeni.pdf",
+     "sayfa": 9,
+     "boyutMB": 1.1,
+     "word": "word/ortaokul-subat-el-hijyeni-formlar.docx"
+    }
+   ]
+  },
+  {
+   "id": "ortaokul-mart-aktif-dinleme",
+   "baslik": "Mart · Aktif Dinleme Becerisi Kazandırma",
+   "aciklama": "Öğretmen Uygulama Sayfası · Anlatma Konu Kartları · Dinleyici Kâğıdı · Aktif Dinleme Gözlem Formu (Gözlemci) · Pano Afişi",
+   "kapak": "kapak/ortaokul-mart-aktif-dinleme.jpg",
+   "aktif": true,
+   "kademe": "ortaokul",
+   "ay": "mart",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Aktif Dinleme Becerisi Kazandırma · Etkinlik Seti",
+     "pdf": "pdf/ortaokul-mart-aktif-dinleme.pdf",
+     "sayfa": 8,
+     "boyutMB": 0.9,
+     "word": "word/ortaokul-mart-aktif-dinleme-formlar.docx"
+    }
+   ]
+  },
+  {
+   "id": "ortaokul-nisan-geri-donusum-bilinci",
+   "baslik": "Nisan · Geri Dönüşüm Bilinci Kazanma",
+   "aciklama": "Öğretmen Uygulama Sayfası · Geri Dönüşüm Kutusu Etiketleri · Atık Ayırma Oyun Kartları · Evimizde Geri Dönüşüm Takip Çizelgesi · Proje Sunum Planı · Pano Afişi",
+   "kapak": "kapak/ortaokul-nisan-geri-donusum-bilinci.jpg",
+   "aktif": true,
+   "kademe": "ortaokul",
+   "ay": "nisan",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Geri Dönüşüm Bilinci Kazanma · Etkinlik Seti",
+     "pdf": "pdf/ortaokul-nisan-geri-donusum-bilinci.pdf",
+     "sayfa": 9,
+     "boyutMB": 1.1,
+     "word": "word/ortaokul-nisan-geri-donusum-bilinci-formlar.docx"
+    }
+   ]
+  },
+  {
+   "id": "ortaokul-mayis-yaratici-dusunme",
+   "baslik": "Mayıs · Yaratıcı Düşünme Becerileri Geliştirme",
+   "aciklama": "Öğretmen Uygulama Sayfası · Problem Kartları · Fikir Fırtınası · Çözüm Değerlendirme Tablosu · Pano Afişi",
+   "kapak": "kapak/ortaokul-mayis-yaratici-dusunme.jpg",
+   "aktif": true,
+   "kademe": "ortaokul",
+   "ay": "mayis",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Yaratıcı Düşünme Becerileri Geliştirme · Etkinlik Seti",
+     "pdf": "pdf/ortaokul-mayis-yaratici-dusunme.pdf",
+     "sayfa": 8,
+     "boyutMB": 0.9,
+     "word": "word/ortaokul-mayis-yaratici-dusunme-formlar.docx"
+    }
+   ]
+  },
+  {
+   "id": "ilkokul-etkinlik-kitabi-okul-oncesi",
+   "baslik": "İlkokul Yaşam Becerileri Etkinlik Kitabı",
+   "aciklama": "Millî Eğitim Bakanlığı Temel Eğitim Genel Müdürlüğü tarafından yayımlanmıştır; içerik değiştirilmemiştir.",
+   "kapak": "kapak/ilkokul-etkinlik-kitabi.jpg",
+   "aktif": true,
+   "kademe": "okulOncesi",
+   "ay": "genel",
+   "sira": 2,
+   "dosyalar": [
+    {
+     "ad": "İlkokul Yaşam Becerileri Etkinlik Kitabı",
+     "pdf": "pdf/ilkokul-etkinlik-kitabi.pdf",
+     "sayfa": 72,
+     "boyutMB": 34.6
+    }
+   ]
+  },
+  {
+   "id": "ilkokul-etkinlik-kitabi",
+   "baslik": "İlkokul Yaşam Becerileri Etkinlik Kitabı",
+   "aciklama": "Millî Eğitim Bakanlığı Temel Eğitim Genel Müdürlüğü tarafından yayımlanmıştır; içerik değiştirilmemiştir.",
+   "kapak": "kapak/ilkokul-etkinlik-kitabi.jpg",
+   "aktif": true,
+   "kademe": "ilkokul",
+   "ay": "genel",
+   "sira": 2,
+   "dosyalar": [
+    {
+     "ad": "İlkokul Yaşam Becerileri Etkinlik Kitabı",
+     "pdf": "pdf/ilkokul-etkinlik-kitabi.pdf",
+     "sayfa": 72,
+     "boyutMB": 34.6
+    }
+   ]
+  },
+  {
+   "id": "ortaokul-etkinlik-kitabi",
+   "baslik": "Ortaokul Yaşam Becerileri Etkinlik Kitabı",
+   "aciklama": "Millî Eğitim Bakanlığı Temel Eğitim Genel Müdürlüğü tarafından yayımlanmıştır; içerik değiştirilmemiştir.",
+   "kapak": "kapak/ortaokul-etkinlik-kitabi.jpg",
+   "aktif": true,
+   "kademe": "ortaokul",
+   "ay": "genel",
+   "sira": 2,
+   "dosyalar": [
+    {
+     "ad": "Ortaokul Yaşam Becerileri Etkinlik Kitabı",
+     "pdf": "pdf/ortaokul-etkinlik-kitabi.pdf",
+     "sayfa": 72,
+     "boyutMB": 30.3
     }
    ]
   }
