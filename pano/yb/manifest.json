@@ -1,0 +1,24 @@
+{
+ "surum": 2,
+ "guncelleme": "2026-10-31",
+ "paketler": [
+  {
+   "id": "okul-uygulama-rehberi",
+   "baslik": "Okul Uygulama Rehberi",
+   "aciklama": "Proje nedir, kimleri kapsar · Okul yürütme komisyonu ve görevleri · Yıl boyu uygulama takvimi · Hazırlanacak evraklar ve zamanları · Gözlem formu · Örnek faaliyet planları ve sık sorulan sorular",
+   "kapak": "kapak/yasam-becerileri-okul-uygulama-rehberi.jpg",
+   "aktif": true,
+   "kademe": "hepsi",
+   "ay": "genel",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Yaşam Becerileri Projesi · Okul Uygulama Rehberi",
+     "pdf": "pdf/yasam-becerileri-okul-uygulama-rehberi.pdf",
+     "sayfa": 7,
+     "boyutMB": 1.2
+    }
+   ]
+  }
+ ]
+}
