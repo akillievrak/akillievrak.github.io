@@ -1,6 +1,6 @@
 {
  "surum": 2,
- "guncelleme": "2026-10-26",
+ "guncelleme": "2026-11-01",
  "paketler": [
   {
    "id": "kasim-okul-oncesi",
@@ -185,6 +185,132 @@
      "pdf": "word/aey-aralik-aileler-yarisiyor-tesekkur-belgeleri.docx",
      "sayfa": 2,
      "boyutMB": 0.2
+    }
+   ]
+  },
+  {
+   "id": "yil-boyu-kitap-okuyorum-okul-oncesi",
+   "baslik": "Yıl Boyu · Ailemle Kitap Okuyorum Seti",
+   "aciklama": "Kılavuzdaki metin ve öğretmen sayfası ilk sayfalarda. Ardından veli mektubu, aile okuma günlüğü, etkinlik kartları, Okuma Yıldızlarım çizelgesi, kitap ayraçları ve pano afişi. Etkinlik yıl boyu sürer.",
+   "kapak": "kapak/aey-yil-boyu-kitap-okuyorum-okul-oncesi.jpg",
+   "aktif": true,
+   "kademe": "okulOncesi",
+   "ay": "genel",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Ailemle Kitap Okuyorum Seti (Okul Öncesi)",
+     "pdf": "pdf/aey-yil-boyu-kitap-okuyorum-okul-oncesi.pdf",
+     "sayfa": 11,
+     "boyutMB": 5.2
+    },
+    {
+     "ad": "Veli Mektubu (Word)",
+     "pdf": "word/aey-yil-boyu-kitap-okuyorum-okul-oncesi-veli-mektubu.docx",
+     "sayfa": 1,
+     "boyutMB": 0
+    },
+    {
+     "ad": "Aile Okuma Günlüğü (Word)",
+     "pdf": "word/aey-yil-boyu-kitap-okuyorum-okul-oncesi-aile-okuma-gunlugu.docx",
+     "sayfa": 1,
+     "boyutMB": 0
+    },
+    {
+     "ad": "Etkinlik Kartları (Word)",
+     "pdf": "word/aey-yil-boyu-kitap-okuyorum-okul-oncesi-etkinlik-kartlari.docx",
+     "sayfa": 2,
+     "boyutMB": 0
+    },
+    {
+     "ad": "Okuma Yıldızlarım Çizelgesi (Word)",
+     "pdf": "word/aey-yil-boyu-kitap-okuyorum-okul-oncesi-okuma-yildizlarim-cizelgesi.docx",
+     "sayfa": 1,
+     "boyutMB": 0
+    }
+   ]
+  },
+  {
+   "id": "yil-boyu-kitap-okuyorum-ilkokul",
+   "baslik": "Yıl Boyu · Ailemle Kitap Okuyorum Seti",
+   "aciklama": "Kılavuzdaki metin ve öğretmen sayfası ilk sayfalarda. Ardından veli mektubu, aile okuma günlüğü, etkinlik kartları, Okuma Yıldızlarım çizelgesi, kitap ayraçları ve pano afişi. Etkinlik yıl boyu sürer.",
+   "kapak": "kapak/aey-yil-boyu-kitap-okuyorum-ilkokul.jpg",
+   "aktif": true,
+   "kademe": "ilkokul",
+   "ay": "genel",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Ailemle Kitap Okuyorum Seti (İlkokul)",
+     "pdf": "pdf/aey-yil-boyu-kitap-okuyorum-ilkokul.pdf",
+     "sayfa": 11,
+     "boyutMB": 5.1
+    },
+    {
+     "ad": "Veli Mektubu (Word)",
+     "pdf": "word/aey-yil-boyu-kitap-okuyorum-ilkokul-veli-mektubu.docx",
+     "sayfa": 1,
+     "boyutMB": 0
+    },
+    {
+     "ad": "Aile Okuma Günlüğü (Word)",
+     "pdf": "word/aey-yil-boyu-kitap-okuyorum-ilkokul-aile-okuma-gunlugu.docx",
+     "sayfa": 1,
+     "boyutMB": 0
+    },
+    {
+     "ad": "Etkinlik Kartları (Word)",
+     "pdf": "word/aey-yil-boyu-kitap-okuyorum-ilkokul-etkinlik-kartlari.docx",
+     "sayfa": 2,
+     "boyutMB": 0
+    },
+    {
+     "ad": "Okuma Yıldızlarım Çizelgesi (Word)",
+     "pdf": "word/aey-yil-boyu-kitap-okuyorum-ilkokul-okuma-yildizlarim-cizelgesi.docx",
+     "sayfa": 1,
+     "boyutMB": 0
+    }
+   ]
+  },
+  {
+   "id": "yil-boyu-kitap-okuyorum-ortaokul",
+   "baslik": "Yıl Boyu · Ailemle Kitap Okuyorum Seti",
+   "aciklama": "Kılavuzdaki metin ve öğretmen sayfası ilk sayfalarda. Ardından veli mektubu, aile okuma günlüğü, etkinlik kartları, Okuma Yıldızlarım çizelgesi, kitap ayraçları ve pano afişi. Etkinlik yıl boyu sürer.",
+   "kapak": "kapak/aey-yil-boyu-kitap-okuyorum-ortaokul.jpg",
+   "aktif": true,
+   "kademe": "ortaokul",
+   "ay": "genel",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Ailemle Kitap Okuyorum Seti (Ortaokul)",
+     "pdf": "pdf/aey-yil-boyu-kitap-okuyorum-ortaokul.pdf",
+     "sayfa": 11,
+     "boyutMB": 4.9
+    },
+    {
+     "ad": "Veli Mektubu (Word)",
+     "pdf": "word/aey-yil-boyu-kitap-okuyorum-ortaokul-veli-mektubu.docx",
+     "sayfa": 1,
+     "boyutMB": 0
+    },
+    {
+     "ad": "Aile Okuma Günlüğü (Word)",
+     "pdf": "word/aey-yil-boyu-kitap-okuyorum-ortaokul-aile-okuma-gunlugu.docx",
+     "sayfa": 1,
+     "boyutMB": 0
+    },
+    {
+     "ad": "Etkinlik Kartları (Word)",
+     "pdf": "word/aey-yil-boyu-kitap-okuyorum-ortaokul-etkinlik-kartlari.docx",
+     "sayfa": 2,
+     "boyutMB": 0
+    },
+    {
+     "ad": "Okuma Yıldızlarım Çizelgesi (Word)",
+     "pdf": "word/aey-yil-boyu-kitap-okuyorum-ortaokul-okuma-yildizlarim-cizelgesi.docx",
+     "sayfa": 1,
+     "boyutMB": 0
     }
    ]
   }
