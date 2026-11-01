@@ -1,6 +1,6 @@
 {
  "surum": 2,
- "guncelleme": "2026-11-01",
+ "guncelleme": "2026-11-01-2",
  "paketler": [
   {
    "id": "kasim-okul-oncesi",
@@ -208,25 +208,25 @@
      "ad": "Veli Mektubu (Word)",
      "pdf": "word/aey-yil-boyu-kitap-okuyorum-okul-oncesi-veli-mektubu.docx",
      "sayfa": 1,
-     "boyutMB": 0
+     "boyutMB": 0.1
     },
     {
      "ad": "Aile Okuma Günlüğü (Word)",
      "pdf": "word/aey-yil-boyu-kitap-okuyorum-okul-oncesi-aile-okuma-gunlugu.docx",
      "sayfa": 1,
-     "boyutMB": 0
+     "boyutMB": 0.1
     },
     {
      "ad": "Etkinlik Kartları (Word)",
      "pdf": "word/aey-yil-boyu-kitap-okuyorum-okul-oncesi-etkinlik-kartlari.docx",
      "sayfa": 2,
-     "boyutMB": 0
+     "boyutMB": 0.1
     },
     {
      "ad": "Okuma Yıldızlarım Çizelgesi (Word)",
      "pdf": "word/aey-yil-boyu-kitap-okuyorum-okul-oncesi-okuma-yildizlarim-cizelgesi.docx",
      "sayfa": 1,
-     "boyutMB": 0
+     "boyutMB": 0.1
     }
    ]
   },
@@ -250,25 +250,25 @@
      "ad": "Veli Mektubu (Word)",
      "pdf": "word/aey-yil-boyu-kitap-okuyorum-ilkokul-veli-mektubu.docx",
      "sayfa": 1,
-     "boyutMB": 0
+     "boyutMB": 0.1
     },
     {
      "ad": "Aile Okuma Günlüğü (Word)",
      "pdf": "word/aey-yil-boyu-kitap-okuyorum-ilkokul-aile-okuma-gunlugu.docx",
      "sayfa": 1,
-     "boyutMB": 0
+     "boyutMB": 0.1
     },
     {
      "ad": "Etkinlik Kartları (Word)",
      "pdf": "word/aey-yil-boyu-kitap-okuyorum-ilkokul-etkinlik-kartlari.docx",
      "sayfa": 2,
-     "boyutMB": 0
+     "boyutMB": 0.1
     },
     {
      "ad": "Okuma Yıldızlarım Çizelgesi (Word)",
      "pdf": "word/aey-yil-boyu-kitap-okuyorum-ilkokul-okuma-yildizlarim-cizelgesi.docx",
      "sayfa": 1,
-     "boyutMB": 0
+     "boyutMB": 0.1
     }
    ]
   },
@@ -292,25 +292,25 @@
      "ad": "Veli Mektubu (Word)",
      "pdf": "word/aey-yil-boyu-kitap-okuyorum-ortaokul-veli-mektubu.docx",
      "sayfa": 1,
-     "boyutMB": 0
+     "boyutMB": 0.1
     },
     {
      "ad": "Aile Okuma Günlüğü (Word)",
      "pdf": "word/aey-yil-boyu-kitap-okuyorum-ortaokul-aile-okuma-gunlugu.docx",
      "sayfa": 1,
-     "boyutMB": 0
+     "boyutMB": 0.1
     },
     {
      "ad": "Etkinlik Kartları (Word)",
      "pdf": "word/aey-yil-boyu-kitap-okuyorum-ortaokul-etkinlik-kartlari.docx",
      "sayfa": 2,
-     "boyutMB": 0
+     "boyutMB": 0.1
     },
     {
      "ad": "Okuma Yıldızlarım Çizelgesi (Word)",
      "pdf": "word/aey-yil-boyu-kitap-okuyorum-ortaokul-okuma-yildizlarim-cizelgesi.docx",
      "sayfa": 1,
-     "boyutMB": 0
+     "boyutMB": 0.1
     }
    ]
   }
