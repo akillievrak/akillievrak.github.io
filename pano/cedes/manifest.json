@@ -1,6 +1,6 @@
 {
  "surum": 2,
- "guncelleme": "2026-10-23",
+ "guncelleme": "2026-11-02",
  "paketler": [
   {
    "id": "ekim-ilkokul",
@@ -145,6 +145,56 @@
      "pdf": "pdf/ayet-hadis-lise.pdf",
      "sayfa": 6,
      "boyutMB": 0.4
+    }
+   ]
+  },
+  {
+   "id": "kasim-ortaokul",
+   "baslik": "Ortaokul · ÇEDES Kasım Etkinlikleri",
+   "aciklama": "Kasım 2026 Eğitici Kılavuzu (Ortaokul) etkinlikleri için basılı materyaller: öğretmen sayfası, her hafta Mesajını Güçlendir afişi ve Esmâ-i Hüsnâ kartı, sergi afişi, kartlar, çizelgeler, Aile Günlüğü, aile sertifikası ve Sevgi ve Miras Notu.",
+   "kapak": "kapak/kasim-ortaokul.jpg",
+   "aktif": true,
+   "kademe": "ortaokul",
+   "ay": "kasim",
+   "sira": 1,
+   "nasil": [
+    "Etkinliklerin uygulanışı kılavuzdadır; bu set kılavuzdaki etkinliklerde kullanılacak basılı materyalleri içerir. Haftalar ve materyallerin kullanımı öğretmen sayfasındadır.",
+    "1. hafta (2-6 Kasım) · Umudun Rengi Gazze: Kardeşlik ve Birlik Sergisi afişi, aile mesaj kartları. Ailece Dijital Mola: Dijital Mola sohbet kartları, Aile Günlüğü sayfası.",
+    "2. hafta (9-13 Kasım) · Ailece Kök Salıyoruz: Aile Fidanı Kartı, görev kartları, fidan bakım çizelgesi (İş Takvimi: Fidan Dikimi 9-13 Kasım). Birlikte Zaman, Birlikte Mutluluk Oyunu: oyun rotası çizelgesi, Sevgi Kutusu notları, aile sertifikası.",
+    "3. hafta (23-27 Kasım) · Gönül Coğrafyamız: Bir Sınır, Bir Selam: Dil Köprüsü kartları, kültür standı kartı. Medeniyetimizin Öncüleriyle Özçekim: Sevgi ve Miras Notu.",
+    "Aile katılımlı etkinliklerde ailelerin özel durumları (vefat, anne-baba ayrı, engellilik vb.) dikkate alınmalıdır (kılavuz s.8, madde 8). Okul dışında yapılan etkinlikler için veli izin belgesi alınır (kılavuz s.9, madde 11).",
+    "Dijital Mola sohbet kartlarındaki sorular ve fidan bakım çizelgesi kılavuzda verilmemiştir; öneri niteliğindedir."
+   ],
+   "dosyalar": [
+    {
+     "ad": "Kasım Etkinlik Materyalleri (Ortaokul)",
+     "pdf": "pdf/kasim-ortaokul.pdf",
+     "sayfa": 25,
+     "boyutMB": 8.2,
+     "word": "word/kasim-ortaokul-formlar.docx"
+    }
+   ]
+  },
+  {
+   "id": "ayet-hadis-ortaokul-kasim",
+   "baslik": "Ortaokul · ÇEDES Kasım Ayet ve Hadis Afişleri",
+   "aciklama": "Her hafta için iki afiş (6 afiş): Mesajını Güçlendir (ayet ve hadis) ile Esmâ-i Hüsnâ ve Özlü Söz; Aile Bütünlüğü, Sevgi. Kılavuzun “Mesajını Güçlendir” bölümlerinden, kaynak gösterimleriyle.",
+   "kapak": "kapak/ayet-hadis-ortaokul-kasim.jpg",
+   "aktif": true,
+   "kademe": "ortaokul",
+   "ay": "kasim",
+   "sira": 2,
+   "nasil": [
+    "Her hafta için iki afiş vardır (6 afiş). O haftanın afişlerini değerler panosuna ya da sınıf panosuna asın.",
+    "Afişlerdeki ayet mealleri, hadisler, Esmâ-i Hüsnâ ve özlü sözler, Din Öğretimi Genel Müdürlüğünün ÇEDES Eğitici Kılavuzu (Kasım 2026, Ortaokul) “Mesajını Güçlendir” bölümlerinden kaynak gösterimleriyle birlikte aynen alınmıştır; her afişin altında kılavuzun sayfa numarası yazılıdır.",
+    "Renkli basılması önerilir; A3'e büyütülebilir."
+   ],
+   "dosyalar": [
+    {
+     "ad": "Ayet ve Hadis Afişleri (Ortaokul, Kasım)",
+     "pdf": "pdf/ayet-hadis-ortaokul-kasim.pdf",
+     "sayfa": 6,
+     "boyutMB": 1.0
     }
    ]
   },
