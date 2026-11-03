@@ -1,6 +1,6 @@
 {
  "surum": 2,
- "guncelleme": "2026-11-02",
+ "guncelleme": "2026-11-03",
  "paketler": [
   {
    "id": "ekim-ilkokul",
@@ -195,6 +195,106 @@
      "pdf": "pdf/ayet-hadis-ortaokul-kasim.pdf",
      "sayfa": 6,
      "boyutMB": 1.0
+    }
+   ]
+  },
+  {
+   "id": "kasim-ilkokul",
+   "baslik": "İlkokul · ÇEDES Kasım Etkinlikleri",
+   "aciklama": "Kasım 2026 Eğitici Kılavuzu (Okul Öncesi ve İlkokul) etkinlikleri için basılı materyaller: öğretmen sayfası, her hafta Mesajını Güçlendir afişi ile Esmâ-i Hüsnâ ve özlü söz kartı, Arı Zuzz şarkı afişi, arı taçları, yardım fotoğrafı kartları, tekerleme afişi, “Aile Üyemi Tanıtıyorum” konuşma kartları, kalp fon şablonu, sevgi treni kalp biletleri ve sevgi durağı levhaları.",
+   "kapak": "kapak/kasim-okuloncesi-ilkokul.jpg",
+   "aktif": true,
+   "kademe": "ilkokul",
+   "ay": "kasim",
+   "sira": 1,
+   "nasil": [
+    "Etkinliklerin uygulanışı kılavuzdadır; bu set kılavuzdaki etkinliklerde kullanılacak basılı materyalleri içerir. Haftalar ve materyallerin kullanımı öğretmen sayfasındadır.",
+    "1. hafta (2-6 Kasım) · Arı Zuzz Hikâyesi: Arı Zuzz şarkı afişi, arı taçları. Aileme Yardım Ediyorum Draması: yardım fotoğrafı kartları.",
+    "2. hafta (9-13 Kasım) · Benim Canım Ailem: tekerleme afişi, Aile Üyemi Tanıtıyorum kartları.",
+    "3. hafta (23-27 Kasım) · Söylenen Sevgi (sevgi treni): kalp fon şablonu, kalp biletleri, sevgi durağı levhaları.",
+    "Aile katılımı sayfaları (Anne Babama İyilik, Benim Canım Ailem çerçevesi, aile ağacı, Sevgi Bilekliği) kılavuzda hazır olduğundan bu sette yeniden çizilmemiştir; kılavuzdan çıktı alınabilir. Aile katılımlı etkinliklerde ailelerin özel durumları (vefat, anne-baba ayrı, engellilik vb.) dikkate alınmalıdır (kılavuz s.8).",
+    "Yardım fotoğrafı kartları, arı taçları, konuşma kartları ve sevgi durağı levhaları kılavuzda verilmemiştir; öneri niteliğindedir."
+   ],
+   "dosyalar": [
+    {
+     "ad": "Kasım Etkinlik Materyalleri (İlkokul)",
+     "pdf": "pdf/kasim-okuloncesi-ilkokul.pdf",
+     "sayfa": 17,
+     "boyutMB": 7.3,
+     "word": "word/kasim-okuloncesi-ilkokul-formlar.docx"
+    }
+   ]
+  },
+  {
+   "id": "ayet-hadis-ilkokul-kasim",
+   "baslik": "İlkokul · ÇEDES Kasım Ayet ve Hadis Afişleri",
+   "aciklama": "Her hafta için iki afiş (6 afiş): Mesajını Güçlendir (ayet ve hadis) ile Esmâ-i Hüsnâ ve Özlü Söz; Aile Bütünlüğü, Sevgi. Kılavuzun “Mesajını Güçlendir” bölümlerinden, kaynak gösterimleriyle.",
+   "kapak": "kapak/ayet-hadis-okuloncesi-ilkokul-kasim.jpg",
+   "aktif": true,
+   "kademe": "ilkokul",
+   "ay": "kasim",
+   "sira": 2,
+   "nasil": [
+    "Her hafta için iki afiş vardır (6 afiş). O haftanın afişlerini değerler panosuna ya da sınıf panosuna asın.",
+    "Afişlerdeki ayet mealleri, hadisler, Esmâ-i Hüsnâ ve özlü sözler, Din Öğretimi Genel Müdürlüğünün ÇEDES Eğitici Kılavuzu (Kasım 2026, Okul Öncesi ve İlkokul) “Mesajını Güçlendir” bölümlerinden kaynak gösterimleriyle birlikte aynen alınmıştır; her afişin altında kılavuzun sayfa numarası yazılıdır.",
+    "Renkli basılması önerilir; A3'e büyütülebilir."
+   ],
+   "dosyalar": [
+    {
+     "ad": "Ayet ve Hadis Afişleri (İlkokul, Kasım)",
+     "pdf": "pdf/ayet-hadis-okuloncesi-ilkokul-kasim.pdf",
+     "sayfa": 6,
+     "boyutMB": 1.3
+    }
+   ]
+  },
+  {
+   "id": "kasim-lise",
+   "baslik": "Lise · ÇEDES Kasım Etkinlikleri",
+   "aciklama": "Kasım 2026 Eğitici Kılavuzu (Lise) etkinlikleri için basılı materyaller: öğretmen sayfası, her hafta Mesajını Güçlendir afişi, Esmâ-i Hüsnâ ve özlü söz sayfası ile Haftalık Meydan Okuma afişi, Aile Kültürleri Sofrası afişi, sohbet formu, masa ve değerlendirme kartları, Aile Fidanı Kartı, görev kartları, fidan bakım çizelgesi, “Neden İyi ki Varsın?” kartları, grup tasarım planı, pano başlıkları, umut yaprakları, olumlu mesaj kartları ve sevgi notları.",
+   "kapak": "kapak/kasim-lise.jpg",
+   "aktif": true,
+   "kademe": "lise",
+   "ay": "kasim",
+   "sira": 1,
+   "nasil": [
+    "Etkinliklerin uygulanışı kılavuzdadır; bu set basılı materyalleri içerir. Haftalar ve materyallerin kullanımı öğretmen sayfasındadır.",
+    "1. hafta (2-6 Kasım) · Aynı Sofra, Ortak Coğrafya: Aile Kültürü Atölyesi: sofra afişi, sohbet formu, lezzet hikâyesi masa kartları, değerlendirme kartları.",
+    "2. hafta (9-13 Kasım) · Ailece Kök Salıyoruz (İş Takvimi: Fidan Dikimi 9-13 Kasım): Aile Fidanı Kartı, görev kartları, fidan bakım çizelgesi. Haftalık Meydan Okuma: “Neden İyi ki Varsın?” kartları.",
+    "3. hafta (23-27 Kasım) · Bir Koridor, Bin Gülümseme: grup tasarım planı, pano başlıkları, umut yaprakları, olumlu mesaj kartları. Haftalık Meydan Okuma (Sevgi Notu ve İkram): sevgi notları.",
+    "Hastane etkinliğinde hastane yönetiminin izni alınır, materyaller hijyen ve güvenlik kurallarına uygun hazırlanır; hastalık ve tedaviyi hatırlatan ifadeler kullanılmaz (kılavuz s.37–38). Okul dışı etkinliklerde veli izin belgesi alınır (kılavuz s.9, madde 11).",
+    "Olumlu mesaj kartlarındaki cümleler, grup tasarım planı ve fidan bakım çizelgesi kılavuzda verilmemiştir; öneri niteliğindedir."
+   ],
+   "dosyalar": [
+    {
+     "ad": "Kasım Etkinlik Materyalleri (Lise)",
+     "pdf": "pdf/kasim-lise.pdf",
+     "sayfa": 26,
+     "boyutMB": 6.3,
+     "word": "word/kasim-lise-formlar.docx"
+    }
+   ]
+  },
+  {
+   "id": "ayet-hadis-lise-kasim",
+   "baslik": "Lise · ÇEDES Kasım Ayet ve Hadis Afişleri",
+   "aciklama": "Her hafta için iki afiş (6 afiş): Mesajını Güçlendir (ayet ve hadis) ile Esmâ-i Hüsnâ ve Özlü Söz; Aile Bütünlüğü, Sevgi. Kılavuzun “Mesajını Güçlendir” bölümlerinden, kaynak gösterimleriyle.",
+   "kapak": "kapak/ayet-hadis-lise-kasim.jpg",
+   "aktif": true,
+   "kademe": "lise",
+   "ay": "kasim",
+   "sira": 2,
+   "nasil": [
+    "Her hafta için iki afiş vardır (6 afiş). O haftanın afişlerini değerler panosuna ya da sınıf panosuna asın.",
+    "Afişlerdeki ayet mealleri, hadisler, Esmâ-i Hüsnâ ve özlü sözler, Din Öğretimi Genel Müdürlüğünün ÇEDES Eğitici Kılavuzu (Kasım 2026, Lise) “Mesajını Güçlendir” bölümlerinden kaynak gösterimleriyle birlikte aynen alınmıştır; her afişin altında kılavuzun sayfa numarası yazılıdır.",
+    "Renkli basılması önerilir; A3'e büyütülebilir."
+   ],
+   "dosyalar": [
+    {
+     "ad": "Ayet ve Hadis Afişleri (Lise, Kasım)",
+     "pdf": "pdf/ayet-hadis-lise-kasim.pdf",
+     "sayfa": 6,
+     "boyutMB": 0.6
     }
    ]
   },
