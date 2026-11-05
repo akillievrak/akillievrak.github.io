@@ -1,0 +1,261 @@
+{
+ "surum": 2,
+ "guncelleme": "2026-11-05",
+ "paketler": [
+  {
+   "id": "vk-kasim-etkinlik-ilkokul",
+   "baslik": "İlkokul · Vakti Kuşanmak Kasım Etkinlikleri",
+   "aciklama": "Kasım ayının beş örnek faaliyeti için materyaller: Seccadem: Miraç’a Çıkan Kıssalar, Büyüğümden Dinledim: Heybemdeki Altın, Ailemle Huzur Vakitleri, Abdestten Namaza Tekerleme Atölyesi, Namaz Temalı Tabu Oyunu. Word: veli bilgilendirme yazıları ve Huzur Vakitleri Günlüğü. İlkokul ve ortaokul için ortak set. Kaynak: DÖGM Vakti Kuşanmak Etkinlikleri Uygulama Usul ve Esasları ve Kasım Ayı Örnek Faaliyetleri.",
+   "kapak": "kapak/vk-kasim-etkinlik-ilkogretim.jpg",
+   "aktif": true,
+   "kademe": "ilkokul",
+   "ay": "kasim",
+   "sira": 1,
+   "nasil": [
+    "Seccadem: Miraç’a Çıkan Kıssalar: Eğitim öğretim yılı boyunca aylık olarak planlanabilir.",
+    "Büyüğümden Dinledim: Heybemdeki Altın: Öğretmen ve veli ön bilgilendirme ve planlama yapar; hikâye, anlatan ve zaman önceden belirlenir.",
+    "Ailemle Huzur Vakitleri: Bir aylık uygulama; başlangıç ve değerlendirme tarihleri okul yönetimi ve zümrece belirlenir.",
+    "Abdestten Namaza Tekerleme Atölyesi: Ders veya kulüp etkinliği kapsamında planlanır.",
+    "Namaz Temalı Tabu Oyunu: Ders içi pekiştirme, kulüp çalışması veya okul etkinliği olarak uygulanabilir.",
+    "Katılım gönüllülük esasına dayanır; öğrencilerin bireysel ibadet durumları takip, puanlama, karşılaştırma veya başarı ölçütü hâline getirilemez (Genel Esaslar 2 ve 8)."
+   ],
+   "dosyalar": [
+    {
+     "ad": "Kasım Etkinlik Materyalleri (İlköğretim)",
+     "pdf": "pdf/vk-kasim-ilkogretim-etkinlik-materyalleri.pdf",
+     "sayfa": 19,
+     "boyutMB": 5.1,
+     "word": "word/vk-kasim-ilkogretim-formlar.docx"
+    }
+   ]
+  },
+  {
+   "id": "vk-kasim-pano-ilkokul",
+   "baslik": "İlkokul · Vakti Kuşanmak Kasım Pano Seti",
+   "aciklama": "Slogan şeridi, bayrak harfler, Bu Ayın Etkinlikleri afişi, ay, yıldız ve cami süsleri, etkinlik fotoğrafı çerçeveleri. Kaynak: DÖGM Vakti Kuşanmak Etkinlikleri Uygulama Usul ve Esasları ve Kasım Ayı Örnek Faaliyetleri.",
+   "kapak": "kapak/vk-kasim-pano-ilkokul.jpg",
+   "aktif": true,
+   "kademe": "ilkokul",
+   "ay": "kasim",
+   "sira": 2,
+   "dosyalar": [
+    {
+     "ad": "Kasım Pano Seti (İlkokul)",
+     "pdf": "pdf/vk-kasim-pano-seti-ilkokul.pdf",
+     "sayfa": 9,
+     "boyutMB": 2.1
+    }
+   ]
+  },
+  {
+   "id": "vk-evrak-ilkokul",
+   "baslik": "İlkokul · Vakti Kuşanmak Zümre Evrakları",
+   "aciklama": "Zümre görev paylaşımı ve aylık uygulama planı, zümre etkinlik veri çizelgesi, zümre toplantısı gündem maddesi ve karar metni, öğretmen duyurusu ve veli bilgilendirme yazısı. PDF ve Word. Kaynak: DÖGM Vakti Kuşanmak Etkinlikleri Uygulama Usul ve Esasları ve Kasım Ayı Örnek Faaliyetleri.",
+   "kapak": "kapak/vk-evrak-ilkokul.jpg",
+   "aktif": true,
+   "kademe": "ilkokul",
+   "ay": "genel",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Zümre Görev Paylaşımı ve Aylık Uygulama Planı",
+     "pdf": "pdf/vk-ilkokul-1-zumre-gorev-paylasimi-ve-aylik-uygulama-plani.pdf",
+     "sayfa": 1,
+     "boyutMB": 0.3,
+     "word": "word/vk-ilkokul-1-zumre-gorev-paylasimi-ve-aylik-uygulama-plani.docx"
+    },
+    {
+     "ad": "Zümre Etkinlik Veri Çizelgesi",
+     "pdf": "pdf/vk-ilkokul-2-zumre-etkinlik-veri-cizelgesi.pdf",
+     "sayfa": 1,
+     "boyutMB": 0.3,
+     "word": "word/vk-ilkokul-2-zumre-etkinlik-veri-cizelgesi.docx"
+    },
+    {
+     "ad": "Zümre Toplantısı Gündem Maddesi ve Karar Metni",
+     "pdf": "pdf/vk-ilkokul-3-zumre-toplantisi-gundem-ve-karar-metni.pdf",
+     "sayfa": 1,
+     "boyutMB": 0.2,
+     "word": "word/vk-ilkokul-3-zumre-toplantisi-gundem-ve-karar-metni.docx"
+    },
+    {
+     "ad": "Öğretmen Duyurusu ve Veli Bilgilendirme Yazısı",
+     "pdf": "pdf/vk-ilkokul-4-ogretmen-duyurusu-ve-veli-bilgilendirme.pdf",
+     "sayfa": 2,
+     "boyutMB": 0.2,
+     "word": "word/vk-ilkokul-4-ogretmen-duyurusu-ve-veli-bilgilendirme.docx"
+    }
+   ]
+  },
+  {
+   "id": "vk-kasim-etkinlik-ortaokul",
+   "baslik": "Ortaokul · Vakti Kuşanmak Kasım Etkinlikleri",
+   "aciklama": "Kasım ayının beş örnek faaliyeti için materyaller: Seccadem: Miraç’a Çıkan Kıssalar, Büyüğümden Dinledim: Heybemdeki Altın, Ailemle Huzur Vakitleri, Abdestten Namaza Tekerleme Atölyesi, Namaz Temalı Tabu Oyunu. Word: veli bilgilendirme yazıları ve Huzur Vakitleri Günlüğü. İlkokul ve ortaokul için ortak set. Kaynak: DÖGM Vakti Kuşanmak Etkinlikleri Uygulama Usul ve Esasları ve Kasım Ayı Örnek Faaliyetleri.",
+   "kapak": "kapak/vk-kasim-etkinlik-ilkogretim.jpg",
+   "aktif": true,
+   "kademe": "ortaokul",
+   "ay": "kasim",
+   "sira": 1,
+   "nasil": [
+    "Seccadem: Miraç’a Çıkan Kıssalar: Eğitim öğretim yılı boyunca aylık olarak planlanabilir.",
+    "Büyüğümden Dinledim: Heybemdeki Altın: Öğretmen ve veli ön bilgilendirme ve planlama yapar; hikâye, anlatan ve zaman önceden belirlenir.",
+    "Ailemle Huzur Vakitleri: Bir aylık uygulama; başlangıç ve değerlendirme tarihleri okul yönetimi ve zümrece belirlenir.",
+    "Abdestten Namaza Tekerleme Atölyesi: Ders veya kulüp etkinliği kapsamında planlanır.",
+    "Namaz Temalı Tabu Oyunu: Ders içi pekiştirme, kulüp çalışması veya okul etkinliği olarak uygulanabilir.",
+    "Katılım gönüllülük esasına dayanır; öğrencilerin bireysel ibadet durumları takip, puanlama, karşılaştırma veya başarı ölçütü hâline getirilemez (Genel Esaslar 2 ve 8)."
+   ],
+   "dosyalar": [
+    {
+     "ad": "Kasım Etkinlik Materyalleri (İlköğretim)",
+     "pdf": "pdf/vk-kasim-ilkogretim-etkinlik-materyalleri.pdf",
+     "sayfa": 19,
+     "boyutMB": 5.1,
+     "word": "word/vk-kasim-ilkogretim-formlar.docx"
+    }
+   ]
+  },
+  {
+   "id": "vk-kasim-pano-ortaokul",
+   "baslik": "Ortaokul · Vakti Kuşanmak Kasım Pano Seti",
+   "aciklama": "Slogan şeridi, bayrak harfler, Bu Ayın Etkinlikleri afişi, ay, yıldız ve cami süsleri, etkinlik fotoğrafı çerçeveleri. Kaynak: DÖGM Vakti Kuşanmak Etkinlikleri Uygulama Usul ve Esasları ve Kasım Ayı Örnek Faaliyetleri.",
+   "kapak": "kapak/vk-kasim-pano-ortaokul.jpg",
+   "aktif": true,
+   "kademe": "ortaokul",
+   "ay": "kasim",
+   "sira": 2,
+   "dosyalar": [
+    {
+     "ad": "Kasım Pano Seti (Ortaokul)",
+     "pdf": "pdf/vk-kasim-pano-seti-ortaokul.pdf",
+     "sayfa": 9,
+     "boyutMB": 2.1
+    }
+   ]
+  },
+  {
+   "id": "vk-evrak-ortaokul",
+   "baslik": "Ortaokul · Vakti Kuşanmak Zümre Evrakları",
+   "aciklama": "Zümre görev paylaşımı ve aylık uygulama planı, zümre etkinlik veri çizelgesi, zümre toplantısı gündem maddesi ve karar metni, öğretmen duyurusu ve veli bilgilendirme yazısı. PDF ve Word. Kaynak: DÖGM Vakti Kuşanmak Etkinlikleri Uygulama Usul ve Esasları ve Kasım Ayı Örnek Faaliyetleri.",
+   "kapak": "kapak/vk-evrak-ortaokul.jpg",
+   "aktif": true,
+   "kademe": "ortaokul",
+   "ay": "genel",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Zümre Görev Paylaşımı ve Aylık Uygulama Planı",
+     "pdf": "pdf/vk-ortaokul-1-zumre-gorev-paylasimi-ve-aylik-uygulama-plani.pdf",
+     "sayfa": 1,
+     "boyutMB": 0.3,
+     "word": "word/vk-ortaokul-1-zumre-gorev-paylasimi-ve-aylik-uygulama-plani.docx"
+    },
+    {
+     "ad": "Zümre Etkinlik Veri Çizelgesi",
+     "pdf": "pdf/vk-ortaokul-2-zumre-etkinlik-veri-cizelgesi.pdf",
+     "sayfa": 1,
+     "boyutMB": 0.3,
+     "word": "word/vk-ortaokul-2-zumre-etkinlik-veri-cizelgesi.docx"
+    },
+    {
+     "ad": "Zümre Toplantısı Gündem Maddesi ve Karar Metni",
+     "pdf": "pdf/vk-ortaokul-3-zumre-toplantisi-gundem-ve-karar-metni.pdf",
+     "sayfa": 1,
+     "boyutMB": 0.2,
+     "word": "word/vk-ortaokul-3-zumre-toplantisi-gundem-ve-karar-metni.docx"
+    },
+    {
+     "ad": "Öğretmen Duyurusu ve Veli Bilgilendirme Yazısı",
+     "pdf": "pdf/vk-ortaokul-4-ogretmen-duyurusu-ve-veli-bilgilendirme.pdf",
+     "sayfa": 2,
+     "boyutMB": 0.2,
+     "word": "word/vk-ortaokul-4-ogretmen-duyurusu-ve-veli-bilgilendirme.docx"
+    }
+   ]
+  },
+  {
+   "id": "vk-kasim-etkinlik-lise",
+   "baslik": "Lise · Vakti Kuşanmak Kasım Etkinlikleri",
+   "aciklama": "Kasım ayının beş örnek faaliyeti için materyaller: Namaz Öğretimi Videosu, Namaza Çağrı, Mescidimizi Güzelleştirelim, İsimsiz Soru Kutusu, Namaz ve Psikolojik İyi Oluş. Word: grup görev ve akış planı, mescit gözlem formu, duygu kartı ve geri bildirim formları. Kaynak: DÖGM Vakti Kuşanmak Etkinlikleri Uygulama Usul ve Esasları ve Kasım Ayı Örnek Faaliyetleri.",
+   "kapak": "kapak/vk-kasim-etkinlik-ortaogretim.jpg",
+   "aktif": true,
+   "kademe": "lise",
+   "ay": "kasim",
+   "sira": 1,
+   "nasil": [
+    "Namaz Öğretimi Videosu: 1 hafta hazırlık ve 1 ders saati izleme/değerlendirme.",
+    "Namaza Çağrı: Okul idaresince belirlenen günlerde öğle namazı vaktinde uygulanır.",
+    "Mescidimizi Güzelleştirelim: 1-2 haftalık uygulama süreci.",
+    "İsimsiz Soru Kutusu: İki haftalık uygulama.",
+    "Namaz ve Psikolojik İyi Oluş: 1 günlük uygulama ve 7 günlük takip süreci.",
+    "Katılım gönüllülük esasına dayanır; öğrencilerin bireysel ibadet durumları takip, puanlama, karşılaştırma veya başarı ölçütü hâline getirilemez (Genel Esaslar 2 ve 8)."
+   ],
+   "dosyalar": [
+    {
+     "ad": "Kasım Etkinlik Materyalleri (Ortaöğretim)",
+     "pdf": "pdf/vk-kasim-ortaogretim-etkinlik-materyalleri.pdf",
+     "sayfa": 16,
+     "boyutMB": 3.5,
+     "word": "word/vk-kasim-ortaogretim-formlar.docx"
+    }
+   ]
+  },
+  {
+   "id": "vk-kasim-pano-lise",
+   "baslik": "Lise · Vakti Kuşanmak Kasım Pano Seti",
+   "aciklama": "Slogan şeridi, bayrak harfler, Bu Ayın Etkinlikleri afişi, ay, yıldız ve cami süsleri, etkinlik fotoğrafı çerçeveleri. Kaynak: DÖGM Vakti Kuşanmak Etkinlikleri Uygulama Usul ve Esasları ve Kasım Ayı Örnek Faaliyetleri.",
+   "kapak": "kapak/vk-kasim-pano-lise.jpg",
+   "aktif": true,
+   "kademe": "lise",
+   "ay": "kasim",
+   "sira": 2,
+   "dosyalar": [
+    {
+     "ad": "Kasım Pano Seti (Lise)",
+     "pdf": "pdf/vk-kasim-pano-seti-lise.pdf",
+     "sayfa": 9,
+     "boyutMB": 2.1
+    }
+   ]
+  },
+  {
+   "id": "vk-evrak-lise",
+   "baslik": "Lise · Vakti Kuşanmak Zümre Evrakları",
+   "aciklama": "Zümre görev paylaşımı ve aylık uygulama planı, zümre etkinlik veri çizelgesi, zümre toplantısı gündem maddesi ve karar metni, öğretmen duyurusu ve veli bilgilendirme yazısı. PDF ve Word. Kaynak: DÖGM Vakti Kuşanmak Etkinlikleri Uygulama Usul ve Esasları ve Kasım Ayı Örnek Faaliyetleri.",
+   "kapak": "kapak/vk-evrak-lise.jpg",
+   "aktif": true,
+   "kademe": "lise",
+   "ay": "genel",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Zümre Görev Paylaşımı ve Aylık Uygulama Planı",
+     "pdf": "pdf/vk-lise-1-zumre-gorev-paylasimi-ve-aylik-uygulama-plani.pdf",
+     "sayfa": 1,
+     "boyutMB": 0.3,
+     "word": "word/vk-lise-1-zumre-gorev-paylasimi-ve-aylik-uygulama-plani.docx"
+    },
+    {
+     "ad": "Zümre Etkinlik Veri Çizelgesi",
+     "pdf": "pdf/vk-lise-2-zumre-etkinlik-veri-cizelgesi.pdf",
+     "sayfa": 1,
+     "boyutMB": 0.3,
+     "word": "word/vk-lise-2-zumre-etkinlik-veri-cizelgesi.docx"
+    },
+    {
+     "ad": "Zümre Toplantısı Gündem Maddesi ve Karar Metni",
+     "pdf": "pdf/vk-lise-3-zumre-toplantisi-gundem-ve-karar-metni.pdf",
+     "sayfa": 1,
+     "boyutMB": 0.2,
+     "word": "word/vk-lise-3-zumre-toplantisi-gundem-ve-karar-metni.docx"
+    },
+    {
+     "ad": "Öğretmen Duyurusu ve Veli Bilgilendirme Yazısı",
+     "pdf": "pdf/vk-lise-4-ogretmen-duyurusu-ve-veli-bilgilendirme.pdf",
+     "sayfa": 2,
+     "boyutMB": 0.2,
+     "word": "word/vk-lise-4-ogretmen-duyurusu-ve-veli-bilgilendirme.docx"
+    }
+   ]
+  }
+ ]
+}

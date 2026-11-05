@@ -1,0 +1,201 @@
+{
+ "surum": 2,
+ "guncelleme": "2026-11-05",
+ "paketler": [
+  {
+   "id": "kudus-etkinlik-pano-ilkokul",
+   "baslik": "İlkokul · Kudüs Ben’im Etkinlik ve Pano Seti",
+   "aciklama": "Öğretmen bilgi sayfası, bayrak harfler, köşe başlığı, bilgi kartları, harita-zaman çizelgesi, araştırma kartı, film okuma formu, okuma günlüğü, değer kartları, fotoğraf çerçeveleri ve süsler. İlkokul, ortaokul ve lise için ortak set. Kaynak: DÖGM Kudüs Ben’im Projesi Uygulama Kılavuzu 2026-2027.",
+   "kapak": "kapak/kudus-etkinlik-pano.jpg",
+   "aktif": true,
+   "kademe": "ilkokul",
+   "ay": "genel",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Etkinlik ve Pano Seti",
+     "pdf": "pdf/kudus-benim-etkinlik-ve-pano-seti.pdf",
+     "sayfa": 14,
+     "boyutMB": 3.3
+    }
+   ]
+  },
+  {
+   "id": "kudus-evrak-ilkokul",
+   "baslik": "İlkokul · Kudüs Ben’im Evrakları",
+   "aciklama": "EK-1 ve EK-2 kılavuzdaki formlardır; yıllık uygulama planı, proje ekibi ve görev dağılımı ile veli izin belgesi kılavuzun istediği kayıtlar için hazırlanmıştır. PDF ve Word. Kaynak: DÖGM Kudüs Ben’im Projesi Uygulama Kılavuzu 2026-2027.",
+   "kapak": "kapak/kudus-evrak-ilkokul.jpg",
+   "aktif": true,
+   "kademe": "ilkokul",
+   "ay": "genel",
+   "sira": 2,
+   "dosyalar": [
+    {
+     "ad": "EK-1 Okul Etkinlik Planlama Formu",
+     "pdf": "pdf/kudus-ilkokul-ek1-okul-etkinlik-planlama-formu.pdf",
+     "sayfa": 1,
+     "boyutMB": 0.2,
+     "word": "word/kudus-ilkokul-ek1-okul-etkinlik-planlama-formu.docx"
+    },
+    {
+     "ad": "EK-2 Etkinlik Uygulama ve İzleme Formu",
+     "pdf": "pdf/kudus-ilkokul-ek2-etkinlik-uygulama-ve-izleme-formu.pdf",
+     "sayfa": 1,
+     "boyutMB": 0.2,
+     "word": "word/kudus-ilkokul-ek2-etkinlik-uygulama-ve-izleme-formu.docx"
+    },
+    {
+     "ad": "Yıllık Uygulama Planı",
+     "pdf": "pdf/kudus-ilkokul-yillik-uygulama-plani.pdf",
+     "sayfa": 1,
+     "boyutMB": 0.3,
+     "word": "word/kudus-ilkokul-yillik-uygulama-plani.docx"
+    },
+    {
+     "ad": "Proje Ekibi ve Görev Dağılımı",
+     "pdf": "pdf/kudus-ilkokul-proje-ekibi-ve-gorev-dagilimi.pdf",
+     "sayfa": 1,
+     "boyutMB": 0.3,
+     "word": "word/kudus-ilkokul-proje-ekibi-ve-gorev-dagilimi.docx"
+    },
+    {
+     "ad": "Veli İzin Belgesi",
+     "pdf": "pdf/kudus-ilkokul-veli-izin-belgesi.pdf",
+     "sayfa": 1,
+     "boyutMB": 0.2,
+     "word": "word/kudus-ilkokul-veli-izin-belgesi.docx"
+    }
+   ]
+  },
+  {
+   "id": "kudus-etkinlik-pano-ortaokul",
+   "baslik": "Ortaokul · Kudüs Ben’im Etkinlik ve Pano Seti",
+   "aciklama": "Öğretmen bilgi sayfası, bayrak harfler, köşe başlığı, bilgi kartları, harita-zaman çizelgesi, araştırma kartı, film okuma formu, okuma günlüğü, değer kartları, fotoğraf çerçeveleri ve süsler. İlkokul, ortaokul ve lise için ortak set. Kaynak: DÖGM Kudüs Ben’im Projesi Uygulama Kılavuzu 2026-2027.",
+   "kapak": "kapak/kudus-etkinlik-pano.jpg",
+   "aktif": true,
+   "kademe": "ortaokul",
+   "ay": "genel",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Etkinlik ve Pano Seti",
+     "pdf": "pdf/kudus-benim-etkinlik-ve-pano-seti.pdf",
+     "sayfa": 14,
+     "boyutMB": 3.3
+    }
+   ]
+  },
+  {
+   "id": "kudus-evrak-ortaokul",
+   "baslik": "Ortaokul · Kudüs Ben’im Evrakları",
+   "aciklama": "EK-1 ve EK-2 kılavuzdaki formlardır; yıllık uygulama planı, proje ekibi ve görev dağılımı ile veli izin belgesi kılavuzun istediği kayıtlar için hazırlanmıştır. PDF ve Word. Kaynak: DÖGM Kudüs Ben’im Projesi Uygulama Kılavuzu 2026-2027.",
+   "kapak": "kapak/kudus-evrak-ortaokul.jpg",
+   "aktif": true,
+   "kademe": "ortaokul",
+   "ay": "genel",
+   "sira": 2,
+   "dosyalar": [
+    {
+     "ad": "EK-1 Okul Etkinlik Planlama Formu",
+     "pdf": "pdf/kudus-ortaokul-ek1-okul-etkinlik-planlama-formu.pdf",
+     "sayfa": 1,
+     "boyutMB": 0.2,
+     "word": "word/kudus-ortaokul-ek1-okul-etkinlik-planlama-formu.docx"
+    },
+    {
+     "ad": "EK-2 Etkinlik Uygulama ve İzleme Formu",
+     "pdf": "pdf/kudus-ortaokul-ek2-etkinlik-uygulama-ve-izleme-formu.pdf",
+     "sayfa": 1,
+     "boyutMB": 0.2,
+     "word": "word/kudus-ortaokul-ek2-etkinlik-uygulama-ve-izleme-formu.docx"
+    },
+    {
+     "ad": "Yıllık Uygulama Planı",
+     "pdf": "pdf/kudus-ortaokul-yillik-uygulama-plani.pdf",
+     "sayfa": 1,
+     "boyutMB": 0.3,
+     "word": "word/kudus-ortaokul-yillik-uygulama-plani.docx"
+    },
+    {
+     "ad": "Proje Ekibi ve Görev Dağılımı",
+     "pdf": "pdf/kudus-ortaokul-proje-ekibi-ve-gorev-dagilimi.pdf",
+     "sayfa": 1,
+     "boyutMB": 0.3,
+     "word": "word/kudus-ortaokul-proje-ekibi-ve-gorev-dagilimi.docx"
+    },
+    {
+     "ad": "Veli İzin Belgesi",
+     "pdf": "pdf/kudus-ortaokul-veli-izin-belgesi.pdf",
+     "sayfa": 1,
+     "boyutMB": 0.2,
+     "word": "word/kudus-ortaokul-veli-izin-belgesi.docx"
+    }
+   ]
+  },
+  {
+   "id": "kudus-etkinlik-pano-lise",
+   "baslik": "Lise · Kudüs Ben’im Etkinlik ve Pano Seti",
+   "aciklama": "Öğretmen bilgi sayfası, bayrak harfler, köşe başlığı, bilgi kartları, harita-zaman çizelgesi, araştırma kartı, film okuma formu, okuma günlüğü, değer kartları, fotoğraf çerçeveleri ve süsler. İlkokul, ortaokul ve lise için ortak set. Kaynak: DÖGM Kudüs Ben’im Projesi Uygulama Kılavuzu 2026-2027.",
+   "kapak": "kapak/kudus-etkinlik-pano.jpg",
+   "aktif": true,
+   "kademe": "lise",
+   "ay": "genel",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Etkinlik ve Pano Seti",
+     "pdf": "pdf/kudus-benim-etkinlik-ve-pano-seti.pdf",
+     "sayfa": 14,
+     "boyutMB": 3.3
+    }
+   ]
+  },
+  {
+   "id": "kudus-evrak-lise",
+   "baslik": "Lise · Kudüs Ben’im Evrakları",
+   "aciklama": "EK-1 ve EK-2 kılavuzdaki formlardır; yıllık uygulama planı, proje ekibi ve görev dağılımı ile veli izin belgesi kılavuzun istediği kayıtlar için hazırlanmıştır. PDF ve Word. Kaynak: DÖGM Kudüs Ben’im Projesi Uygulama Kılavuzu 2026-2027.",
+   "kapak": "kapak/kudus-evrak-lise.jpg",
+   "aktif": true,
+   "kademe": "lise",
+   "ay": "genel",
+   "sira": 2,
+   "dosyalar": [
+    {
+     "ad": "EK-1 Okul Etkinlik Planlama Formu",
+     "pdf": "pdf/kudus-lise-ek1-okul-etkinlik-planlama-formu.pdf",
+     "sayfa": 1,
+     "boyutMB": 0.2,
+     "word": "word/kudus-lise-ek1-okul-etkinlik-planlama-formu.docx"
+    },
+    {
+     "ad": "EK-2 Etkinlik Uygulama ve İzleme Formu",
+     "pdf": "pdf/kudus-lise-ek2-etkinlik-uygulama-ve-izleme-formu.pdf",
+     "sayfa": 1,
+     "boyutMB": 0.2,
+     "word": "word/kudus-lise-ek2-etkinlik-uygulama-ve-izleme-formu.docx"
+    },
+    {
+     "ad": "Yıllık Uygulama Planı",
+     "pdf": "pdf/kudus-lise-yillik-uygulama-plani.pdf",
+     "sayfa": 1,
+     "boyutMB": 0.3,
+     "word": "word/kudus-lise-yillik-uygulama-plani.docx"
+    },
+    {
+     "ad": "Proje Ekibi ve Görev Dağılımı",
+     "pdf": "pdf/kudus-lise-proje-ekibi-ve-gorev-dagilimi.pdf",
+     "sayfa": 1,
+     "boyutMB": 0.3,
+     "word": "word/kudus-lise-proje-ekibi-ve-gorev-dagilimi.docx"
+    },
+    {
+     "ad": "Veli İzin Belgesi",
+     "pdf": "pdf/kudus-lise-veli-izin-belgesi.pdf",
+     "sayfa": 1,
+     "boyutMB": 0.2,
+     "word": "word/kudus-lise-veli-izin-belgesi.docx"
+    }
+   ]
+  }
+ ]
+}
