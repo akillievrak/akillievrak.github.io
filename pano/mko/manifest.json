@@ -1,0 +1,24 @@
+{
+ "surum": 2,
+ "guncelleme": "2026-11-06",
+ "paketler": [
+  {
+   "id": "mko-kasim-oyun-kartlari",
+   "baslik": "Kasım · Oyun Kartları ve Materyaller",
+   "aciklama": "6 oyun kartı, Hımbıl kelime kartları ve puan çizelgesi, Kabak numara kartları, Sessiz İstasyon kartları",
+   "kapak": "kapak/mko-kasim-oyun-kartlari.jpg",
+   "aktif": true,
+   "kademe": "hepsi",
+   "ay": "kasim",
+   "sira": 1,
+   "dosyalar": [
+    {
+     "ad": "Oyun Kartları ve Materyaller",
+     "pdf": "pdf/mko-kasim-oyun-kartlari-ve-materyalleri.pdf",
+     "sayfa": 16,
+     "boyutMB": 6.3
+    }
+   ]
+  }
+ ]
+}
