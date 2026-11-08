@@ -158,6 +158,12 @@
      "pdf": "pdf/10-kasim-ataturk-madalyonu-pano-10-a4.pdf",
      "sayfa": 10,
      "boyutMB": 2.4
+    },
+    {
+     "ad": "Atatürk Portresi Panosu (4 A4)",
+     "pdf": "pdf/10-kasim-ataturk-portresi-pano-4-a4.pdf",
+     "sayfa": 5,
+     "boyutMB": 1.9
     }
    ]
   },
